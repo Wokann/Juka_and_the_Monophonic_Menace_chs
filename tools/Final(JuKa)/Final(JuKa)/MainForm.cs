@@ -177,9 +177,16 @@ namespace Final_JuKa_
 			string CD = "—————结束—————";
 			
 			string Wb1 = txtStream.ReadLine();
-			if (Wb1.StartsWith("\uFEFF"))	//utf8 with bom 检查
+			if (Wb1 != null && Wb1.StartsWith("\uFEFF"))	//utf8 with bom 检查
 			{
-				Wb1 = Wb1.Substring(1); // 去掉 BOM
+				if (Wb1.Length > 1)
+				{
+					Wb1 = Wb1.Substring(1); // 去掉 BOM
+				}
+				else
+				{
+					Wb1 = ""; // 如果 BOM 后没有内容，设置为空字符串
+				}
 			}
 			
 			while (Wb1!=null){
@@ -324,9 +331,16 @@ namespace Final_JuKa_
 			CD = "－－－－结束－－－－";
 			
 			Wb1 = txtStream1.ReadLine();
-			if (Wb1.StartsWith("\uFEFF"))	//utf8 with bom 检查
+			if (Wb1 != null && Wb1.StartsWith("\uFEFF"))	//utf8 with bom 检查
 			{
-				Wb1 = Wb1.Substring(1); // 去掉 BOM
+				if (Wb1.Length > 1)
+				{
+					Wb1 = Wb1.Substring(1); // 去掉 BOM
+				}
+				else
+				{
+					Wb1 = ""; // 如果 BOM 后没有内容，设置为空字符串
+				}
 			}
 			
 			while (Wb1!=null){
@@ -810,9 +824,16 @@ namespace Final_JuKa_
 			txt_File.Seek(0,SeekOrigin.Begin);
 			
 			Wb1 = txtStream.ReadLine();
-			if (Wb1.StartsWith("\uFEFF"))	//utf8 with bom 检查
+			if (Wb1 != null && Wb1.StartsWith("\uFEFF"))	//utf8 with bom 检查
 			{
-				Wb1 = Wb1.Substring(1); // 去掉 BOM
+				if (Wb1.Length > 1)
+				{
+					Wb1 = Wb1.Substring(1); // 去掉 BOM
+				}
+				else
+				{
+					Wb1 = ""; // 如果 BOM 后没有内容，设置为空字符串
+				}
 			}
 			
 			while ( Wb1 != null) {
@@ -1132,9 +1153,16 @@ namespace Final_JuKa_
 			txt_File1.Seek(0,SeekOrigin.Begin);
 			
 			Wb1 = txtStream1.ReadLine();
-			if (Wb1.StartsWith("\uFEFF"))	//utf8 with bom 检查
+			if (Wb1 != null && Wb1.StartsWith("\uFEFF"))	//utf8 with bom 检查
 			{
-				Wb1 = Wb1.Substring(1); // 去掉 BOM
+				if (Wb1.Length > 1)
+				{
+					Wb1 = Wb1.Substring(1); // 去掉 BOM
+				}
+				else
+				{
+					Wb1 = ""; // 如果 BOM 后没有内容，设置为空字符串
+				}
 			}
 			
 			while ( Wb1 != null) {
