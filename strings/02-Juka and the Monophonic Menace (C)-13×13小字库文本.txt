@@ -405,7 +405,7 @@ Creatures - Page 00
 －－－－译文－－－－
 生物－第00页
 －－－－结束－－－－
-重复文本
+
 －－－－备注－－－－
 
 
@@ -3674,7 +3674,7 @@ nts. Not targetable by the Sound Staff.
 －－－－原文－－－－
 [FD]Antibufo[FD]
 －－－－译文－－－－
-[FD]弗巴[FD]
+[FD]对立巴弗[FD]
 －－－－结束－－－－
 
 －－－－备注－－－－

@@ -1555,9 +1555,9 @@ Potion.
 —————原文—————
 Not enough shield energy...
 —————译文—————
-护盾能量不足……
-—————结束—————
 
+—————结束—————
+护盾能量不足……
 —————备注—————
 
 
@@ -4504,7 +4504,7 @@ What are YOU doing all the way out here??
 Never mind that... Look out! It's coming 
 back again!
 —————译文—————
-算了……
+别再想那个了……
 小心！它又来了！
 —————结束—————
 
@@ -4518,7 +4518,7 @@ Now, do you mind telling me what you're d
 oing here?
 —————译文—————
 现在你能告诉我你在这里
-做了什么吗？
+做什么了吗？
 —————结束—————
 
 —————备注—————
@@ -9334,7 +9334,7 @@ Ow! No need to yell in my ear...
 —————原文—————
 Told you they could talk...
 —————译文—————
-跟你说过他们会说话的。
+跟你说过它们会说话的。
 —————结束—————
 
 —————备注—————
@@ -9738,7 +9738,7 @@ Thank you for returning my Element!
 —————原文—————
 OH, WHERE HAVE YOU GONE...?
 —————译文—————
-噢，你到哪去了？
+喂，你之前去了哪里？
 —————结束—————
 
 —————备注—————
@@ -9810,8 +9810,8 @@ r path leads deeper into the Cliffs.
 知。
 那就简单了……很好。
 我猜我只需等在这里。那
-么，较低的路通往元素。
-高些的通往悬崖深处。
+么，下层的路通往元素。
+上层的通往悬崖深处。
 —————结束—————
 
 —————备注—————
@@ -9823,7 +9823,8 @@ r path leads deeper into the Cliffs.
 It's a giant rock. Does it really have a 
 choice?
 —————译文—————
-是块巨石。还有得选吗？
+上层路上有块巨石。
+这还有得选吗？
 —————结束—————
 
 —————备注—————
@@ -9917,9 +9918,9 @@ NOT LIKELY. THE RUINSTONE OF THE GREAT MO
 UNTAIN DOES NOT GIVE OUT ITS SECRETS TO 
 EVERYONE WHO WALKS BY, YOU KNOW...
 —————译文—————
-恐怕不能，大山遗迹石可
-不会和随便一个走过来的
-人分享他的秘密……
+恐怕不能，宏伟山遗迹石
+可不会和随便一个走过来
+的人分享他的秘密……
 —————结束—————
 
 —————备注—————
@@ -11325,8 +11326,8 @@ could use 'em to make [FD]Cyan Ingredients[FD]
 .
 —————译文—————
 朱卡，他说的应该是[FD]寒霜
-音叉[FD]。你能用他们做出[FD]青
-色配料[FD]。
+音叉[FD]。你能用它做出[FD]青色
+配料[FD]。
 —————结束—————
 
 —————备注—————
