@@ -8,7 +8,7 @@ setlocal enabledelayedexpansion
     set "tool_armips=.\tools\armips\armips.exe"
     set "Test_Date=20241214"
 
-    set "Input_Rom_Name=Juka and the Monophonic Menace (USA) (En,Fr,Es)"
+    set "Input_Rom_Name=2528 - Juka and the Monophonic Menace (USA) (En,Fr,Es)"
     set "Input_Rom=.\rom\%Input_Rom_Name%.gba"
 
     set "Output_Rom_Name=Juka and the Monophonic Menace (C)"
