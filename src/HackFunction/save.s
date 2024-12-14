@@ -1,8 +1,4 @@
-.gba
-.create Output_Rom,0x08000000
-.close
-.open Input_Rom,Output_Rom,0x08000000
-
+;此程序用于修复eeprom 16MB存档读写函数在汉化超容后的问题，更新至eeprom 32MB存档读写函数
 gEEPROMConfig               equ 0x03006600
 EEPROM_SaveAddress          equ 0x0DFFFF00
 
@@ -19,7 +15,7 @@ EEPROMCompare               equ 0x08027968 //nothing to hack
 EEPROMWrite1_check          equ 0x08027A00 //nothing to hack
 
 HardwareSaveFlag            equ 0x06017FFC
-Hack_Address                equ 0x09200000
+Hack_Address                equ 0x09A00000
 
 ;.org 0x080000A0
 ;   .asciiz "CRAFTSWORD HB3CJ"
@@ -630,39 +626,3 @@ Hack_Address                equ 0x09200000
    pop {r1}
    bx r1
 .endfunc
-
-;末尾字节填充
-;若不填充满32MB也可，但需要注意以下使用情况
-;1、SRAM盗卡烧录时，需确保32MB空间全部擦除，避免0x01FFFF00-0x01FFFFFF最后0x100字节有内容残留
-;2、在ezo(de)运行时，由于auto模式读取rom头数据库确定存档类型，无法正常应用修复过的eeprom，解决方法有如下几种：
-;  2-1:eeprom修复版rom，将rom头游戏代码改为铸剑3、蜡笔小新等游戏即可(ezo数据库内识别存档模式为0x23)
-;  2-2:eeprom修复版rom，进入游戏前设置eeprom8K存档格式打开，且文件大小必须大于0x01200000(小于等于时不会切换为0x23存档模式)
-EndHack:
-   ;切换填充模式，请更改 IfFill32MB 的定义值
-   IfFill32MB    equ   0
-   .if (IfFill32MB == 1)
-      ;填充满32MB模式
-      .fill (0x0A000000 - EndHack),0x00
-   .elseif (IfFill32MB == 0)
-      ;不填充满32MB模式
-      .if (EndHack > 0x09200000)
-         .align 16
-      .else
-         .fill (0x09200010 - EndHack),0x00
-      .endif
-   .endif
-
-;火神文本程序修复
-.org 0x0820a080
-   ldr r5,[pc,0x30]
-   cmp r0,r5
-   beq 0x0820a0f0
-   ldr r5,=0x0820e178
-   cmp r0,r5
-   beq 0x0820a0f0
-   b 0x0820a0d0
- .pool
-
-.org 0x0820a0b4
- .word 0x0820e170
-.close
