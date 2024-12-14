@@ -120,5 +120,5 @@ GeneratedFiles/
 *.ss3
 *.ss4
 *.sym
-
+*.temp
 # End of `.gitignore`
