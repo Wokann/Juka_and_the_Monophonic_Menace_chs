@@ -9,6 +9,9 @@
 .include ".\src\HackFunction\font.s"
 ;eeprom存档功能修复
 .include ".\src\HackFunction\save.s"
+;片头
+.include ".\src\HookInOrigin\intro.s"
+.include ".\src\HackFunction\intro.s"
 
 
 ;末尾字节填充（eeprom存档修复的一环）
