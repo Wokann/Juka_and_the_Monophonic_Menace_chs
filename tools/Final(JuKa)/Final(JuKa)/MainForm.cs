@@ -1480,10 +1480,10 @@ namespace Final_JuKa_
 			jdStream.Close();
 			jd_File.Close();
 
-			#endregion
-			
-			MessageBox.Show("Juka and the Monophonic Menace (C)文本智能导入完成！！" + "\n" + warntxt, "魔导成功！", MessageBoxButtons.OK,MessageBoxIcon.Warning);
-			System.Environment.Exit(0);
+            #endregion
+
+            //MessageBox.Show("Juka and the Monophonic Menace (C)文本智能导入完成！！" + "\n" + warntxt, "魔导成功！", MessageBoxButtons.OK,MessageBoxIcon.Warning);
+            System.Environment.Exit(0);
 			//
 		}
 	}
