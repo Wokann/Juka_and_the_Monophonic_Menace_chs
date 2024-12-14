@@ -33,10 +33,11 @@ namespace Final_JuKa_
 			#region 文件操作
 			
 			string autopath = Directory.GetCurrentDirectory();
-			
-			string ini_path = autopath +"\\"+ "Data" +"\\"+"Final(JuKa).ini";
-			
-			if (!(File.Exists(@ini_path))){
+
+            //string ini_path = autopath + "\\" + "Data" + "\\" + "Final(JuKa).ini";
+            string ini_path = autopath + "\\..\\..\\"+ "data" + "\\" + "Final(JuKa).ini";
+
+            if (!(File.Exists(@ini_path))){
 				MessageBox.Show("Final(JuKa).ini配置文件不存在","告警！", MessageBoxButtons.OK,MessageBoxIcon.Warning);
 				System.Environment.Exit(0);
 			}
@@ -46,32 +47,48 @@ namespace Final_JuKa_
 			
 			string rom_name = set_ini.ReadLine();
 			rom_name = set_ini.ReadLine();
-			string rom_name1 = autopath +"\\"+ "Data" +"\\"+rom_name;
-			string rom_name2 = autopath +"\\"+ rom_name;
-			
-			string txt_name1 = set_ini.ReadLine();
+            //string rom_name1 = autopath + "\\" + "Data" + "\\" + rom_name;
+            //string rom_name2 = autopath + "\\" + rom_name;
+            string rom_name1 = autopath + "\\..\\..\\rom\\" + rom_name;
+            string rom_name2 = autopath + "\\..\\..\\" + rom_name;
+
+            string txt_name1 = set_ini.ReadLine();
 			txt_name1 = set_ini.ReadLine();
-			txt_name1 = autopath +"\\"+ txt_name1;
-			
-			string txt_name2 = set_ini.ReadLine();
-			txt_name2 = autopath +"\\"+ txt_name2;
-			
-			string tbl_name1 = set_ini.ReadLine();
+            //txt_name1 = autopath + "\\" + txt_name1;
+            txt_name1 = autopath + "\\..\\..\\" + "strings" + "\\" + txt_name1;
+
+            string txt_name2 = set_ini.ReadLine();
+            //txt_name2 = autopath + "\\" + txt_name2;
+            txt_name2 = autopath + "\\..\\..\\" + "strings" + "\\" + txt_name2;
+
+            string tbl_name1 = set_ini.ReadLine();
 			tbl_name1 = set_ini.ReadLine();
-			tbl_name1 = autopath +"\\"+ "Data" +"\\"+tbl_name1;
-			
-			string tbl_name2 = set_ini.ReadLine();
-			tbl_name2 = autopath +"\\"+ "Data" +"\\"+tbl_name2;
-			
-			string fy_name = set_ini.ReadLine();
+            //tbl_name1 = autopath + "\\" + "Data" + "\\" + tbl_name1;
+            tbl_name1 = autopath + "\\..\\..\\" + "data" + "\\" + tbl_name1;
+
+            string tbl_name2 = set_ini.ReadLine();
+            //tbl_name2 = autopath + "\\" + "Data" + "\\" + tbl_name2;
+            tbl_name2 = autopath + "\\..\\..\\" + "data" + "\\" + tbl_name2;
+
+            string fy_name = set_ini.ReadLine();
 			fy_name = set_ini.ReadLine();
-			fy_name = autopath +"\\"+fy_name;
-			
-			string jd_name = set_ini.ReadLine();
+            //fy_name = autopath + "\\" + fy_name;
+            fy_name = autopath + "\\..\\..\\" + fy_name;
+
+            string jd_name = set_ini.ReadLine();
 			jd_name = set_ini.ReadLine();
-			jd_name = autopath +"\\"+jd_name;
-			
-			set_ini.Close();
+            //jd_name = autopath + "\\" + jd_name;
+            jd_name = autopath + "\\..\\..\\" + jd_name;
+            /*MessageBox.Show($"读取到的 ini_path: {ini_path}\n" +
+				$"读取到的 rom_name1: {rom_name1}\n" +
+				$"读取到的 rom_name2: {rom_name2}\n" +
+				$"读取到的 txt_name1: {txt_name1}\n" +
+				$"读取到的 txt_name2: {txt_name2}\n" +
+				$"读取到的 tbl_name1: {tbl_name1}\n" +
+				$"读取到的 tbl_name2: {tbl_name2}\n" +
+				$"读取到的 fy_name: {fy_name}\n" +
+				$"读取到的 jd_name: {jd_name}\n", "信息", MessageBoxButtons.OK, MessageBoxIcon.Information);*/
+            set_ini.Close();
 			ini.Close();
 			
 			if (!(File.Exists(@rom_name1)))
@@ -521,9 +538,9 @@ namespace Final_JuKa_
 			
 			#region　写入字库
 			
-			int Addr_Zk = 0xF7CC10;
+			int Addr_Zk = 0xF7CC10 + 0x087300;
 			
-			int Addr_Pk = 0x10B5624;
+			int Addr_Pk = 0x10B5624 + 0x087300;
 			
 			int Addr_Zkxr = 0;
 			
@@ -537,7 +554,8 @@ namespace Final_JuKa_
 			
 			PrivateFontCollection newfont = new PrivateFontCollection();
 			
-			newfont.AddFontFile(autopath + @"\Data\SIMSUN-XP.TTC");//加载路径的字体
+			//newfont.AddFontFile(autopath + @"\Data\SIMSUN-XP.TTC");//加载路径的字体
+			newfont.AddFontFile(autopath + @"\..\..\data\SIMSUN-XP.TTC");//加载路径的字体
 			
 			Font st = new Font(newfont.Families[2], 10);//0=宋体 2=新宋体
 			
@@ -641,9 +659,9 @@ namespace Final_JuKa_
 			}
 			
 			//写入小字库
-			Addr_Zk = 0x10BA7A8;
+			Addr_Zk = 0x10BA7A8 + 0x087300;
 			
-			Addr_Pk = 0x10E66F8;
+			Addr_Pk = 0x10E66F8 + 0x087300;
 			
 			Addr_Zkxr = 0;
 			
@@ -763,7 +781,7 @@ namespace Final_JuKa_
 			
 			uint dizhi = 0;
 			uint wbdizhi = 0;
-			uint ckdizhi = 0x10E76E8;
+			uint ckdizhi = 0x10E76E8 + 0x872A8;
 			uint xdizhi = 0;
 			
 			int changdu = 0;
@@ -1044,7 +1062,7 @@ namespace Final_JuKa_
 							
 							//第一段文本写到这里0x1135000，然后后面的文本接着上一句的末尾继续写
 							
-							if (ckdizhi == 0x10E76E8)	{
+							if (ckdizhi == (0x10E76E8 + 0x872A8))	{
 								
 								Rom.Seek(ckdizhi, SeekOrigin.Begin);
 								
@@ -1261,7 +1279,7 @@ namespace Final_JuKa_
 							
 							//第一段文本写到这里0x1135000，然后后面的文本接着上一句的末尾继续写
 							
-							if (ckdizhi == 0x1135000)	{
+							if (ckdizhi == 0x10E76E8 + 0x872A8)	{
 								
 								Rom.Seek(ckdizhi, SeekOrigin.Begin);
 								
