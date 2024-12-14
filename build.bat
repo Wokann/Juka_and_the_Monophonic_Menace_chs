@@ -12,9 +12,9 @@ setlocal enabledelayedexpansion
     set "Input_Rom=.\rom\%Input_Rom_Name%.gba"
 
     set "Output_Rom_Name=Juka and the Monophonic Menace (C)"
-    set "Output_Rom=.\%Output_Rom_Name%_%Test_Date%.gba"
-    set "Output_Sym=.\%Output_Rom_Name%_%Test_Date%.sym"
-    set "Output_Temp=.\%Output_Rom_Name%_%Test_Date%.temp"
+    set "Output_Rom=.\rom\%Output_Rom_Name%.gba"
+    set "Output_Sym=.\%Output_Rom_Name%.sym"
+    set "Output_Temp=.\%Output_Rom_Name%.temp"
 
     :: 检查原始rom是否存在
     if not exist "%Input_Rom%" (
@@ -33,7 +33,13 @@ setlocal enabledelayedexpansion
             @echo Error^^!
             goto :Exit
             )
-    @echo Patched^^!
+    @echo armips Patched^^!
+
+    cd .\tools\Final(JuKa)
+    "Final(JuKa).exe"
+    cd ..\..\
+    @echo Final(JuKa) Patched^^!
+    del /Q "%Output_Rom%"
     goto :Exit
 
 
