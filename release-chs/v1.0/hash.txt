@@ -1,0 +1,9 @@
+朱卡和单音麦纳斯【1.0】.gba
+CRC32: fcef3257
+MD5  : 76a317d3ad73f53c14c6c9ed19e9064a
+SHA1 : 28bb68ea5d3a8f5447ff473c3144b8224bc735d1
+
+2528 - Juka and the Monophonic Menace (USA) (En,Fr,Es).gba
+CRC32: 0c04a2f9
+MD5  : 86f5da57ec34ecf1c2710befa3d2c5de
+SHA1 : 3fd9ac2af773a2d47eb024225e78c22cafcac9fd
