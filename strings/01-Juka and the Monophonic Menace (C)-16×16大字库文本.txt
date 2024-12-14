@@ -1,0 +1,12779 @@
+﻿指针地址：00276CC0
+文本地址：002106EE
+—————原文—————
+Long ago, the Ancients ruled the land of 
+Obla with their mighty sound-machines. A
+lthough they have long since vanished, t
+heir wondrous devices and ruins remain, 
+waiting to be discovered.
+—————译文—————
+很久很久以前，先民们用他
+们强大的声音机器统治着奥
+勃拉大陆。
+虽然他们已消失于历史之中
+，但他们神奇的遗迹仍然保
+存着，等待着人们去发现。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00276CD8
+文本地址：00210B56
+—————原文—————
+The Settlers came to Obla many cycles lat
+er and were prosperous and peaceful, unt
+il the finding of Ancients' Technology l
+ed to the Great War. In the present, a f
+ragile society lives in a shaky peace. [FC]
+This is where the real story begins, wit
+h a young adventurer named Juka...
+—————译文—————
+多次文明的循环之后，移民
+来到了奥勃拉大陆，平静而
+繁荣的生活着。
+直到先民的技术被发现，引
+发了战火。而今的社会正处
+于摇摇欲坠的动荡中。[FC]
+我们的故事就从这里开始，
+有一位名叫朱卡的年轻探险
+家……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00276E10
+文本地址：002114D5
+—————原文—————
+Good job Kid... You made a [FD]Sleep Potion.
+
+—————译文—————
+干得好，孩子……
+你做出了[FD]催眠药剂[FD]。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00276E28
+文本地址：002115EE
+—————原文—————
+OK, Juka. That one's a [FD]Sleep Potion.
+—————译文—————
+好的，朱卡。
+这就是[FD]催眠药剂[FD]。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00276E40
+文本地址：002116C0
+—————原文—————
+This time, you made a [FD]Sleep Potion[FD], Juk
+a
+—————译文—————
+这一次，朱卡，你做出了
+[FD]催眠药剂[FD]，
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00276E58
+文本地址：002117BE
+—————原文—————
+Looks like you made a [FD]Sleep Potion[FD], Juk
+a
+—————译文—————
+看来你做出了
+[FD]催眠药剂[FD]，朱卡。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00276E70
+文本地址：002118B7
+—————原文—————
+Alright Juka, you made an [FD]Unlock Potion.
+—————译文—————
+很好，朱卡，你做出了
+[FD]开锁药剂[FD]。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00276E88
+文本地址：002119AE
+—————原文—————
+[FD]Unlock Potion[FD] succesfully created, Kid.
+
+—————译文—————
+[FD]开锁药剂[FD]制成了，孩子。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00276EA0
+文本地址：00211AAA
+—————原文—————
+Seems like you made an [FD]Unlock Potion[FD], J
+uka.
+—————译文—————
+看来你做出了
+[FD]开锁药剂[FD]，朱卡。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00276EB8
+文本地址：00211BAD
+—————原文—————
+You just made an [FD]Unlock Potion[FD], Juka.
+—————译文—————
+你刚做成了
+[FD]开锁药剂[FD]，朱卡。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00276ED0
+文本地址：00211C92
+—————原文—————
+Well done, Juka. You made a [FD]Animate Poti
+on.
+—————译文—————
+干得漂亮，朱卡。
+你做出了[FD]活化药剂[FD]。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00276EE8
+文本地址：00211DA0
+—————原文—————
+You made an [FD]Animate Potion[FD], Kid.
+—————译文—————
+你做出了[FD]活化药剂[FD]，
+孩子。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00276F00
+文本地址：00211E78
+—————原文—————
+That seems to be an [FD]Animate Potion[FD], Juk
+a.
+—————译文—————
+看来这就是
+[FD]活化药剂[FD]了，朱卡。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00276F18
+文本地址：00211F6F
+—————原文—————
+Juka, you just made an [FD]Animate Potion.
+—————译文—————
+朱卡，你刚做出了
+[FD]活化药剂[FD]。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00276F30
+文本地址：00212056
+—————原文—————
+OK, Kid. This time, you made an [FD]Activati
+on Potion.
+—————译文—————
+好啊，孩子。
+这次你做出了[FD]激活药剂[FD]。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00276F48
+文本地址：00212186
+—————原文—————
+[FD]Activation Potion[FD] made succesfully, Juk
+a.
+—————译文—————
+[FD]激活药剂[FD]制成了，朱卡。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00276F60
+文本地址：0021227D
+—————原文—————
+You made an [FD]Activation Potion[FD] this time
+, Juka.
+—————译文—————
+这次你做的是[FD]激活药剂[FD]，
+朱卡。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00276F78
+文本地址：0021237B
+—————原文—————
+Looks like an [FD]Activation Potion[FD] this ti
+me, Kid.
+—————译文—————
+看来这次是[FD]激活药剂[FD]啊，
+朱卡。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00276F90
+文本地址：00212479
+—————原文—————
+Alright Juka, you made a [FD]Flash Potion.
+—————译文—————
+很好，朱卡，你做了
+[FD]闪光药剂。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00276FA8
+文本地址：0021256A
+—————原文—————
+This one's a [FD]Flash Potion[FD], Juka.
+—————译文—————
+这个是[FD]闪光药剂[FD]，
+朱卡。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00276FC0
+文本地址：00212622
+—————原文—————
+Alright Juka, you made a [FD]Flash Potion.
+—————译文—————
+很好，朱卡，你做出了
+[FD]闪光药剂。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00276FD8
+文本地址：0021271A
+—————原文—————
+[FD]Flash Potion[FD] succesfully created, Juka.
+
+—————译文—————
+[FD]闪光药剂[FD]制成了，朱卡。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00276FF0
+文本地址：002127FC
+—————原文—————
+Hmmmm.. Juka, this one seems to be a [FD]Dra
+in Potion.
+—————译文—————
+嗯……朱卡，看来这个是
+[FD]吸取药剂[FD]。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00277008
+文本地址：0021290D
+—————原文—————
+You made a [FD]Drain Potion[FD], Juka.
+—————译文—————
+你做出了[FD]吸取药剂[FD]，
+朱卡。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00277020
+文本地址：002129DA
+—————原文—————
+You just made a [FD]Drain Potion[FD], Kid.
+—————译文—————
+你刚做出了[FD]吸取药剂[FD]，
+孩子。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00277038
+文本地址：00212ACA
+—————原文—————
+That combination has produced a [FD]Drain Po
+tion.
+—————译文—————
+这种组合制成了
+[FD]吸取药剂[FD]。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00277050
+文本地址：00212BCA
+—————原文—————
+Way to go, Kid! You made a [FD]Summon Potion
+.
+—————译文—————
+棒极了！孩子，你做出了
+[FD]召唤药剂[FD]。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00277068
+文本地址：00212CDA
+—————原文—————
+Huh. You made a [FD]Summon Potion[FD], Juka.
+—————译文—————
+哈，你做了[FD]召唤药剂[FD]啊，
+朱卡。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00277080
+文本地址：00212DC6
+—————原文—————
+That one's a [FD]Summon Potion[FD], Juka.
+—————译文—————
+这是[FD]召唤药剂[FD]，朱卡。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00277098
+文本地址：00212E88
+—————原文—————
+That [FD]Summon Potion[FD] should help ya out, 
+Kid.
+—————译文—————
+[FD]召唤药剂[FD]会很有用的，
+孩子。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002770B0
+文本地址：00212F99
+—————原文—————
+OK, Juka. This time, you made a [FD]Slow Pot
+ion.
+—————译文—————
+好啊，朱卡。这一次你做
+出了[FD]缓速药剂。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002770C8
+文本地址：002130AA
+—————原文—————
+I guess you made a [FD]Slow Potion[FD], huh Kid
+?
+—————译文—————
+我猜你做的是[FD]缓速药剂[FD]，
+是不是啊？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002770E0
+文本地址：002131CF
+—————原文—————
+That recipe created a [FD]Slow Potion[FD], Juka
+.
+—————译文—————
+按这种配方做的是[FD]缓速药
+剂[FD]，朱卡。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002770F8
+文本地址：002132DD
+—————原文—————
+[FD]Slow Potion[FD] created succesfully, Juka.
+—————译文—————
+[FD]缓速药剂[FD]制成了，朱卡。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00277110
+文本地址：002133D3
+—————原文—————
+Well done, Kid. This one seems to be a [FD]S
+top Time Potion.
+—————译文—————
+干得好，孩子。
+这个看来是[FD]暂停药剂[FD]。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00277128
+文本地址：0021350D
+—————原文—————
+OK, Juka. You made a [FD]Stop Time Potion.
+—————译文—————
+好，朱卡，你做出了
+[FD]暂停药剂[FD]。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00277140
+文本地址：0021360D
+—————原文—————
+That one you just made is a [FD]Stop Time Po
+tion.
+—————译文—————
+你刚做的这个是
+[FD]暂停药剂[FD]。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00277158
+文本地址：0021371B
+—————原文—————
+You made a [FD]Stop Time Potion[FD], Juka.
+—————译文—————
+你做出了[FD]暂停药剂[FD]，
+朱卡。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00277170
+文本地址：00213804
+—————原文—————
+OK, Kid. This time, you made a [FD]Yeti Poti
+on.
+—————译文—————
+好了，孩子，这次你做的
+是[FD]雪人药剂[FD]。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00277188
+文本地址：002138FF
+—————原文—————
+You made a [FD]Yeti Potion[FD], Juka.
+—————译文—————
+你做出了[FD]雪人药剂[FD]，
+孩子。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002771A0
+文本地址：002139C0
+—————原文—————
+This mix produced a [FD]Yeti Potion[FD], Juka.
+—————译文—————
+这种配比做出的是
+[FD]雪人药剂[FD]，朱卡。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002771B8
+文本地址：00213AAC
+—————原文—————
+Right. Juka, you just made a [FD]Yeti Potion
+.
+—————译文—————
+没错，朱卡，你做出了
+[FD]雪人药剂[FD]。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002771D0
+文本地址：00213BAB
+—————原文—————
+Can't carry any more Sleep potions.
+—————译文—————
+无法携带更多催眠药剂。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002771E8
+文本地址：00213C8E
+—————原文—————
+Can't carry any more Unlock potions.
+—————译文—————
+无法携带更多开锁药剂。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00277200
+文本地址：00213D71
+—————原文—————
+Can't carry any more Animate potions.
+—————译文—————
+无法携带更多活化药剂。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00277218
+文本地址：00213E57
+—————原文—————
+Can't carry any more Activation potions.
+—————译文—————
+无法携带更多激活药剂。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00277230
+文本地址：00213F43
+—————原文—————
+Can't carry any more Flash potions.
+—————译文—————
+无法携带更多闪光药剂。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00277248
+文本地址：00214024
+—————原文—————
+Can't carry any more Drain potions.
+—————译文—————
+无法携带更多吸取药剂。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00277260
+文本地址：00214111
+—————原文—————
+Can't carry any more Summon potions.
+—————译文—————
+无法携带更多召唤药剂。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00277278
+文本地址：002141FF
+—————原文—————
+Can't carry any more Silence potions.
+—————译文—————
+无法携带更多沉默药剂。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00277290
+文本地址：002142E7
+—————原文—————
+Can't carry any more Stop Time potions.
+—————译文—————
+无法携带更多暂停药剂。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002772A8
+文本地址：002143E1
+—————原文—————
+Can't carry any more Yeti potions.
+—————译文—————
+无法携带更多雪人药剂。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002772C0
+文本地址：002144B3
+—————原文—————
+Invalid combination. Please try again.
+—————译文—————
+无效的组合，请重试。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002772D8
+文本地址：00214576
+—————原文—————
+That's not gonna work. You gotta have at 
+least 3 kinds of Ingredients.
+—————译文—————
+这样不行，你至少得用３
+种配料进行组合。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002772F0
+文本地址：002146CF
+—————原文—————
+Juka, that potion doesn't work that way. 
+Try using it on something else.
+—————译文—————
+朱卡，这药剂不是这么用
+的。在别的地方使用试试
+看。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00277308
+文本地址：0021484F
+—————原文—————
+Great Juka! Now you can pick up the [FD]Yell
+ow Ingredients[FD].
+—————译文—————
+棒极了！朱卡，现在你能
+拾取[FD]黄色配料[FD]了。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00277320
+文本地址：00214997
+—————原文—————
+With this [FD]Big Yellow Jar[FD], you can now h
+old [FD]99 Yellow Ingredients[FD].
+—————译文—————
+有了这个[FD]大黄瓶[FD]，你现在
+能装下[FD]９９个黄色配料[FD]了
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00277338
+文本地址：00214B13
+—————原文—————
+Okay Juka, with this jar you can pick up 
+[FD]Green Ingredients[FD].
+—————译文—————
+好了，朱卡，有了这个瓶子
+你就能拾取[FD]绿色配料[FD]了。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00277350
+文本地址：00214C68
+—————原文—————
+Juka, this is the [FD]Big Green Jar[FD]! It let
+s you hold [FD]99 Green Ingredients[FD].
+—————译文—————
+朱卡，这是[FD]大绿瓶[FD]！它能
+装下[FD]９９个绿色配料[FD]。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00277368
+文本地址：00214E19
+—————原文—————
+Juka, this jar can hold the [FD]Blue Ingredi
+ents[FD] that you find in the water.
+—————译文—————
+朱卡，这个瓶子能保存你
+在水中找到的[FD]蓝色配料[FD]
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00277380
+文本地址：00214FB3
+—————原文—————
+Hey, kid. This here [FD]Big Blue Jar[FD] lets y
+ou hold [FD]99 Blue Ingredients[FD].
+—————译文—————
+嘿，孩子。
+这个是[FD]大蓝瓶[FD]，你能用它
+装下[FD]９９个蓝色配料[FD]。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00277398
+文本地址：00215156
+—————原文—————
+Juka, the cliffs are full of [FD]Copper Ingr
+edients[FD], and now you can pick them up.
+—————译文—————
+朱卡，这些悬崖上到处都
+是[FD]铜配料[FD]，你现在可以收
+集它们了。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002773B0
+文本地址：00215305
+—————原文—————
+Juka, with this [FD]Big Copper Jar[FD], you can
+ hold [FD]99 Copper Ingredients[FD].
+—————译文—————
+朱卡，有了这个[FD]大铜瓶[FD]，
+你就能保存[FD]９９个铜配料[FD]
+了。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002773C8
+文本地址：002154A4
+—————原文—————
+Juka, this jar can hold the [FD]Red Ingredie
+nts[FD] found in the Ruins.
+—————译文—————
+朱卡，这个瓶子能保存你
+在遗迹中找到的[FD]红色配料[FD]
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002773E0
+文本地址：00215632
+—————原文—————
+OK, Juka... This is the [FD]Big Red Jar[FD]. Wi
+th it, you can hold [FD]99 Red Ingredients[FD]
+.
+—————译文—————
+朱卡，这就是[FD]大红瓶[FD]。
+有了它你就能保存[FD]９９个
+红色配料[FD]了。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002773F8
+文本地址：002157F9
+—————原文—————
+Juka, this jar lets you pick up [FD]Cyan Ing
+redients[FD].
+—————译文—————
+朱卡，有了这个瓶子，你
+就能拾取[FD]青色配料[FD]了。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00277410
+文本地址：0021593A
+—————原文—————
+Juka, this [FD]Big Cyan Jar[FD] will let you ho
+ld up to [FD]99 Cyan Ingredients[FD].
+—————译文—————
+朱卡，这个[FD]大青瓶[FD]能让你
+保存[FD]９９个青色配料[FD]。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00277428
+文本地址：00215ADE
+—————原文—————
+Juka, you can't pick that up without a [FD]Y
+ellow Jar[FD] to hold it.
+—————译文—————
+朱卡，没有[FD]黄瓶[FD]的话你是
+没法拾取它的。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00277440
+文本地址：00215C20
+—————原文—————
+Juka, you can't pick that up without a [FD]G
+reen Jar[FD] to hold it.
+—————译文—————
+朱卡，没有[FD]绿瓶[FD]的话你是
+没法拾取它的。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00277458
+文本地址：00215D5D
+—————原文—————
+Juka, you can't pick that up without a [FD]B
+lue Jar[FD] to hold it.
+—————译文—————
+朱卡，没有[FD]蓝瓶[FD]的话你是
+没法拾取它的。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00277470
+文本地址：00215E96
+—————原文—————
+Juka, you can't pick that up without a [FD]C
+opper Jar[FD] to hold it.
+—————译文—————
+朱卡，没有[FD]铜瓶[FD]的话你是
+没法拾取它的。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00277488
+文本地址：00215FE0
+—————原文—————
+Juka, you can't pick that up without a [FD]R
+ed Jar[FD] to hold it.
+—————译文—————
+朱卡，没有[FD]红瓶[FD]的话你是
+没法拾取它的。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002774A0
+文本地址：00216119
+—————原文—————
+Juka, you can't pick that up without a [FD]C
+yan Jar[FD] to hold it.
+—————译文—————
+朱卡，没有[FD]青瓶[FD]的话你是
+没法拾取它的。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002774B8
+文本地址：0021625F
+—————原文—————
+② 0
+—————译文—————
+
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002774BC
+文本地址：00216263
+—————原文—————
+② 0
+—————译文—————
+
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002774C0
+文本地址：00216267
+—————原文—————
+② 0
+—————译文—————
+
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002774C4
+文本地址：0021626B
+—————原文—————
+② 0
+—————译文—————
+
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002774C8
+文本地址：0021626F
+—————原文—————
+② 0
+—————译文—————
+
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002774D0
+文本地址：00216273
+—————原文—————
+② 1
+—————译文—————
+
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002774D4
+文本地址：00216277
+—————原文—————
+② 1
+—————译文—————
+
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002774D8
+文本地址：0021627B
+—————原文—————
+② 1
+—————译文—————
+
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002774DC
+文本地址：0021627F
+—————原文—————
+② 1
+—————译文—————
+
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002774E0
+文本地址：00216283
+—————原文—————
+② 1
+—————译文—————
+
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002774E8
+文本地址：00216287
+—————原文—————
+② 2
+—————译文—————
+
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002774EC
+文本地址：0021628B
+—————原文—————
+② 2
+—————译文—————
+
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002774F0
+文本地址：0021628F
+—————原文—————
+② 2
+—————译文—————
+
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002774F4
+文本地址：00216293
+—————原文—————
+② 2
+—————译文—————
+
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002774F8
+文本地址：00216297
+—————原文—————
+② 2
+—————译文—————
+
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00277500
+文本地址：0021629B
+—————原文—————
+② 3
+—————译文—————
+
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00277504
+文本地址：0021629F
+—————原文—————
+② 3
+—————译文—————
+
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00277508
+文本地址：002162A3
+—————原文—————
+② 3
+—————译文—————
+
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027750C
+文本地址：002162A7
+—————原文—————
+② 3
+—————译文—————
+
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00277510
+文本地址：002162AB
+—————原文—————
+② 3
+—————译文—————
+
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00277518
+文本地址：002162AF
+—————原文—————
+② 4
+—————译文—————
+
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027751C
+文本地址：002162B3
+—————原文—————
+② 4
+—————译文—————
+
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00277520
+文本地址：002162B7
+—————原文—————
+② 4
+—————译文—————
+
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00277524
+文本地址：002162BB
+—————原文—————
+② 4
+—————译文—————
+
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00277528
+文本地址：002162BF
+—————原文—————
+② 4
+—————译文—————
+
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00277530
+文本地址：002162C3
+—————原文—————
+② 5
+—————译文—————
+
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00277534
+文本地址：002162C7
+—————原文—————
+② 5
+—————译文—————
+
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00277538
+文本地址：002162CB
+—————原文—————
+② 5
+—————译文—————
+
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027753C
+文本地址：002162CF
+—————原文—————
+② 5
+—————译文—————
+
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00277540
+文本地址：002162D3
+—————原文—————
+② 5
+—————译文—————
+
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00277548
+文本地址：002162D7
+—————原文—————
+② 6
+—————译文—————
+
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027754C
+文本地址：002162DB
+—————原文—————
+② 6
+—————译文—————
+
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00277550
+文本地址：002162DF
+—————原文—————
+② 6
+—————译文—————
+
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00277554
+文本地址：002162E3
+—————原文—————
+② 6
+—————译文—————
+
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00277558
+文本地址：002162E7
+—————原文—————
+② 6
+—————译文—————
+
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00277560
+文本地址：002162EB
+—————原文—————
+Juka, this is the recipe for an Animate P
+otion.
+—————译文—————
+朱卡，这是活化药剂的配
+方。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00277578
+文本地址：002163E7
+—————原文—————
+Juka, this is the recipe for an Unlock Po
+tion.
+—————译文—————
+朱卡，这是开锁药剂的配
+方。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00277590
+文本地址：002164DF
+—————原文—————
+Juka, this is the recipe for a Yeti Potio
+n.
+—————译文—————
+朱卡，这是雪人药剂的配
+方。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002775A8
+文本地址：002165C7
+—————原文—————
+Juka, this is the recipe for a Flash Poti
+on.
+—————译文—————
+朱卡，这是闪光药剂的配
+方。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002775C0
+文本地址：002166BE
+—————原文—————
+Juka, this is the recipe for a Summon Pot
+ion.
+—————译文—————
+朱卡，这是召唤药剂的配
+方。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002775D8
+文本地址：002167C0
+—————原文—————
+Juka, this is the recipe for a Drain Poti
+on.
+—————译文—————
+朱卡，这是吸取药剂的配
+方。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002775F0
+文本地址：002168BA
+—————原文—————
+Juka, this is the recipe for a Slow Potio
+n.
+—————译文—————
+朱卡，这是缓速药剂的配
+方。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00277608
+文本地址：002169BB
+—————原文—————
+Juka, this is the recipe for an Activatio
+n Potion.
+—————译文—————
+朱卡，这是激活药剂的配
+方。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00277620
+文本地址：00216ABD
+—————原文—————
+Juka, this is the recipe for a Stop Time 
+Potion.
+—————译文—————
+朱卡，这是暂停药剂的配
+方。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00277638
+文本地址：00216BCB
+—————原文—————
+[FD]Ruinstone of the Meadow Glade[FD]
+—————译文—————
+[FD]林间草原遗迹石[FD]
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00277650
+文本地址：00216C78
+—————原文—————
+[FD]Ruinstone of the Village[FD]
+—————译文—————
+[FD]村庄遗迹石[FD]
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00277668
+文本地址：00216D0C
+—————原文—————
+[FD]Ruinstone of the Forest Pool[FD]
+—————译文—————
+[FD]森林水塘遗迹石[FD]
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00277680
+文本地址：00216DC3
+—————原文—————
+[FD]Ruinstone of the High Valley[FD]
+—————译文—————
+[FD]巍峨谷遗迹石[FD]
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00277698
+文本地址：00216E6E
+—————原文—————
+[FD]Ruinstone of the Great Mountain[FD]
+—————译文—————
+[FD]宏伟山遗迹石[FD]
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002776B0
+文本地址：00216F26
+—————原文—————
+[FD]Ruinstone of the Granite Pillars[FD]
+—————译文—————
+[FD]花岗岩柱遗迹石[FD]
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002776C8
+文本地址：00216FEE
+—————原文—————
+[FD]Ruinstone of the Frozen Hill[FD]
+—————译文—————
+[FD]极寒丘陵遗迹石[FD]
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002776E0
+文本地址：002170AA
+—————原文—————
+[FD]Ruinstone of the Icy Plain[FD]
+—————译文—————
+[FD]冰冻平原遗迹石[FD]
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002776F8
+文本地址：00217164
+—————原文—————
+[FD]Keys to the Ruinsdoor[FD]
+—————译文—————
+[FD]遗迹之门的钥匙[FD]
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00277710
+文本地址：002171FF
+—————原文—————
+[FD]The Earth Instruments[FD]
+—————译文—————
+[FD]大地乐器[FD]
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00277728
+文本地址：00217281
+—————原文—————
+[FD]The Ingredient Jars[FD]
+—————译文—————
+[FD]配料瓶[FD]
+—————结束—————
+
+—————备注—————
+
+指针地址：00277B00
+文本地址：0021AC45
+—————原文—————
+Not enough shield energy...
+—————译文—————
+护盾能量不足……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00277B18
+文本地址：0021ACF8
+—————原文—————
+Juka, the [FD]Water Harp[FD] allows you to make
+ Blue Ingredients.
+—————译文—————
+朱卡，[FD]水之竖琴[FD]能让你
+做出蓝色配料。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00277B30
+文本地址：0021AE35
+—————原文—————
+Juka, the [FD]Ruinsflute[FD] allows you to make
+ Red Ingredients.
+—————译文—————
+朱卡，[FD]远古长笛[FD]能让你
+做出红色配料。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00277B48
+文本地址：0021AF88
+—————原文—————
+Juka, the [FD]Maracataur[FD] allows you to make
+ Green Ingredients.
+—————译文—————
+朱卡，[FD]尤克里里琴[FD]能让你
+做出绿色配料。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00277B60
+文本地址：0021B0BF
+—————原文—————
+Juka, the [FD]Ocarattle[FD] allows you to make 
+Copper Ingredients.
+—————译文—————
+朱卡，[FD]双头沙槌[FD]能让你
+做出铜配料。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00277B78
+文本地址：0021B200
+—————原文—————
+Juka, the [FD]GoldenHorn[FD] allows you to make
+ Yellow Ingredients.
+—————译文—————
+朱卡，[FD]金号角[FD]能让你
+做出黄色配料。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00277B90
+文本地址：0021B348
+—————原文—————
+Juka, the [FD]Ice Chimes[FD] allow you to make 
+Cyan Ingredients.
+—————译文—————
+朱卡，[FD]寒霜音叉[FD]能让你
+做出青色配料。
+—————结束—————
+Ice Chimes不知道是否和前文的Frost Chimes一样
+—————备注—————
+
+
+指针地址：00277BA8
+文本地址：0021B4AE
+—————原文—————
+Machine Parts
+—————译文—————
+机器零件
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00277BC0
+文本地址：0021B508
+—————原文—————
+Elements
+—————译文—————
+元素
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00277BD8
+文本地址：0021B536
+—————原文—————
+Ruinskeys
+—————译文—————
+遗迹钥匙
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00277BF0
+文本地址：0021B589
+—————原文—————
+Juka, this [FD]Fire Key[FD] is one of the four 
+you need to open the Ruinsdoor
+—————译文—————
+朱卡，这把[FD]火之钥匙[FD]是打
+开遗迹之门所需的四把钥
+匙中的一把。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00277C08
+文本地址：0021B75B
+—————原文—————
+Juka, this [FD]Wind Key[FD] is one of the four 
+you need to open the Ruinsdoor
+—————译文—————
+朱卡，这把[FD]风之钥匙[FD]是打
+开遗迹之门所需的四把钥
+匙中的一把。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00277C20
+文本地址：0021B92C
+—————原文—————
+Juka, this [FD]Earth Key[FD] is one of the four
+ you need to open the Ruinsdoor
+—————译文—————
+朱卡，这把[FD]土之钥匙[FD]是打
+开遗迹之门所需的四把钥
+匙中的一把。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00277C38
+文本地址：0021BB05
+—————原文—————
+Juka, this [FD]Water Key[FD] is one of the four
+ you need to open the Ruinsdoor
+—————译文—————
+朱卡，这把[FD]水之钥匙[FD]是打
+开遗迹之门所需的四把钥
+匙中的一把。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00278D60
+文本地址：00223897
+—————原文—————
+Juka, this potion can put a single enemy 
+to Sleep for awhile. They won't move or 
+shoot while asleep.
+—————译文—————
+朱卡，这种药剂能让一个
+敌人睡上一会儿，它们在
+睡着时不会移动或射击。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00278D78
+文本地址：00223AC6
+—————原文—————
+Juka, when you see a [FD]Blue Target Circle[FD]
+ on the ground, hit it with this potion.
+ It will move a wall or platform for you
+.
+—————译文—————
+朱卡，当你看到地上的
+[FD]蓝色标靶[FD]时，对它用这种
+药剂就能移开墙或平台。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00278D90
+文本地址：00223D3C
+—————原文—————
+Juka, if you find a locked spinner or lev
+er with this potion will unlock it and a
+llow you to use it. Look for the lock ic
+on as a signal to use it.
+—————译文—————
+朱卡，要是你发现上锁的
+转盘或是控制杆，就用这
+种药剂来解锁。看到锁的
+图标就说明你该使用它了
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00278DA8
+文本地址：00224051
+—————原文—————
+Juka, the Flash Potion blinds all enemies
+ in a room, lowering their accuracy. The
+y're especially good against Soldiers an
+d Thieves.
+—————译文—————
+朱卡，这种闪光药剂能令
+空间里所有的敌人失明，
+降低它们的精准度。用来
+对付士兵和小偷很好用。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00278DC0
+文本地址：00224335
+—————原文—————
+Juka, yetis love these potions and use th
+em as a kind of currency.
+—————译文—————
+朱卡，雪人们喜欢这种药
+剂并把它当成货币使用。
+—————结束—————
+
+—————备注—————
+
+指针地址：00278DD8
+文本地址：0022449D
+—————原文—————
+Juka, if you see a [FD]Summon Point[FD], you ca
+n activate it with this potion. There's 
+no telling what might come out, though..
+.
+—————译文—————
+朱卡，要是你看到[FD]召唤点[FD]
+就用这药剂来激活它。不
+过谁也说不准会出来什么
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00278DF0
+文本地址：0022471A
+—————原文—————
+Hmmmm. Juka, I think this potion can disr
+upt the workings of Menace Machines, dam
+aging them slightly.
+—————译文—————
+嗯。朱卡，我想这种药剂
+能扰乱麦纳斯机器的运行
+，造成少量的伤害。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00278E08
+文本地址：00224967
+—————原文—————
+Juka, enemies hit with this potion will m
+ove slower. The potion also affects thei
+r projectiles.
+—————译文—————
+朱卡，被这种药剂击中的
+敌人会变得缓慢，也能让
+敌人射出的子弹变慢。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00278E20
+文本地址：00224B77
+—————原文—————
+This potion can be used to activate a var
+iety of Ancient machines, Juka. Look for
+ the gear icon as a signal to use it.
+—————译文—————
+这种药剂可以用于多种远
+古机器，朱卡。看到齿轮
+图标就说明你该使用它了
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00278E38
+文本地址：00224DEE
+—————原文—————
+Juka, this potion allows you to freeze ti
+me! It doesn't last long, but it is very
+ useful in getting by groups of enemies 
+or collecting sound shots.
+—————译文—————
+朱卡，这种药剂能让你停
+止时间！持续时间并不长
+，但在穿过成群的敌人或
+是收集音弹时很有用。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00278E50
+文本地址：002250F2
+—————原文—————
+Hey! The teleporter worked! Can you hear 
+me Bufo?
+—————译文—————
+嘿！这传送器能用！
+能听到我说话吗？巴弗。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00278E68
+文本地址：00225212
+—————原文—————
+Loud and clear, Juka. I'm glad to see you
+ didn't get vaporised.
+—————译文—————
+听得非常清楚，朱卡。
+很高兴看到你没有被蒸发。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00278E80
+文本地址：0022536A
+—————原文—————
+Vaporised?...Maybe we shoulda tested this
+ on a Rabbitcow first...
+—————译文—————
+被蒸发？或许……我们应该
+先用动物做下试验……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00278E98
+文本地址：00225502
+—————原文—————
+Relax, kid, you're doin' fine. You should
+ take a look around so we can test the R
+ecorder and try to figure out where you 
+are.
+—————译文—————
+放心，孩子。你做的不错。[FC]
+你应该四处看看，这样我们
+就能测试记录仪并锁定你所
+在的位置。
+—————结束—————
+句号开头
+—————备注—————
+
+
+指针地址：00278EB0
+文本地址：0022579E
+—————原文—————
+Juka, do you see that? Try to get a littl
+e closer, OK?
+—————译文—————
+朱卡，你看到那个了吗？
+试着再靠近一些怎么样？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00278EC8
+文本地址：002258C2
+—————原文—————
+Yeah, OK. It looks friendly enough.
+—————译文—————
+是啊，好的。
+它看起来挺友善的。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00278EE0
+文本地址：0022598E
+—————原文—————
+[FD]OW![FD] What was that!
+—————译文—————
+[FD]啊呀！[FD]什么情况？！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00278EF8
+文本地址：00225A00
+—————原文—————
+Stay cool, Kid. Try throwing a [FD]Sleep Pot
+ion[FD] at it. Select the Sleep Potion and 
+press the [FD]A Button[FD] to throw it.
+—————译文—————
+淡定，孩子。
+向它丢个[FD]催眠药剂[FD]试试看。[FC]
+选中催眠药剂再按[FD]Ａ键[FD]丢出
+去。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00278F10
+文本地址：00225C7C
+—————原文—————
+It didn't work, Bufo! The Sleep Potion ha
+d no effect on it!
+—————译文—————
+不管用啊！巴弗。
+催眠药剂对它没用！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00278F28
+文本地址：00225DC8
+—————原文—————
+Juka, I'm getting an energy spike from yo
+ur [FD]Sound Staff[FD]. Is it glowing?
+—————译文—————
+朱卡，我收到你的[FD]声之杖[FD]发
+出的能量反馈了。
+它是不是在发光？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00278F40
+文本地址：00225F68
+—————原文—————
+Yeah... it is. What's the deal with that?
+ It's never happened before.
+—————译文—————
+嗯……是啊。有什么用吗？
+这种情况之前从没出现过。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00278F58
+文本地址：002260A5
+—————原文—————
+That thing is firing Sound Shots at you, 
+Kid. Activate your Sound Staff's [FD]Light 
+Shield[FD] to catch them.
+—————译文—————
+那东西在向你射出音弹，孩
+子。激活你声之杖的[FD]光盾[FD]来
+吸收它们。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00278F70
+文本地址：002262F3
+—————原文—————
+OK... So I have to time it so the shield 
+hits the projectile? What next?
+—————译文—————
+好的……也就是说我得看准
+时机让光盾挡住音弹咯？
+然后呢？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00278F88
+文本地址：002264A8
+—————原文—————
+Well, you want to try to catch the symbol
+ displayed on the scroll bar at the bott
+om of the screen. You'll know if you cau
+ght it when it starts rotating.
+—————译文—————
+没错，注意在屏幕下方显示
+的指示条。当它开始闪烁，
+就说明你捕捉到它们了。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00278FA0
+文本地址：002267BA
+—————原文—————
+And what do I do when that happens?
+—————译文—————
+到那时我该做什么？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00278FB8
+文本地址：0022686A
+—————原文—————
+Once that happens, you can fire your stor
+ed shot at the enemy.
+—————译文—————
+一旦它开始闪烁，你就能向
+敌人射出弹药了。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00278FD0
+文本地址：002269C8
+—————原文—————
+Heh... That was sooooo easy!
+—————译文—————
+哈哈……太简单啦！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00278FE8
+文本地址：00226A4C
+—————原文—————
+Don't get cocky kid! Now hurry back to th
+e Teleporter, double time!
+—————译文—————
+别臭美了，小子！
+快回传送器，赶紧的！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279000
+文本地址：00226BDF
+—————原文—————
+I'd better be careful... That looks like 
+a bottomless pit.
+—————译文—————
+我最好小心点……这个坑
+看起来深不见底啊。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279018
+文本地址：00226D1E
+—————原文—————
+Pretty rough landing, Kid. You OK?
+—————译文—————
+勉强着陆了。
+孩子，你没事吧？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279030
+文本地址：00226E12
+—————原文—————
+Yeah, I think so, Bufo. Ow... I landed on
+ my pack.
+—————译文—————
+嗯，我想是的，巴弗。
+哎呦……我一屁股坐在背包
+上了。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279048
+文本地址：00226F3D
+—————原文—————
+Uh oh. All of my [FD]Ingredient Jars[FD] broke 
+when I landed.
+—————译文—————
+啊噢，我的[FD]配料瓶[FD]在着陆时
+全碎掉了。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279060
+文本地址：00227084
+—————原文—————
+No worries, Juka. Why don't you go find t
+he spares I've got out in the yard?
+—————译文—————
+别担心，朱卡。
+何不去找找我院子里的那些
+备用瓶子呢？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279078
+文本地址：00227251
+—————原文—————
+Come in, Juka... Can you hear me?
+—————译文—————
+朱卡，能听到吗？
+请回答……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279090
+文本地址：00227304
+—————原文—————
+Yeah, I hear you, Bufo. What's up?
+—————译文—————
+收到，巴弗。怎么了？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002790A8
+文本地址：002273B9
+—————原文—————
+Looks like you're at the [FD]Village[FD], kid. 
+Remember to visit [FD]Miss Windsong[FD]. She's
+ got some parts that I need for the Orga
+n.
+—————译文—————
+看来你到[FD]村庄[FD]了，孩子。
+记得去拜访[FD]风歌女士[FD]。她
+有些我需要的风琴零件。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002790C0
+文本地址：00227672
+—————原文—————
+And by the way, I used parts from the Org
+an to fix the Teleporter, so now neither
+ one is working...
+—————译文—————
+还有，我用了些风琴的零
+件去修传送器，所以现在
+这两个都不能用了……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002790D8
+文本地址：002278C5
+—————原文—————
+What are you waiting for, Kid? Go take a 
+look around.
+—————译文—————
+你还等什么？
+孩子，去四处看看吧。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002790F0
+文本地址：002279E0
+—————原文—————
+Looks like you're ready to set out, Juka.
+ Now I need you to run an errand.
+—————译文—————
+看来你准备好出发了，朱
+卡。
+现在我要给你个差事。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279108
+文本地址：00227B86
+—————原文—————
+What do you need, Bufo?
+—————译文—————
+要我干嘛？巴弗。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279120
+文本地址：00227C02
+—————原文—————
+Go east to the [FD]Village[FD], Juka. [FD]Miss Win
+dsong[FD] has some parts to fix the organ, 
+and I need you to pick them up for me.
+—————译文—————
+向东走到[FD]村庄[FD]去，朱卡。
+[FD]风歌女士[FD]有修复风琴所需
+的零件，我需要你为我把
+它们带回来。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279138
+文本地址：00227E8C
+—————原文—————
+Juka... Press [FD]SELECT[FD], and when the menu
+ comes up scroll over to the [FD]Map Icon[FD] 
+and press the [FE][FD]A Button[FD] to see your Ma
+p.
+—————译文—————
+朱卡，按[FD]ＳＥＬＥＣＴ[FD]，
+当选单出现后滚动到[FD]地图[FD]
+[FD]图标[FD]再按[FD]Ａ键[FD]查看地图。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279150
+文本地址：00228119
+—————原文—————
+This ledge is a little high for me.
+—————译文—————
+这岩壁对我来说有点高。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279168
+文本地址：002281E1
+—————原文—————
+Brrrr.... It's cold over here.
+—————译文—————
+（瑟瑟发抖）这里真冷啊。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279180
+文本地址：0022826C
+—————原文—————
+Yeah, Juka. There seems to be a big tempe
+rature drop in that direction.
+—————译文—————
+是啊，朱卡。
+那边看上去有大降温。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279198
+文本地址：002283EE
+—————原文—————
+You see that Juka? That's why it's so col
+d over here.
+—————译文—————
+看到了吗？朱卡。
+看来那就是这里这么冷
+的原因了。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002791B0
+文本地址：002284EF
+—————原文—————
+What is it Bufo?
+—————译文—————
+那是什么啊？巴弗。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002791C8
+文本地址：0022854C
+—————原文—————
+I think that big door leads into the Ice 
+Fields, Juka. That place is freezing. Ev
+en if you could get down from here, I do
+n't know why you'd WANT to...
+—————译文—————
+我想那个大门通往冰原，
+朱卡。
+那是个严寒的地方。
+即使你能从这里下去，我
+还是不知道你为何要……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002791E0
+文本地址：0022887A
+—————原文—————
+This door seems to be locked by Ancient t
+echnology, Juka. You're gonna need somet
+hing that can re-activate Ancient machin
+es to open it.
+—————译文—————
+这扇门看来是被远古技术
+锁住了，朱卡。你需要一
+些东西来激活远古机器才
+能打开它。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002791F8
+文本地址：00228B77
+—————原文—————
+Juka... I'm reading an energy signature f
+rom [FD]Ancient Technology[FD] south of where 
+you are. You should check it out.
+—————译文—————
+朱卡……我读取到一个来
+自你所在位置南边的[FD]远古
+技术[FD]信号。
+你该去查看下。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279210
+文本地址：00228DD3
+—————原文—————
+Hey, Juka... Looks like you made it to th
+e Cliffs, Kid. From here on, you're gonn
+a start seeing wind-pipes that you can h
+arvest ingredients from.
+—————译文—————
+嘿，朱卡。看来你到达悬
+崖了，孩子。
+从这里开始，你得注意
+那些你能从中获取配料
+的风管了。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279228
+文本地址：002290CB
+—————原文—————
+How do I do that?
+—————译文—————
+我该怎么做呢？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279240
+文本地址：00229128
+—————原文—————
+Well, when you step on that little switch
+ there...
+—————译文—————
+嗯……当你站在那个小开
+关上时……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279258
+文本地址：00229247
+—————原文—————
+Air pushes ingredients from under the ear
+th out these Ancient pipes here.
+—————译文—————
+空气会把配料从地下的这
+些远古管道中吹出来。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279270
+文本地址：002293EB
+—————原文—————
+There are also areas in the Cliffs where 
+you're going to have to shimmy across wi
+de gorges. Those small poles can be used
+ for that.
+—————译文—————
+悬崖上有些区域是悬吊在
+杆上才能通过的大峡谷。
+那些细杆就是做这个用的
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279288
+文本地址：002296A7
+—————原文—————
+Juka, your road through the Cliffs will b
+e long and dangerous. Be very careful, a
+nd try not to get lost.
+—————译文—————
+朱卡，此去悬崖前路漫
+漫、危机四伏。
+你一定要小心，别迷路了。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002792A0
+文本地址：002298C4
+—————原文—————
+Hey, Juka. I just saw Bert the Explorer. 
+He jumped into that tube over there and 
+[FD]WOOSH[FD], he was gone. What a brave guy.
+—————译文—————
+嘿，朱卡。我刚看见探险
+家伯特了。他跳进那个管
+道里然后[FD]嗖[FD]地一下就不见
+了。这家伙可真有种。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002792B8
+文本地址：00229B3B
+—————原文—————
+Hey, Kid. You see those [FD]Whirlpools?[FD]
+—————译文—————
+嘿，孩子。你看到那些
+[FD]涡流[FD]了吗？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002792D0
+文本地址：00229BF7
+—————原文—————
+Yeah...
+—————译文—————
+是啊……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002792E8
+文本地址：00229C1A
+—————原文—————
+Well, I figure there's something down at 
+the bottom. Every once in awhile, I catc
+h a glimpse of somethin' that shines lik
+e glass down there...
+—————译文—————
+好的，我发现那底下有些
+东西。
+每隔一会我就从那看到类
+似玻璃发出的闪光……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279300
+文本地址：00229E6D
+—————原文—————
+Hey. You find anything under the whirlpoo
+ls, kid?
+—————译文—————
+嘿，你从涡流下面发现什
+么了吗？孩子。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279318
+文本地址：00229F68
+—————原文—————
+It looks like you made it to the Icefield
+s, Juka.
+—————译文—————
+看来你到冰原了，朱卡。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279330
+文本地址：0022A075
+—————原文—————
+Yeah, Bufo. It's freezing in this place.
+—————译文—————
+是的，巴弗。
+这地方冷极了。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279348
+文本地址：0022A130
+—————原文—————
+Well it should be a pretty short trip thr
+ough here. Juka, the Icefields are where
+ you can find the Cyan ingredients, form
+ed of ice and snow.
+—————译文—————
+你不会在这待太久的。
+朱卡，在冰原你能找到由
+冰和雪形成的青色配料。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279360
+文本地址：0022A420
+—————原文—————
+Brrrrr... That's a cold wind.
+—————译文—————
+（瑟瑟发抖）……
+这风可真冷。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279378
+文本地址：0022A4C8
+—————原文—————
+Yeah, Juka. In long corridors, the wind c
+an get pretty strong, even to the point 
+where it will push you around.
+—————译文—————
+没错，朱卡。在长长的通
+道里风会变得很强，甚至
+能把你吹跑。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279390
+文本地址：0022A6FB
+—————原文—————
+That's great. Well, at least I have a jac
+ket and my winter hat.
+—————译文—————
+那可真棒。咳咳，至少我
+还穿了外套，戴着绒帽。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002793A8
+文本地址：0022A84A
+—————原文—————
+Oh, be careful on the ice, too. You'll sl
+ide around on there. And be especially c
+areful of holes in the ice. Fall in ther
+e and you'll be frozen solid.
+—————译文—————
+噢，在冰面上要小心点，
+你会滑倒的。
+特别要注意冰面上的洞。
+掉进去你就变成冰棍了。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002793C0
+文本地址：0022AB47
+—————原文—————
+Well, I wonder which way I should go firs
+t?
+—————译文—————
+好吧，我想知道我该先走
+哪条路？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002793D8
+文本地址：0022AC2E
+—————原文—————
+Try the left path, Juka. I seem to rememb
+er Maestro might have stashed one of his
+ old [FD]Cyan Jars[FD] down in that direction.
+
+—————译文—————
+试试左边那条，朱卡。
+我依稀记得迈斯托大概是
+把[FD]青瓶[FD]藏在那边了。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002793F0
+文本地址：0022AEAA
+—————原文—————
+Hey, there's a note on this sign. It says
+ 'Hey Juka. If you find this, climb up t
+he path left of the sign and talk to me.
+' It's from Bert the Explorer.
+—————译文—————
+嘿，这标识牌上写着字。
+上面说：“嗨，朱卡。如
+果你看到这个，走牌子左
+边的路过来和我谈谈。”
+这是探险家伯特留下的。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279408
+文本地址：0022B1F2
+—————原文—————
+Juka... Are you reading me, Juka?
+—————译文—————
+朱卡……
+听得到吗？朱卡？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279420
+文本地址：0022B288
+—————原文—————
+Yeah, I hear you Bufo. What's up?
+—————译文—————
+嗯，我听到了，巴弗。
+怎么了？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279438
+文本地址：0022B341
+—————原文—————
+Well, you're back in the Meadow, Juka. I 
+think the next step is to track down the
+ [FD]Ruinskeys[FD] and open the [FD]Ruinsdoor[FD]. Y
+ou've found most of the pieces of the Gr
+eat Machine, so hopefully we can reactiv
+ate it.
+—————译文—————
+很好，你又回到草原了，
+朱卡。我认为下一步就是
+追查[FD]遗迹钥匙[FD]的线索并打
+开[FD]遗迹之门[FD]。
+你已经找到了大部分终极
+机器的零件，希望我们能
+重新启动它。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279450
+文本地址：0022B7DE
+—————原文—————
+And what then? How will I get to the Mena
+ce's castle?
+—————译文—————
+然后呢？我怎么才能到达
+麦纳斯的城堡呢？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279468
+文本地址：0022B8E3
+—————原文—————
+Well, I think there's a secret entrance t
+o the Great Hall of the Castle somewhere
+ in the Ruins as well.
+—————译文—————
+额……我想遗迹中某个地
+方有个通往城堡大厅的秘
+密入口。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279480
+文本地址：0022BAE2
+—————原文—————
+Hmmm... Sounds like I need to get into th
+e Ruins. I guess I'm gonna have to find 
+those [FD]Ruinskeys[FD].
+—————译文—————
+就是说我得进入遗迹咯。
+我得找到那些[FD]遗迹钥匙[FD]。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279498
+文本地址：0022BCEB
+—————原文—————
+Well Juka, you're back in the Ruins. This
+ place is full of Ancient Machinery, and
+ it's here that you'll find the Great Ma
+chine. That's the first thing you should
+ look for.
+—————译文—————
+朱卡，你回到遗迹了。
+这里到处都是远古机关，
+在这你能找到终极机器。
+这是你搜寻的首要目标。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002794B0
+文本地址：0022C026
+—————原文—————
+So what does the Great Machine do, exactl
+y?
+—————译文—————
+终极机器究竟是
+干嘛用的？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002794C8
+文本地址：0022C116
+—————原文—————
+Well, it seems to control most of the Anc
+ient machines in the area.
+—————译文—————
+它似乎是控制着这个区域
+大部分的远古机器。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002794E0
+文本地址：0022C294
+—————原文—————
+But most important is the noise it will p
+roduce. The harmonic that it generates w
+ill disrupt the Menace's Monophonic Spel
+l, the magic that protects his machines 
+from your potions.
+—————译文—————
+但最重要的是它所制造的
+音波。它产生的谐波能扰
+乱麦纳斯的单音咒，这种
+魔法保护着机器不受你的
+药剂影响。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002794F8
+文本地址：0022C612
+—————原文—————
+You did it, Juka! You're in the Castle, t
+he Menace's secret lair.
+—————译文—————
+非常好！朱卡！
+你进城堡里了，这是麦纳
+斯的老巢。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279510
+文本地址：0022C787
+—————原文—————
+Just one thing left to do, huh?
+—————译文—————
+还剩下一件事要做对吧？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279528
+文本地址：0022C838
+—————原文—————
+You know what to do, Kid. You gotta find 
+the Menace and stop him. Be careful, tho
+ugh. This is the Menace's Machine Factor
+y too, so it's gonna be packed with Mena
+ce Machines. Areas where you destroy all
+ the machines might not stay cleared eit
+her, so try not to backtrack.
+—————译文—————
+你知道该做什么，孩子。
+得找到麦纳斯并阻止他。
+不过要当心，这里还是麦
+纳斯机器的工厂，所以说
+一定挤满了麦纳斯机器。
+即使所有机器都被破坏那
+些区域也不会一直清静，
+所以最好别回头。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279540
+文本地址：0022CDCF
+—————原文—————
+Alright, Bufo...[FE] I can do this.
+—————译文—————
+没问题，巴弗……
+我能行的。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279558
+文本地址：0022CE7F
+—————原文—————
+I know you can Kid!
+—————译文—————
+我就知道你能行！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279570
+文本地址：0022CF17
+—————原文—————
+Hey Juka, that looks like a [FD]Power Switch
+[FD] for a security door. If you hit it wit
+h an [FD]Activation Potion[FD], it should open
+ all the doors in the Castle that have t
+he same symbol.
+—————译文—————
+嘿，朱卡，那看起来像是
+防盗门的[FD]电源开关[FD]。要是
+你用[FD]激活药剂[FD]激活它，就
+能打开城堡中所有带有同
+样符号的门。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279588
+文本地址：0022D2B2
+—————原文—————
+Juka, I'm reading another [FD]Power Switch[FD] 
+in this room...
+—————译文—————
+朱卡，我探测到这房间里
+另一个[FD]电源开关[FD]……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002795A0
+文本地址：0022D41A
+—————原文—————
+Juka, there are 3 spare [FD]Jars[FD] near the h
+ouse. You should find them first.
+—————译文—————
+朱卡，有３个备用的[FD]瓶子[FD]，
+在屋子附近。
+你先找到它们吧。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002795B8
+文本地址：0022D5A4
+—————原文—————
+That's one of the 3 jars you're looking f
+or. You need a different jar to hold eac
+h type of ingredient.
+—————译文—————
+那是你在找的３个瓶子中
+的一个。你需要相应的瓶
+子来装下每一种配料。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002795D0
+文本地址：0022D7CD
+—————原文—————
+OK, Kid. You now have Jars to hold [FD]Blue,
+ Yellow, and Green Ingredients[FD]. Now, th
+e road ahead has Thieves on it, so you'r
+e gonna need to make a [FD]Sleep Potion[FD] in
+ order to get through safely. So now, yo
+u gotta find some ingredients.
+—————译文—————
+好了，孩子。你现在有装
+[FD]蓝色，黄色和绿色配料[FD]的
+瓶子了。
+前去的路上会有小偷，你
+需要做出[FD]催眠药剂[FD]来安全
+通过，所以你现在最好去
+找些配料。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002795E8
+文本地址：0022DCA8
+—————原文—————
+What's the deal, Bufo? Why can't I pick t
+his up?
+—————译文—————
+这是怎么了？巴弗。为什
+么我不能捡起这东西？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279600
+文本地址：0022DDC4
+—————原文—————
+Like I told you, Juka, you gotta find the
+ [FD]Jar[FD] for that ingredient before [FE]you c
+an start collecting them.
+—————译文—————
+正如我所说的，朱卡。你
+得找到装那种配料的[FD]瓶子[FD]
+才能收集它们。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279618
+文本地址：0022DFEB
+—————原文—————
+When you grab onto a plant, you can shake
+ it to find [FD]Ingredients[FD]. Once you've g
+rabbed it with the [FD]A Button[FD], shake it 
+by pushing [FD]Left and Right on the Contro
+l Pad[FD]. Try shaking different kinds of p
+lants. 
+—————译文—————
+当你抓住一棵植物，你可
+以摇晃它来找到[FD]配料[FD]。按
+[FD]Ａ键[FD]抓住它，按[FD]方向键的
+左和右[FD]来摇晃。
+试着去摇摇不同的植物吧
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279630
+文本地址：0022E466
+—————原文—————
+Hey, kid. These are ingredients. Just wal
+k over 'em to pick 'em up, and you can c
+ombine 'em in your mixer to make a potio
+n.
+—————译文—————
+嗨，孩子。这些就是配料。
+走近它们就能拾取。[FC]
+你还可以在混合器中组合它
+们来做出药剂。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279648
+文本地址：0022E727
+—————原文—————
+Juka... You're gonna need [FD]Potions[FD], so l
+et me teach you how to mix 'em. Each of 
+those six multicolored symbols represent
+s an ingredient, and the number under ea
+ch one tells you how many you have. [FE][FE]Fi
+rst, select the [FD]Yellow[FD] Ingredient and 
+push up 6 times on the [FD]Control Pad[FD].
+—————译文—————
+朱卡，让我来教你如何调制
+你需要的[FD]药剂[FD]。[FC]
+这六个颜色各异的符号代表
+六种不同的配料，每个符号
+下面的数字表示的是数量。[FC]
+首先，选择[FD]黄色[FD]配料然后按
+６下[FD]方向键[FD]的上。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279660
+文本地址：0022ECDD
+—————原文—————
+Next move over to the [FD]Dark Blue[FD] and add
+ 1.
+—————译文—————
+接着加１个[FD]深蓝色[FD]配料。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279678
+文本地址：0022EDDF
+—————原文—————
+Last, move over to the [FD]Green[FD] and add 3.
+
+—————译文—————
+最后，加３个[FD]绿色[FD]配料。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279690
+文本地址：0022EEDE
+—————原文—————
+Now, select the big red button and push t
+he [FE][FD]A Button[FD] to mix.
+—————译文—————
+现在在红色按钮上按[FD]Ａ键[FD]，
+开始混合。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002796A8
+文本地址：0022F050
+—————原文—————
+OK, kid. You just made a [FD]Sleep Potion[FD]. 
+When you need to open the Mixer again, p
+ush [FD]SELECT[FD], then highlight the backpac
+k, and push the [FD]A Button[FD]. To exit back
+ out, use the [FE][FD]B Button.
+—————译文—————
+真棒，孩子。
+你做出了[FD]催眠药剂[FD]。[FC]
+你只需按下[FD]ＳＥＬＥＣＴ[FD]键
+就能在背包中找到混合器，
+选中后按[FD]Ａ键[FD]打开混合器，
+按[FD]Ｂ键[FD]退出。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002796C0
+文本地址：0022F468
+—————原文—————
+Some levers and spinners are locked, Juka
+. You have to hit them with an [FD]Unlock p
+otion[FD] before you can use them.
+—————译文—————
+朱卡，拉杆和转盘的零件被
+锁住了，你得先用[FD]开锁药剂[FD]
+帮它们解锁才行。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002796D8
+文本地址：0022F6D0
+—————原文—————
+Juka, when you need to open a bridge, jus
+t move up to the spinner near it[FE] and ke
+ep pushing the [FE][FD]A Button[FD] until it open
+s.
+—————译文—————
+朱卡，当你要启动桥梁机关
+时，得走到转盘旁边按[FD]Ａ键[FD]
+直到机关完全打开。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002796F0
+文本地址：0022F968
+—————原文—————
+Juka, you shouldn't go far from the house
+ until you've got a Sleep Potion. It's d
+angerous up ahead.
+—————译文—————
+朱卡，在你有催眠药剂之前
+别离屋子太远。
+老实说前面还是挺危险的。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279708
+文本地址：0022FB9D
+—————原文—————
+Juka, these signposts let you save your g
+ame. They will also refill your [FD]Shield[FD]
+ and [FD]Stamina[FD] meters.
+—————译文—————
+朱卡，指示牌用来记录存档
+还能为你加满[FD]护盾[FD]和[FD]体力[FD]。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279720
+文本地址：0022FDF8
+—————原文—————
+You're a natural at climbing, kid, so whe
+n you move up next to a ledge, you can p
+ush the [FD]A Button[FD] to grab onto it, as l
+ong as it's not too high. From there, yo
+u can push [FD]Left and Right on the Contro
+l Pad[FD] to shimmy in that direction, push
+ the [FD]A Button[FD] again to climb up, or th
+e [FD]B Button[FD] to drop.
+—————译文—————
+你是个攀岩天才，孩子。[FC]
+当你在岩壁边上时，只要不
+是太高，你就可以按[FD]Ａ键[FD]
+抓住岩壁。[FC]
+此时你可以再按
+[FD]方向键的左和右[FD]
+在岩壁上移动。[FC]
+按[FD]Ａ键[FD]爬上去，或
+按[FD]Ｂ键[FD]跳下来。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279738
+文本地址：00230429
+—————原文—————
+Juka... You takin' a swim, kid? Remember 
+that you can only swim where the current
+ lets you, but the water is where the [FD]B
+lue Ingredient[FD] is found. You can also d
+ive to avoid enemies by pressing the [FD]B 
+Button[FD], but this depletes your [FD]Stamina
+[FD] if you start running out of air.
+—————译文—————
+朱卡……你在游泳吗？
+安全提醒：你只能在条件
+允许的地方游泳。[FC]
+在水里能找到[FD]蓝色配料[FD]。[FC]
+按[FD]Ｂ键[FD]潜水可以躲避敌人，
+当氧气用光后会消耗[FD]体力[FD]。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279750
+文本地址：0023098E
+—————原文—————
+Hey, Bufo, check this out. It looks like 
+some weird key. Do you think it fits tha
+t big door?
+—————译文—————
+嘿，巴弗，看看这个。看
+起来像某种奇怪的钥匙。
+你觉得会是那大门的吗？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279768
+文本地址：00230B62
+—————原文—————
+I think so, kid. This must be a [FD]Ruinskey
+[FD].
+—————译文—————
+我想是的，孩子。
+这一定是把[FD]遗迹钥匙[FD]。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279780
+文本地址：00230C79
+—————原文—————
+That's an [FD]Element[FD] Juka... These are sup
+posed to be guarded by the [FE][FD]Ruinstones[FD]
+. You'd better put it back where it belo
+ngs.
+—————译文—————
+那是枚[FD]元素[FD]，朱卡。
+它本应是由[FD]遗迹石[FD]守护，
+最好把它还给它的主人。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279798
+文本地址：00230F0B
+—————原文—————
+Look at that, Juka! That's one of the Anc
+ients' [FD]Ruinstones[FD], guardians of the [FD]E
+lements[FD]! You should go and talk to it!
+—————译文—————
+快看！朱卡！
+那是一块先民的[FD]遗迹石[FD]，
+[FD]元素[FD]的守护者！[FC]
+我建议你去和它谈谈！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002797B0
+文本地址：00231179
+—————原文—————
+You... Want me to talk to a rock?
+—————译文—————
+你是说……
+让我去跟石头说话吗？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002797C8
+文本地址：0023123F
+—————原文—————
+Juka, if your stamina gets low, eating so
+me delicious muffins will restore it.
+—————译文—————
+朱卡，要是你的体力变
+低，吃些美味的松饼就
+能回复。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002797E0
+文本地址：002313F8
+—————原文—————
+Juka! Do you know what you found there?! 
+That's a piece of [FD]Sound Crystal[FD]! Addin
+g that piece to the crystal on your [FD]Sou
+nd Staff[FD] will increase the capacity of 
+your [FD]Sound Shield[FD].
+—————译文—————
+朱卡！你知道你找到什么
+了吗？！
+那是一片[FD]声音水晶[FD]！
+把它加到你的[FD]声之杖[FD]上就
+能增强[FD]声音护盾[FD]的力量。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002797F8
+文本地址：00231781
+—————原文—————
+Juka... You're gonna need to check your [FD]
+Journal[FD] quite a bit. Every time you col
+lect information, it gets recorded there
+, so if you need to know something, it's
+ the first place you should look. To vie
+w it, press [FD]SELECT[FD], then scroll over t
+o the Journal and press [FD]A Button[FD].
+—————译文—————
+朱卡……你需要多看看你
+的[FD]日志[FD]了，你每次得到的
+信息都会记录在里面，所
+以要是你想查点什么，你
+应该先看看[FD]日志[FD]。
+按[FD]ＳＥＬＥＣＴ[FD]后选中，
+按[FD]Ａ键[FD]打开。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279810
+文本地址：00231D04
+—————原文—————
+Hey, Bufo! That's a [FD]Thief[FD], isn't it?
+—————译文—————
+嘿！巴弗！
+那是个[FD]小偷[FD]，对吧？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279828
+文本地址：00231DBA
+—————原文—————
+Yeah, Juka. Their shots home in on you, a
+nd since Thieves aren't mechanical, you 
+can't use your [FD]Sound Staff[FD]. Their shot
+s just knock ingredients loose, though. 
+They can't hurt you.
+—————译文—————
+没错，朱卡。它们的射击
+会追踪你，因为小偷是非
+机械的，所以你的[FD]声之杖[FD]
+对它们没用。
+它们的射击会把配料打掉
+却伤不到你。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279840
+文本地址：002321A9
+—————原文—————
+Hmmm. I think I can probably throw a Slee
+p Potion at it from behind those hedges.
+
+—————译文—————
+额，我想我大概可以躲在
+树篱后对它丢催眠药剂。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279858
+文本地址：00232360
+—————原文—————
+Yeah, Juka. You can lob a potion at prett
+y much anything you can target.
+—————译文—————
+是的，朱卡。
+你可以对所有你能瞄准的
+东西丢药剂。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279870
+文本地址：002324E4
+—————原文—————
+Heads up, Juka. More Thieves up ahead. Th
+ere are two of them this time.
+—————译文—————
+当心，朱卡。前面的小偷
+更多。这次是两个。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279888
+文本地址：00232642
+—————原文—————
+Bufo, what do I do if I want to throw a p
+otion at each of them?
+—————译文—————
+巴弗，要是我想对每个小
+偷都丢个药剂，我该怎么
+做？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002798A0
+文本地址：0023278E
+—————原文—————
+You can use the Sound Staff to cycle thro
+ugh all nearby targets.
+—————译文—————
+你可以用声之杖在附近
+所有目标之间切换。
+[FD]（Ｌ键）[FD]
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002798B8
+文本地址：00232906
+—————原文—————
+Uh oh, Juka... That looks familiar... A [FD]
+Clusterblaster![FD] I remember these things
+.
+—————译文—————
+啊哦，朱卡……那个看起
+来很眼熟，是[FD]音爆机[FD]！
+我记得这东西。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002798D0
+文本地址：00232ABF
+—————原文—————
+Is it a Menace Machine, Bufo?
+—————译文—————
+那是麦纳斯机器吧？
+巴弗？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002798E8
+文本地址：00232B6F
+—————原文—————
+Yeah, Juka. Maestro had a few run-ins wit
+h these way back. I'm analyzing it, and 
+it looks like you're gonna need projecti
+les that it doesn't fire. 
+—————译文—————
+是的，朱卡。迈斯托很久
+之前做过一些测试。我正
+在分析它，看来它射出的
+弹药不是你需要的。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279900
+文本地址：00232E8B
+—————原文—————
+Hold on... I'm picking up an Ancient ener
+gy signal.
+—————译文—————
+等等……我收到一个远古
+能量的信号。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279918
+文本地址：00232FAA
+—————原文—————
+Hmmm... Juka, that looks like a [FD]Summoner
+[FD]. If you hit that with a [FD]Summon Potion
+[FD], you should be able to activate it. It
+ might do something to help you defeat t
+he Clusterblaster.
+—————译文—————
+朱卡，那看上去像是个[FD]召
+唤器[FD]。用[FD]召唤药剂[FD]击中它
+就能使其激活。
+它应该对你击败音爆机有
+所帮助。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279930
+文本地址：0023332E
+—————原文—————
+Juka... we don't have the recipe for a [FD]S
+ummon Potion[FD] yet... Maybe one of the Ru
+instones can teach you to make it.
+—————译文—————
+朱卡……我们还没有[FD]召唤
+药剂[FD]的配方。或许有
+遗迹石能教你如何制作。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279948
+文本地址：002335C6
+—————原文—————
+Huh? Bufo, I stepped on this [FD]Pressure Pl
+ate[FD], but nothing happened.
+—————译文—————
+哈？巴弗，我踩在这块[FD]压
+力板[FD]上了，但什么也
+没发生啊。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279960
+文本地址：0023374C
+—————原文—————
+Hmmmm...[FE]Juka, I think the air might be e
+scaping through another nearby Plate. Tr
+y covering one up with something, then s
+tanding on the other one.
+—————译文—————
+嗯……我想空气可能从附
+近的另一块板子跑掉了。
+试着用东西盖住它，然后
+站到另外一块上面。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279978
+文本地址：00233A2E
+—————原文—————
+Hmmm... Cover it with what? Doesn't seem 
+to be anything nearby.
+—————译文—————
+额……用什么盖住呢？
+这附近什么也没有啊。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279990
+文本地址：00233B5F
+—————原文—————
+Juka, look! More of those things? And the
+y set up a [FD]Barrier[FD], too. I think you h
+ave to destroy both of them.
+—————译文—————
+快看！朱卡。又是那些东
+西。它们还设置了[FD]栅栏[FD]。
+我想你得把它们都破坏掉
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002799A8
+文本地址：00233D93
+—————原文—————
+Heh heh... This'll be such a piece of cak
+e.
+—————译文—————
+呵呵呵……
+这都不叫个事儿。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002799C0
+文本地址：00233E60
+—————原文—————
+Juka, be more careful. There are two of t
+hem this time. Remember, the [FE][FD]L Button[FD]
+ changes targets. But don't change targe
+ts after you start collecting shots unti
+l you've got them all, or you'll lose wh
+at you have.
+—————译文—————
+朱卡，小心点，这次是两
+个。记住了，按[FD]Ｌ键[FD]切换
+目标。但不要在收集完成
+之前改变目标，否则会丢
+掉已有的弹药。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002799D8
+文本地址：0023424D
+—————原文—————
+Bufo, what happens if I get hit while I'm
+ building up a shot, or if I collect the
+ wrong symbol?
+—————译文—————
+巴弗，要是我在收集音弹
+时被打中会怎么样？还有
+，要是我收集了错误的音
+符呢？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：002799F0
+文本地址：00234464
+—————原文—————
+Same thing as if you change targets too e
+arly, Juka. Your target resets.
+—————译文—————
+后果和你过早切换目标一
+样的，你得重头再来。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279A08
+文本地址：00234610
+—————原文—————
+So, can I smash 'em now?
+—————译文—————
+那么，现在我能开始收拾
+它们了吗？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279A20
+文本地址：002346B6
+—————原文—————
+Just a second, Kid. There's somethin' I f
+orgot to mention earlier. The [FD]Green Bar
+[FD] that you see in the top left corner re
+presents your [FD]Sound Shield[FD]. It comes u
+p automatically when a Sound Shot is fir
+ed. When you get hit by a projectile, th
+at bar will go black as the shield takes
+ damage.
+—————译文—————
+等下，孩子。有件事我之
+前忘记提醒你了。你在左
+上方看到的[FD]绿条[FD]代表你的
+[FD]声音护盾[FD]。它在被音弹射
+击时会自动出现。而在你
+被弹药击中后它会变黑并
+承受伤害。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279A38
+文本地址：00234C93
+—————原文—————
+So how do I keep it from running out?
+—————译文—————
+那我怎么才能防止它
+降低呢？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279A50
+文本地址：00234D72
+—————原文—————
+Well, use your [FD]Dark Shield[FD] to block sho
+ts. Each shot blocked this way recharges
+ your Sound Shield a little. Charge it u
+p all the way before you try fighting th
+ese things, OK, Kid?
+—————译文—————
+用你的[FD]暗之盾[FD]挡下射击。
+以此方式挡下的弹药会使
+声音护盾略微充能。在和
+那些东西作战前保持
+能量满格，孩子。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279A68
+文本地址：0023516E
+—————原文—————
+OK, so I have to charge up the Green Bar.
+ What happens if it runs out?
+—————译文—————
+好的，也就是说我得充满
+这绿条。要是它用光了会
+怎么样？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279A80
+文本地址：002352E6
+—————原文—————
+Once that bar is empty, you're in trouble
+. Your [FD]Light Shield[FD] will stop working,
+ and the sound shots will affect the [FD]Re
+d Bar[FD] that sometimes appears, your [FD]Sta
+mina[FD]. If that red bar is empty, you'll 
+pass out.
+—————译文—————
+一旦那个条空了你就有麻
+烦了。[FD]光之盾[FD]会停止
+运作，音弹会影响到
+[FD]红条[FD]，也就是你的[FD]体力[FD]。
+要是那个红条空了，你可
+就挂了。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279A98
+文本地址：00235763
+—————原文—————
+I think these are Machines too, Bufo. Sho
+uld I try using a potion again?
+—————译文—————
+我想这些也是机器，巴弗
+。我是不是该用个药剂试
+试？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279AB0
+文本地址：002358FE
+—————原文—————
+Wait, Juka. I've been analyzing the sound
+ that these things make. That sound is a
+ctually a powerful protection spell. I'm
+ afraid your Alchemy isn't gonna be any 
+good against them.
+—————译文—————
+等等，朱卡。我在分析这
+些东西发出的声音。那是
+一种强大的防护咒语。我
+担心你的炼金术对它们没
+什么用。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279AC8
+文本地址：00235C9D
+—————原文—————
+So my potions won't work on any of these 
+things? Great...
+—————译文—————
+那么我的药剂对它们都没
+用咯？很好……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279AE0
+文本地址：00235DE5
+—————原文—————
+Pay attention, Kid. Some kinds of enemies
+ require a more powerful kind of shot to
+ destroy. You'll probably have to collec
+t a level 2 shot to deal with this shiel
+ded one. Also, make sure your shot doesn
+'t hit him from the front. I'll bet he c
+an block it with that shield.
+—————译文—————
+专心点，孩子。
+有些敌人需要更强力的音
+弹来摧毁。你大概得收集
+２级音弹来对付这个带盾
+的。还有，不要正面射击
+它，我敢打赌它能用盾牌
+挡下来。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279AF8
+文本地址：00236393
+—————原文—————
+How do I collect a level 2 shot, Bufo?
+—————译文—————
+我怎么才能收集２级音弹
+呢？巴弗。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279B10
+文本地址：00236483
+—————原文—————
+Just the same way you do with an ordinary
+ shot, Juka. Once you have the symbols f
+or the first scroll, a second one will a
+ppear. Just keep collecting until you ha
+ve them all.
+—————译文—————
+和收集普通音弹一样的，
+朱卡。
+一旦收集满一级音弹，二
+级音弹的图标就会出现。
+持续收集直到足够为止。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279B28
+文本地址：002367E1
+—————原文—————
+What about this one over here? Can you te
+ll me anything about it?
+—————译文—————
+这东西该怎么办？
+能给我介绍下吗？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279B40
+文本地址：00236919
+—————原文—————
+Looks pretty sturdy. I bet it'll take mor
+e than one blast to destroy it.
+—————译文—————
+看起来很结实。
+我敢说需要不止一次爆炸
+才能摧毁它。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279B58
+文本地址：00236AB5
+—————原文—————
+Can I try hiding behind one of these wall
+s and firing from there, Bufo?
+—————译文—————
+我能藏在这些墙后面射击
+吗？巴弗。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279B70
+文本地址：00236C32
+—————原文—————
+Sorry, kid. You have to have a clear line
+ of sight to whatever you fire at. If th
+e shot hits something else, it'll dissip
+ate.
+—————译文—————
+抱歉，小子。你必须直面
+目标才能射击。如果音弹
+击中别的东西就会消散。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279B88
+文本地址：00236ED7
+—————原文—————
+Uh oh, Juka... Looks like the Menace made
+ flying machines as well. Your Sound Sta
+ff can't fire up, so you're gonna need t
+o climb up on some higher ground.
+—————译文—————
+啊哦，朱卡……
+看来麦纳斯也做出了飞行
+机器。你的声之杖不能向
+上射击，所以你得攀爬到
+更高的地方。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279BA0
+文本地址：00237221
+—————原文—————
+How, Bufo? It doesn't look like there's a
+nything to climb up on around here...
+—————译文—————
+怎么爬？巴弗。
+这附近可没有任何可以爬
+的东西啊。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279BB8
+文本地址：00237375
+—————原文—————
+Hmmm. I bet if you activate that [FD]Target[FD]
+ over there with an [FD]Animate Potion[FD], th
+e platform will rise out of the ground. 
+You could collect the shot, then climb u
+p and fire from there.
+—————译文—————
+嗯…我想如果你用
+[FD]活化药剂[FD]激活那里的
+[FD]标靶[FD]，就会有平台从地面
+升起来。你可以收集音弹
+然后爬上去从那里射击。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279BD0
+文本地址：0023771A
+—————原文—————
+Hmmm. I could take that lift up high once
+ I've got the shot collected and fire fr
+om there...
+—————译文—————
+嗯，我收集到音弹后就升
+到高处进行射击……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279BE8
+文本地址：00237912
+—————原文—————
+Juka, be careful... Those Menace Machines
+ are using some kind of Stealth.
+—————译文—————
+小心点，朱卡……
+那些麦纳斯机器的行动很
+隐秘。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279C00
+文本地址：00237AA3
+—————原文—————
+See how they disappear when they move? Yo
+u'll lose your target every time they do
+ that, so you have to collect your shot 
+and fire before they disappear.
+—————译文—————
+看到它们是如何在移动中
+消失了吗？一旦它们这样
+做你就会失去目标，所以
+你得在它们消失前收集音
+弹并射出去。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279C18
+文本地址：00237DCB
+—————原文—————
+Juka, those Invisibots are moving very fa
+st. You'll have trouble handling them wi
+thout potions, but I've examinined their
+ stealth field, and I think it can be di
+srupted by bright light. Try using a [FD]Fl
+ash Potion[FD] on them.
+—————译文—————
+朱卡，那些隐型机器人移
+动得很快。不用药剂你很
+难处理掉它们，我检查过
+它们消失的区域，我想可
+以用强光来干扰。试着对
+它们用个[FD]闪光药剂[FD]。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279C30
+文本地址：002382B5
+—————原文—————
+Hey, Kid... I've done some tests on these
+ things based on you fighting them befor
+e, and I think if you slow down their ro
+tors enough, they'll fall and crash. Try
+ hitting them with [FD]Slow Potions[FD].
+—————译文—————
+嘿，孩子……基于你之前
+和它们作战的数据，我完
+成了一些测试。
+我认为要是你降低其转子
+的速度，它们就会倒下坏
+掉。用[FD]缓速药剂[FD]试试吧。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279C48
+文本地址：002386E8
+—————原文—————
+Juka... I detect [FD]Subterrabots[FD]. They're 
+different then the Invisibots. Flash Pot
+ions aren't good against them, but they'
+re so fragile that even a little damage 
+will break them. Try using [FD]Drain Potion
+s[FD] on them.
+—————译文—————
+朱卡……
+我侦测到了[FD]潜藏者[FD]。
+它们和隐型机器人不同，
+闪光药剂对它们不好使。
+不过它们很脆弱，一点小
+小的伤害就能破坏掉。
+用[FD]吸取药剂[FD]试试。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279C60
+文本地址：00238B74
+—————原文—————
+Juka... All of these Menace Machines are 
+vulnerable to bright light. A [FD]Flash Pot
+ion[FD] should really help you out here.
+—————译文—————
+朱卡，所有这些麦纳斯机
+械都害怕强光。在这里
+[FD]闪光药剂[FD]非常好用。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279C78
+文本地址：00238DE7
+—————原文—————
+Those [FD]Frenzibots[FD] can get pretty hard to
+ handle when they're badly damaged, Juka
+... [FD]Slow Potions[FD] should make them alot
+ easier to deal with.
+—————译文—————
+重伤后的[FD]狂徒[FD]非常难
+对付，朱卡……
+[FD]缓速药剂[FD]应该能
+派上用场。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279C90
+文本地址：002390EE
+—————原文—————
+Juka, these machines are powered by a con
+tinuous motion transducer. If you can ke
+ep it from working, even for a short tim
+e, it'll power down and they'll break. T
+ry using a [FD]Stop Time Potion[FD] here.
+—————译文—————
+朱卡，这些机器是由一个
+续动传感器供电的。要是
+你能让它停止片刻，它就
+会断电并坏掉。
+用[FD]暂停药剂[FD]试试。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279CA8
+文本地址：0023952F
+—————原文—————
+Juka, I think that machine needs to stay 
+moving to stay afloat, so using a [FD]Sleep
+ Potion[FD] on it should make it sink.
+—————译文—————
+朱卡，我猜那种机器需要
+持续移动才能漂浮，所以
+用[FD]催眠药剂[FD]催眠它使之
+沉没吧。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279CC0
+文本地址：002397CC
+—————原文—————
+Juka, this area could make it tough to fi
+ght these flying Machines. They don't se
+em very sturdy, though, so if you're hav
+ing trouble with 'em, you might try usin
+g [FD]Drain Potions[FD].
+—————译文—————
+朱卡，在这个区域和飞行
+机器战斗有些艰难。
+不过他们并不是很坚固，
+你或许该试试[FD]吸取药剂[FD]。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279CD8
+文本地址：00239B6C
+—————原文—————
+Juka, those [FD]Breezeblasters[FD] can fire the
+ir shots at very high speeds. [FD]Slow Poti
+ons[FD] would make them much easier to hand
+le.
+—————译文—————
+朱卡，那些[FD]吹风机[FD]能以高
+速射出音弹。[FD]缓速药剂[FD]能
+让它们变得更容易对付。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279CF0
+文本地址：00239E01
+—————原文—————
+You best be careful, Kid. The path ahead 
+is crawling with [FD]Soldiers[FD].
+—————译文—————
+你最好小心点，孩子。
+前方的路上有[FD]士兵[FD]出没。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279D08
+文本地址：00239F6F
+—————原文—————
+I know about these guys, Bufo. They won't
+ hurt me, but they'll put me to [FE]sleep a
+nd return me home.
+—————译文—————
+我知道这些家伙，巴弗。
+他们不会伤到我，但会让
+我睡着并把我遣返回家。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279D20
+文本地址：0023A196
+—————原文—————
+Just try to sneak by, but use Sleep Potio
+ns if you have to.
+—————译文—————
+还是悄悄溜过去吧，必要
+的话就用催眠药剂。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279D38
+文本地址：0023A311
+—————原文—————
+YOU, OVER THERE!!
+—————译文—————
+那边的！就是你！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279D50
+文本地址：0023A361
+—————原文—————
+Wha...
+—————译文—————
+我去……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279D68
+文本地址：0023A38C
+—————原文—————
+YOU'RE NOT SUPPOSED TO BE HERE! HALT WHER
+E YOU ARE, YOU ARE UNDER ARREST!
+—————译文—————
+你不该来这里！
+站在那别动！
+你被捕了！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279D80
+文本地址：0023A4E9
+—————原文—————
+But I'm just...
+—————译文—————
+可我只是……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279D98
+文本地址：0023A54B
+—————原文—————
+I SAID HALT! ALRIGHT, MEN, TAKE HIM DOWN!
+!
+—————译文—————
+我说了别动！
+快来人！把他拿下！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279DB0
+文本地址：0023A630
+—————原文—————
+Careful, Juka. Soldiers are very dangerou
+s. Use cover if you can.
+—————译文—————
+小心，朱卡。
+士兵是很危险的，尽可能
+利用掩体。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279DC8
+文本地址：0023A79D
+—————原文—————
+Juka, it's you! I thought they got you to
+o!!
+—————译文—————
+朱卡，是你啊！我还以为
+他们把你也抓走了！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279DE0
+文本地址：0023A8A8
+—————原文—————
+Just relax, OK? Tell me what happened.
+—————译文—————
+淡定点好吗？
+跟我说说发生什么了。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279DF8
+文本地址：0023A976
+—————原文—————
+My mom is missing, Juka! She disappeared!
+ Then all these [FD]Soldiers[FD] started showi
+ng up near the village.
+—————译文—————
+我妈妈不见了！
+朱卡，她消失了！
+然后这些[FD]士兵[FD]就开始出
+现在村子附近。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279E10
+文本地址：0023AB94
+—————原文—————
+I'll find your mom, OK? Just go back to y
+our house and wait for me.
+—————译文—————
+我会找到你妈妈的。
+回家等着我吧。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279E28
+文本地址：0023ACDE
+—————原文—————
+Alright, Juka... My house is in the [FD]Uppe
+r Village[FD]. If you go that way, you shou
+ld [FE]be able to avoid most of the Soldier
+s.
+—————译文—————
+好的，朱卡……
+我家在[FD]村北[FD]。
+要是你走那条路，就能避
+开大量的士兵了。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279E40
+文本地址：0023AF5D
+—————原文—————
+This isn't good, Kid... No big group of S
+oldiers has ever come to the Village bef
+ore. And with all the people vanishing l
+ately...
+—————译文—————
+这可不妙，孩子……
+之前村里从没来过这么多
+士兵。况且最近还有这么
+多人失踪。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279E58
+文本地址：0023B230
+—————原文—————
+I know, Bufo. I'm worried too.
+—————译文—————
+我知道，巴弗。
+我也很担心。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279E70
+文本地址：0023B2F1
+—————原文—————
+OK, Juka. I'll go back home and wait ther
+e...
+—————译文—————
+好，朱卡。
+我回家等着……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279E88
+文本地址：0023B3EB
+—————原文—————
+Juka, is that you? Help me, save me from 
+this crazy thing!!!
+—————译文—————
+朱卡，是你吗？
+帮帮我，把我从这疯家伙
+手上救出来！！！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279EA0
+文本地址：0023B521
+—————原文—————
+What are YOU doing all the way out here??
+? I told you to go home!
+—————译文—————
+你跑到这里来干嘛？？
+我不是让你回家吗？！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279EB8
+文本地址：0023B67E
+—————原文—————
+Never mind that... Look out! It's coming 
+back again!
+—————译文—————
+算了……
+小心！它又来了！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279ED0
+文本地址：0023B764
+—————原文—————
+Now, do you mind telling me what you're d
+oing here?
+—————译文—————
+现在你能告诉我你在这里
+做了什么吗？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279EE8
+文本地址：0023B872
+—————原文—————
+Sorry Juka... But you were gone so long, 
+I got worried. I figured I'd just go loo
+king for my mom. Then, one of those thin
+gs found me. I remember falling asleep, 
+and being cold, and the next thing I kne
+w, I was trapped in here!
+—————译文—————
+对不起，朱卡……
+你去了太久，我开始担心
+了。我想我该去找妈妈，
+然后就被那东西发现了。
+我记得我睡着了，很冷，
+接着我就被困在这里了！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279F00
+文本地址：0023BD9B
+—————原文—————
+You have to wait here, OK? It's not safe 
+for you to leave.
+—————译文—————
+你得在这等着，好吗？
+到处走可不是个好主意。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279F18
+文本地址：0023BEF0
+—————原文—————
+OK... Sorry Juka...
+—————译文—————
+好的……
+对不起，朱卡……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279F30
+文本地址：0023BF6F
+—————原文—————
+I'll just wait right here until you find 
+my mom, OK Juka?
+—————译文—————
+我会在这等着，直到你找
+到我妈妈，好吗？朱卡。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279F48
+文本地址：0023C0A9
+—————原文—————
+Juka, my Mom still isn't back!
+—————译文—————
+朱卡，我妈还是没回来！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279F60
+文本地址：0023C168
+—————原文—————
+It's only been a little while... Don't wo
+rry, I'll find her.
+—————译文—————
+这才过了多一会儿啊？
+放心，我会找到她的。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279F78
+文本地址：0023C2A1
+—————原文—————
+Hey! Maybe you should go see Mayor Ostenb
+urg, Juka.
+—————译文—————
+嘿！朱卡。或许你该去
+看看奥斯滕伯格村长。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279F90
+文本地址：0023C3D2
+—————原文—————
+Yeah, he might have some idea of what's g
+oing on.
+—————译文—————
+没错，也许他对这里发生
+的事情有些线索。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279FA8
+文本地址：0023C4DF
+—————原文—————
+I'll wait here Juka. Just find my Mom, OK
+?
+—————译文—————
+我会在这里等着。
+朱卡，一定要找到我
+妈妈啊。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279FC0
+文本地址：0023C5E3
+—————原文—————
+Don't get your hands caught!
+—————译文—————
+别让你的手被卷进去！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279FD8
+文本地址：0023C665
+—————原文—————
+Juka! Oh, it's terrible! My sons, Johnny 
+and Arlo! They're gone!
+—————译文—————
+朱卡，真是糟透了！
+我的儿子，乔尼和阿洛！
+他们不见了！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：00279FF0
+文本地址：0023C7B5
+—————原文—————
+I actually came by on an errand for Bufo.
+ But I'm going to get to the bottom of t
+hese disappearances.
+—————译文—————
+虽说我只是来帮巴弗跑腿
+的，但我一定要把这些失
+踪事件查个水落石出。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A008
+文本地址：0023C9C0
+—————原文—————
+They were out playing a few days ago, and
+ never came back! It happened just befor
+e the Soldiers appeared, like the other 
+disappearances.
+—————译文—————
+几天以前他们出去玩了，
+一直也没回来！
+和其他的失踪事件一样发
+生在士兵们出现之前。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A020
+文本地址：0023CCB5
+—————原文—————
+Well, it looks like I'll have to put Bufo
+'s errand on hold for now.
+—————译文—————
+嗯，看来现在得先把巴弗
+的差事放一放了。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A038
+文本地址：0023CE05
+—————原文—————
+I have something here that might help you
+, Juka. This [FD]Horn[FD] is a powerful Earth 
+Instrument. It's part of a set that I bo
+ught from a Yeti. You should try to find
+ the Yeti and see if he's got more of th
+em.
+—————译文—————
+朱卡，我这有个东西你可
+能用得上。这个[FD]号角[FD]是
+强大的[FD]大地乐器[FD]中的一个
+。它是我从雪人那买来的
+，你该去找雪人，看看他
+们还有没有更多的乐器。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A050
+文本地址：0023D210
+—————原文—————
+What's so special about them?
+—————译文—————
+它们有什么特别吗？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A068
+文本地址：0023D2A4
+—————原文—————
+They are very powerful tools for a young 
+Alchemist like yourself.
+—————译文—————
+它们对你这样的年轻
+炼金师来说是非常强
+力的工具。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A080
+文本地址：0023D3EC
+—————原文—————
+Juka, I remember hearing about these. The
+y can tap into your [FD]Sound Shield's[FD] ene
+rgy, using some up to create [FD]ingredient
+s[FD]. I think this Horn can be used to cre
+ate Yellow Ingredients. If you want to t
+ry it out, just go into your [FD]Journal[FD], 
+scroll until you bring up the Instrument
+s, select the one you want to use, and p
+ress the [FD]A Button.
+—————译文—————
+朱卡，我听说过这东西。
+它们能利用[FD]声音护盾[FD]的能
+量制作出[FD]配料[FD]。
+我猜这个号角是用来制造
+黄色配料的。
+想试试的话，先打开[FD]日志[FD]
+翻页直到乐器页，选一个
+你要用的按[FD]Ａ键。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A098
+文本地址：0023DAE6
+—————原文—————
+Okay. I'll take it with me. Thank you.
+—————译文—————
+好的，我会带着它的。
+谢谢你。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A0B0
+文本地址：0023DB91
+—————原文—————
+You really should visit [FD]Maestro's[FD] house
+ before you set out Juka. He's the wises
+t man I've ever met.
+—————译文—————
+朱卡，在你出发前真该去
+[FD]迈斯托[FD]家拜访下。他是我
+见过的最聪明的人。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A0C8
+文本地址：0023DDC4
+—————原文—————
+Please don't touch that. It's very delica
+te.
+—————译文—————
+请别碰那个。它很精密。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A0E0
+文本地址：0023DEA6
+—————原文—————
+Juka! Well, you've certainly come a long 
+way.
+—————译文—————
+朱卡！好啊，你已经走了
+相当远了。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A0F8
+文本地址：0023DF9F
+—————原文—————
+Yeah, I was going to tell you that. How d
+id you get past all those machines?
+—————译文—————
+是啊，我正想要和你说说
+呢。你是怎么躲过那些机
+器的？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A110
+文本地址：0023E12A
+—————原文—————
+Well, they are sound machines, and I deal
+ in Ancient instruments. I was able to p
+lay a tune that made them ignore me.
+—————译文—————
+它们是声音机器，我就用
+远古乐器来应对。我奏出
+的曲调能让它们忽略我。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A128
+文本地址：0023E3F2
+—————原文—————
+Are you here looking for Johnny and Arlo?
+
+—————译文—————
+你是来这找乔尼
+和阿洛的吗？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A140
+文本地址：0023E4A3
+—————原文—————
+Yes. I've come a long way.
+—————译文—————
+是的，我走了很长的路。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A158
+文本地址：0023E549
+—————原文—————
+Well, I've found a few of the Villagers a
+lready. Why don't you wait here, and I'l
+l come get you when I find your boys.
+—————译文—————
+我已经找到一些村民了。
+你何不在这等着，等我找
+到你的孩子们就来找你。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A170
+文本地址：0023E7D0
+—————原文—————
+OK, Juka. I see you've found a few of the
+ [FD]Instruments[FD] as well. Are you finding 
+them helpful?
+—————译文—————
+朱卡，我看到你也找到了
+一些[FD]乐器[FD]。
+你发现它们很有用了吗？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A188
+文本地址：0023E99B
+—————原文—————
+Yeah, these things are great! Thanks for 
+telling me about them.
+—————译文—————
+没错，这些东西超棒！
+谢谢你的关心。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A1A0
+文本地址：0023EAD2
+—————原文—————
+Good luck, Juka! And keep an eye out for 
+Yetis.
+—————译文—————
+祝好运！朱卡。
+还有，留意雪人。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A1B8
+文本地址：0023EBD2
+—————原文—————
+Our village is surrounded by Soldiers, Ju
+ka. They started showing up just a few d
+ays ago, around the same time we noticed
+ people missing. I don't know what to do
+! They won't allow anyone out of the vil
+lage.
+—————译文—————
+我们村儿被士兵包围了，
+朱卡，他们是几天前开始
+出现的，从那时就开始有
+人失踪。
+我不知道该咋办！他们不
+让任何人出村儿。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A1D0
+文本地址：0023F001
+—————原文—————
+This can't be good...Mayor Ostenburg, do 
+you have any idea what's going on?
+—————译文—————
+这可不太妙……
+奥斯滕伯格村长，你知道
+是怎么回事吗？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A1E8
+文本地址：0023F1BC
+—————原文—————
+Hmph. The only person who might know is t
+hat old fool, [FD]Maestro[FD]. All of this is 
+probably his fault.
+—————译文—————
+唯一可能知道的人就是那
+个傻老头，[FD]迈斯托[FD]。这一
+切可能都是他造成的。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A200
+文本地址：0023F3E1
+—————原文—————
+Did he say Maestro?! Juka, ask him about 
+Maestro, we have to talk to him!
+—————译文—————
+他是说迈斯托吗？！
+朱卡，问他迈斯托的事，
+我们得和他谈谈！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A218
+文本地址：0023F54D
+—————原文—————
+Mr Mayor, do you know where I might find 
+him?
+—————译文—————
+村长先生，你知道在哪能
+找到他吗？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A230
+文本地址：0023F648
+—————原文—————
+Well, his house is just across the bridge
+ right outside. But he doesn't like it w
+hen people snoop around...
+—————译文—————
+外面的桥对面就是他的房
+子。不过他是个孤僻的怪
+人。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A248
+文本地址：0023F847
+—————原文—————
+I have to remain calm... even in the face
+ of disaster... oh my.
+—————译文—————
+我必须保持镇定……
+即使面对这样的灾难……
+我的天。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A260
+文本地址：0023F981
+—————原文—————
+Juka? What are you doing here?!
+—————译文—————
+朱卡？你在这干嘛呢？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A278
+文本地址：0023FA0A
+—————原文—————
+Lucy? I should ask you the same thing. Yo
+u looking for someone?
+—————译文—————
+露茜？我还想问你呢。
+你是在找什么人吗？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A290
+文本地址：0023FB54
+—————原文—————
+Yeah. My dad disappeared awhile ago while
+ he was walking in the hills.
+—————译文—————
+没错，我爸爸在山坡上散
+了会步就不见了。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A2A8
+文本地址：0023FCD1
+—————原文—————
+OK. I'm trying to figure this whole thing
+ out, so I'll make sure he heads home if
+ I find him.
+—————译文—————
+我正在调查这件事，
+要是我找到他，我会让他
+先回家去。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A2C0
+文本地址：0023FEDB
+—————原文—————
+Juka, be very careful. There's a giant fl
+ying machine in the next room! I had to 
+run in here to hide from it.
+—————译文—————
+朱卡，一定要小心。
+隔壁有个巨大的飞行器！
+我为了躲它才跑来这里。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A2D8
+文本地址：00240151
+—————原文—————
+Please save my Dad, Juka...
+—————译文—————
+请救救我爸爸，朱卡……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A2F0
+文本地址：002401FC
+—————原文—————
+Mmmmmmm....Muffins.
+—————译文—————
+（嗅嗅嗅）……是松饼。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A308
+文本地址：00240265
+—————原文—————
+Remember Juka, [FD]Muffins[FD] will help you re
+store your Energy.
+—————译文—————
+记住，朱卡。
+[FD]松饼[FD]能恢复你的能量。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A320
+文本地址：002403B8
+—————原文—————
+It smells good in here..... where is ever
+yone?
+—————译文—————
+这里的味道真好闻……
+可是大家都去哪了？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A338
+文本地址：0024049F
+—————原文—————
+Juka! Am I glad to see you!
+—————译文—————
+朱卡！很高兴见到你！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A350
+文本地址：00240541
+—————原文—————
+Miranda! Are you lost or something? You'r
+e awfully far from the Village.
+—————译文—————
+米兰达！你迷路了吧？
+你在离村子这么远的地方
+干嘛呢？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A368
+文本地址：0024069C
+—————原文—————
+Yeah, I'm looking for my Grandpa, Profess
+or Skipwidget.
+—————译文—————
+我在找我爷爷，斯佩特
+教授。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A380
+文本地址：002407AD
+—————原文—————
+The entire village is practically empty. 
+There are lots of people missing, and I'
+m going to try to find them.
+—————译文—————
+整个村子几乎空无一人。
+有太多人失踪了，我要去
+找他们。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A398
+文本地址：002409A8
+—————原文—————
+Well, I guess it's in good hands then. Pl
+ease find my Grandpa, Juka.
+—————译文—————
+哈，看来我找对人了。
+请找到我爷爷，朱卡。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A3B0
+文本地址：00240B59
+—————原文—————
+It's probably safest for you to wait here
+. I'll come and get you when I find him.
+
+—————译文—————
+对你来说最安全的就是在
+这等着。
+等我找到他就来找你。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A3C8
+文本地址：00240D25
+—————原文—————
+Thanks, Juka.
+—————译文—————
+谢谢，朱卡。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A3E0
+文本地址：00240D69
+—————原文—————
+I guess it's best if I just wait here...
+—————译文—————
+我想我最好还是
+在这等吧……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A3F8
+文本地址：00240E3F
+—————原文—————
+There's lots of nice stuff in here, Juka.
+
+—————译文—————
+这儿有不少好东西，
+朱卡。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A410
+文本地址：00240F06
+—————原文—————
+Hmmm... Looks like somebody left in a hur
+ry.
+—————译文—————
+嗯……
+看来是某人急着要离开。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A428
+文本地址：00241022
+—————原文—————
+This is Professor Skipwidget's place Juka
+, but he's not here... This is pretty st
+range. You should check the other houses
+, too.
+—————译文—————
+这是斯佩特教授家，可他
+不在这……这很奇怪。
+也检查下别的房子吧。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A440
+文本地址：002412B8
+—————原文—————
+Hmm. Doesn't look as though Maestro's at 
+home...
+—————译文—————
+哟……
+看来迈斯托不在家啊……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A458
+文本地址：002413AA
+—————原文—————
+Hey, take a look Bufo. He left a letter. 
+Should I read it?
+—————译文—————
+嘿，瞧啊巴弗。
+他留了封信。
+要我读给你听吗？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A470
+文本地址：002414FB
+—————原文—————
+Yeah, it's probably important.
+—————译文—————
+快读，可能是要紧的事。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A488
+文本地址：002415A9
+—————原文—————
+To whoever finds this letter, know that I
+ could no longer stay idle in this peace
+ful village while such a great danger st
+retches forth across the land.
+—————译文—————
+致任何来访者，巨大的危
+机正在这片大陆上蔓延，
+我不能继续在这平静的村
+庄隐居下去了。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A4A0
+文本地址：002418B3
+—————原文—————
+This doesn't sound good...
+—————译文—————
+听起来可不妙啊……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A4B8
+文本地址：0024193F
+—————原文—————
+Keep reading, Juka.
+—————译文—————
+读下去，朱卡。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A4D0
+文本地址：002419AB
+—————原文—————
+I must travel to the Menace's place of ex
+ile if I am to discover the truth. The j
+ourney will be long and dangerous. if I 
+do not return, whoever finds this note s
+hould contact my old assistant...
+—————译文—————
+为了找出真相，我必须前
+往麦纳斯的流放地。此去
+路途危险漫长，若我没能
+回来，见此信者请联系我
+的老助理……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A4E8
+文本地址：00241DC9
+—————原文—————
+Bufo? What??
+—————译文—————
+……巴弗？什么？？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A500
+文本地址：00241E12
+—————原文—————
+This is not good... You got a lot to lear
+n before taking HIM on...
+—————译文—————
+这可不妙……
+在肩负起他的重托之前你
+可还有不少要学的……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A518
+文本地址：00241F86
+—————原文—————
+Bufo, what's going on? Did you work for M
+aestro or something?
+—————译文—————
+怎么回事？巴弗？
+难道你以前当过迈斯托的
+助理？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A530
+文本地址：002420C7
+—————原文—————
+Yeah, I did. Listen Juka, I'm sorry about
+ keeping you in the dark like this, but 
+I promise I'll tell you more about it la
+ter.
+—————译文—————
+没错，就是这么回事。
+听着朱卡，我很抱歉一直
+隐瞒此事，但我保证日后
+会慢慢告诉你的。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A548
+文本地址：00242335
+—————原文—————
+I don't get it Bufo. Who is this Menace?
+—————译文—————
+我不明白，巴弗。
+这个麦纳斯是谁？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A560
+文本地址：00242410
+—————原文—————
+He's the last of the Dark Alchemists, Kid
+, and that's REALLY bad news. Those thin
+gs you saw in the Ruins and by the house
+ were definitely Menace Machines. The ol
+d man must have seen one of them near th
+e village and gotten suspicious....
+—————译文—————
+他是最后的暗黑炼金师，
+这可不是什么好事，你在
+遗迹和房子里看到的那些
+东西肯定是麦纳斯机器。
+老人家想必是在村子附近
+看到了其中的一台从而起
+了疑心……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A578
+文本地址：00242938
+—————原文—————
+So, what should I do now?
+—————译文—————
+那么，我现在该怎么做？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A590
+文本地址：002429DD
+—————原文—————
+We gotta try to retrace Maestro's steps. 
+He must have taken the South Road away f
+rom the village, so that's where you sho
+uld start looking.
+—————译文—————
+我们应该试着追寻迈斯托
+的脚步。他一定是走南边
+那条路离开村子的，你应
+该从那里开始找。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A5A8
+文本地址：00242CB1
+—————原文—————
+I guess I'd better head South and try to 
+find Maestro...
+—————译文—————
+我想我该往南去，找到
+迈斯托……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A5C0
+文本地址：00242E0D
+—————原文—————
+Yeah, Juka. If anyone knows what's going 
+on, he will.
+—————译文—————
+没错，朱卡。
+他应该知道是怎么回事。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A5D8
+文本地址：00242F25
+—————原文—————
+Hey Juka. I reckon you might be able to h
+elp me.
+—————译文—————
+嘿，朱卡。
+我觉得你能帮上我的忙。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A5F0
+文本地址：0024301E
+—————原文—————
+What's going on?
+—————译文—————
+怎么了？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A608
+文本地址：00243070
+—————原文—————
+Well, my Rabbitcows got all riled up, and
+ they busted out. If you could wrangle a
+ll of em back into that pen, I'd really 
+appreciate it.
+—————译文—————
+我的兔牛发了狂逃走了。
+要是你能把它们都赶回围
+栏里，我会很感激的。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A620
+文本地址：0024333F
+—————原文—————
+Yeah, I can help you with that.
+—————译文—————
+好的，我可以帮你。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A638
+文本地址：002433DB
+—————原文—————
+Juka, just walk up to each Rabbitcow and 
+push the [FD]A Button[FD] to grab onto them. T
+hen you can use the [FD]Control Pad[FD] to dra
+g them around.[FE]Push the [FD]A Button[FD] again
+ to let go of them.
+—————译文—————
+朱卡，走过去对着兔牛按
+[FD]Ａ键[FD]来拽住它们。然后按
+[FD]方向键[FD]拖动。
+按[FD]Ａ键[FD]放开。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A650
+文本地址：002437B1
+—————原文—————
+What in tarnation are you doin?! This ain't no good...
+—————译文—————
+你他呱的在干嘛？！
+简直糟透了……
+—————结束—————
+待定
+—————备注—————
+
+
+指针地址：0027A668
+文本地址：002438AD
+—————原文—————
+That'll do it Juka. Now, I'm gonna tell y
+ou a secret. You see, them Yetis just lo
+ve [FD]Yeti Potions.[FD] I'll add the recipe t
+o yer book as a token of my thanks.
+—————译文—————
+可以了，朱卡。
+现在我要告诉你个秘密。
+雪人们喜欢[FD]雪人药剂[FD]。
+作为回报，我会把配方加
+入你的书里。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A680
+文本地址：00243BF7
+—————原文—————
+Thanks a million, Juka. You be careful no
+w, okay?
+—————译文—————
+万分感谢，朱卡。
+现在照顾好自己，好吗？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A698
+文本地址：00243CE4
+—————原文—————
+Maestro? Yeah, saw him a couple days ago.
+ He was tellin' me about this weird jewe
+l he found at the river.
+—————译文—————
+迈斯托？几天前见过他，
+他和我说他在河里找到
+了一块奇怪的宝石。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A6B0
+文本地址：00243F17
+—————原文—————
+Hey, Juka, come on in.
+—————译文—————
+嘿，朱卡，快进来。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A6C8
+文本地址：00243F87
+—————原文—————
+Uh, thanks, Janey. You're hiding in here?
+—————译文—————
+谢谢，詹尼。
+你躲在这里干嘛？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A6E0
+文本地址：00244069
+—————原文—————
+Yeah, Maestro told me I should stay insid
+e for a few days, and not go out walking
+ like I usually do...
+—————译文—————
+迈斯托让我在家里呆上几
+天，不要像往常一样出去
+散步……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A6F8
+文本地址：00244295
+—————原文—————
+This is weird. I wonder where all the vil
+lagers went.
+—————译文—————
+太奇怪了，我想知道村民
+们都去哪了。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A710
+文本地址：002443D3
+—————原文—————
+Huh? Hey, what's a kid like you doing so 
+far from the Village? Are you lost?
+—————译文—————
+哈？喂，你个小孩子跑到
+离村子这么远的地方干嘛
+呢？是迷路了吗？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A728
+文本地址：00244560
+—————原文—————
+Uh, no, I'm not lost. My name's Juka, and
+ I'm travelling through here.
+—————译文—————
+额，不是的，我没迷路，
+我叫朱卡，我是旅行路过
+这里。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A740
+文本地址：002446E5
+—————原文—————
+Huh. Well, nice to meet you, Juka. My nam
+e's Bertrand H Wanderpath, but you can c
+all me Bert. I'm an explorer by trade. Y
+ou must be one too, setting out on such 
+a dangerous trip.
+—————译文—————
+好吧，很高兴见到你，朱
+卡。我叫伯川德·Ｈ·万
+德帕斯，你也可以叫我伯
+特。我是个职业探险家，
+看你的样子一定也是了，
+一个人走这么危险的路。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A758
+文本地址：00244AB8
+—————原文—————
+Nope. I'm an Alchemist.
+—————译文—————
+不，我是个炼金师。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A770
+文本地址：00244B36
+—————原文—————
+An Alchemist, huh? Well, this [FD]Cliff Map[FD]
+ will help you find your way around bett
+er. Hey, you being an Alchemist, I bet y
+ou'd like the [FD]Jar[FD] that I saw nearby.
+—————译文—————
+炼金师？好吧，我这里有
+幅[FD]悬崖地图[FD]，一定能
+在探险中帮到你。
+喂，既然你是个炼金师，
+我想你一定对我在附近见
+过的那个[FD]瓶子[FD]感兴趣。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A788
+文本地址：00244ED9
+—————原文—————
+Thanks. The [FD]Cliff Map[FD] will come in hand
+y. And you said you saw a [FD]Jar?[FD]
+—————译文—————
+谢啦，[FD]悬崖地图[FD]会用得着
+的。
+你说你见过一个[FD]瓶子[FD]？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A7A0
+文本地址：00245092
+—————原文—————
+Actually, yeah. Look for an Ancient Statu
+e on the right side of this room. Just g
+o through the Tube near it.
+—————译文—————
+没错，找到这房间右边的
+一尊远古雕像。穿过那根
+在它旁边的管子。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A7B8
+文本地址：002452B8
+—————原文—————
+Ok... Ancient statue and the tube next to
+ it. 
+—————译文—————
+好的……远古雕像和挨着
+它的管子。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A7D0
+文本地址：002453BD
+—————原文—————
+Right!
+—————译文—————
+没错！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A7E8
+文本地址：002453EC
+—————原文—————
+Thanks for your help!
+—————译文—————
+感谢你的帮助！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A800
+文本地址：0024545E
+—————原文—————
+Hey, you find that jar yet?
+—————译文—————
+嗨，找到那瓶子了吗？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A818
+文本地址：00245509
+—————原文—————
+Juka! Nice to see you again! Still journe
+ying, huh?
+—————译文—————
+朱卡！很高兴再见到你！
+还在旅行是不是？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A830
+文本地址：0024561D
+—————原文—————
+Yep. How're you doing?
+—————译文—————
+是啊，你怎么样？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A848
+文本地址：0024567D
+—————原文—————
+It's freezing in this place. Think I'm go
+nna head back to the Meadow pretty soon.
+ Hey, if you're exploring in here, you c
+ould use a map, right?
+—————译文—————
+这地方可真冷。估计我很
+快就要回草原了。
+喂，要是你在这里探险，
+地图会有用的，对吧？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A860
+文本地址：00245939
+—————原文—————
+Sure. Thanks, Bert.
+—————译文—————
+确实，谢了，伯特。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A878
+文本地址：0024599E
+—————原文—————
+No problem, kid. Good luck with that.
+—————译文—————
+客气了，孩子。
+祝你好运。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A890
+文本地址：00245A6F
+—————原文—————
+Brrrrr... Think I'm gonna get outta here 
+pretty soon.
+—————译文—————
+（打冷战）……估计我很
+快要离开这里了。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A8A8
+文本地址：00245B6B
+—————原文—————
+Juka! Wow, you really should become an ex
+plorer, kid. You're the only one I've ev
+er met who could keep up with me!
+—————译文—————
+朱卡！哇哦，你真该做个
+探险家。
+孩子，你是我见过的唯一
+一个能跟得上我的人。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A8C0
+文本地址：00245DD4
+—————原文—————
+How did you get in here, Bert?
+—————译文—————
+你是怎么进来的？伯特。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A8D8
+文本地址：00245E7A
+—————原文—————
+Well, I was on my way back through the Sn
+ow to the Meadow, when I fell into a fis
+sure. I thought I was a goner, but I sli
+d down an underground slope and into the
+ chamber above and tumbled down through 
+the trapdoor.
+—————译文—————
+我在穿过雪地回草原的路
+上掉进了一个裂缝里，我
+以为我要完蛋了，
+但我滑下斜坡掉进了上面
+的房间，然后跌进了一个
+活板门。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A8F0
+文本地址：002462E0
+—————原文—————
+Wow. So you got trapped in here, huh?
+—————译文—————
+哇哦，这么说你被困在这
+儿了，是不是？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A908
+文本地址：002463AA
+—————原文—————
+Yeah, Juka. Thanks again for saving me. B
+y the way, I've been in these Ruins befo
+re, a long time ago. Do you want to take
+ the map I made?
+—————译文—————
+是啊，朱卡。
+再次感谢你救了我。
+顺带一提，我很久以前到
+过遗迹，你要带上我制作
+的地图吗？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A920
+文本地址：00246673
+—————原文—————
+Yeah, that'll come in handy.
+—————译文—————
+太好了，我会用得上的。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A938
+文本地址：002466F8
+—————原文—————
+Thanks Juka. I guess I'll see you back in
+ the Village.
+—————译文—————
+谢了，朱卡。
+我们回村子再见了。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A950
+文本地址：002467FA
+—————原文—————
+Hey, Juka! Quickly, follow me this way.
+—————译文—————
+嗨，朱卡！
+快点，跟我来。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A968
+文本地址：002468B4
+—————原文—————
+Juka! I can't believe it!
+—————译文—————
+朱卡！难以置信！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A980
+文本地址：0024693C
+—————原文—————
+What happened Bert? I thought you were go
+ing back to the Village.
+—————译文—————
+怎么了？伯特。
+我还以为你回村子了。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A998
+文本地址：00246A89
+—————原文—————
+I was, but I got surprised on the way by 
+some weird critters. they shot me with s
+ome kind of sound blast and I woke up he
+re.
+—————译文—————
+没错，可我在路上被一些
+奇怪的生物袭击了，它们
+用某种音爆似的东西击中
+了我。
+我醒来后就在这里了。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A9B0
+文本地址：00246D7A
+—————原文—————
+So I just rescued you again?
+—————译文—————
+也就是说我又救了你
+一次咯？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A9C8
+文本地址：00246E26
+—————原文—————
+Yep. You seem to have a real talent for i
+t, as a matter of fact. I was out earlie
+r wandering around, and I managed to pie
+ce together the layout of this place. Yo
+u want the map I made?
+—————译文—————
+哈哈，大概是你上辈子欠
+我的吧。事实上我之前出
+去探索了，试着绘制了这
+个地区的地图，你想要吗
+？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A9E0
+文本地址：0024719F
+—————原文—————
+Sure. It's a long way back, but you shoul
+d be able to escape this Castle now.
+—————译文—————
+当然啦，路还很长，你现
+在应该能逃出这城堡了。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027A9F8
+文本地址：00247374
+—————原文—————
+Actually, I think I'll stay and help you,
+ Juka. I'm gonna look around here and se
+e if I can sketch out a better map of th
+is place.
+—————译文—————
+实际上我打算留下来帮助
+你，朱卡。
+我想在这地方四处转转，
+看看我能不能绘出一幅更
+好的地图。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027AA10
+文本地址：00247635
+—————原文—————
+See you around, Juka.
+—————译文—————
+回见了，朱卡。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027AA28
+文本地址：0024769A
+—————原文—————
+Hey, Juka. Looks like I'm getting ahead o
+f you. I managed to get to the second fl
+oor and map it out.
+—————译文—————
+嘿，朱卡。
+看来我赶在你前面了。
+我成功到达二楼并把
+地图画出来了。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027AA40
+文本地址：002478A9
+—————原文—————
+That's good news.
+—————译文—————
+这是个好消息。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027AA58
+文本地址：00247927
+—————原文—————
+Yeah. It looks like all these critters ar
+e focusing on you, because they've just 
+been ignoring me.
+—————译文—————
+嗯嗯，看来这些生物的注
+意力都被你吸引去了，因
+为它们根本没理会我。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027AA70
+文本地址：00247B20
+—————原文—————
+Well, I guess that should make it easier 
+for you to get around.
+—————译文—————
+哈，我猜那会让你在这附
+近的探索变得轻松一些。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027AA88
+文本地址：00247C61
+—————原文—————
+Yeah. I'll tell you though, you're gonna 
+have a tough time getting around on this
+ floor. There are a bunch of levers that
+ unlock various doors, kinda like the on
+e on the first floor.
+—————译文—————
+是的，不过我还是要告诉
+你，这一层会很艰难，
+这里有大量的拉杆控制着
+不同的门，就像你在第一
+层遇到的那个。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027AAA0
+文本地址：00247FAC
+—————原文—————
+Ok. I'll make sure I keep an eye out for 
+the levers to open them.
+—————译文—————
+好吧，
+我会注意那些拉杆的。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027AAB8
+文本地址：002480FD
+—————原文—————
+I couldn't open them myself, because I'm 
+no alchemist, but I managed to sneak aro
+und them. Anyway, here's the map I made 
+of the second floor.
+—————译文—————
+靠我自己不能打开它们，
+因为我不是炼金师，但我
+设法潜入进去了。
+总之，这是我绘制的二层
+地图。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027AAD0
+文本地址：00248421
+—————原文—————
+I'm gonna see if I can get up to the thir
+d floor and map it out for you.
+—————译文—————
+我要去看看我能否上到第
+三层，
+把地图给你画出来。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027AAE8
+文本地址：0024858E
+—————原文—————
+Juka! Good to see you again.
+—————译文—————
+朱卡！又见面了！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027AB00
+文本地址：00248625
+—————原文—————
+Hey, Bert. How've you been doing?
+—————译文—————
+嗨，伯特。你怎么样啊？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027AB18
+文本地址：002486B7
+—————原文—————
+Pretty good. I managed to sneak around on
+ the third floor and map it out.
+—————译文—————
+还不错，我潜入了第三层
+并把地图画好了。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027AB30
+文本地址：00248846
+—————原文—————
+Thanks. I'm sure it'll come in handy.
+—————译文—————
+谢谢，
+我确定我会用得上的。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027AB48
+文本地址：00248920
+—————原文—————
+No problem, Juka. You saved me three time
+s, so I'm happy to stick my neck out to 
+help you. But I don't think I can help y
+ou anymore.
+—————译文—————
+客气了，朱卡。
+你救了我三次呢，为了你
+我赴汤蹈火在所不辞。
+不过我没法再帮你了。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027AB60
+文本地址：00248BF9
+—————原文—————
+Yeah, I think I'd better take it from her
+e.
+—————译文—————
+没事，我也觉得是时候靠
+我自己了。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027AB78
+文本地址：00248CD6
+—————原文—————
+OK, Juka. Good luck. I'll see you back at
+ the Village.
+—————译文—————
+好，朱卡。祝好运！
+我们回村子再见了。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027AB90
+文本地址：00248DE2
+—————原文—————
+Bye, Juka. Best of luck.
+—————译文—————
+再见，朱卡！祝你好运！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027ABA8
+文本地址：00248E70
+—————原文—————
+Hmmm... I've lost contact with two of my 
+nearby Simplebots, and I could have swor
+n I detected an energy reading from a So
+und Staff. No one around but this child,
+ though.... I'll have to keep an eye on 
+this one. He seems to have appeared out 
+of nowhere.
+—————译文—————
+嗯……
+我和附近的两个小机器人
+失去了联络，之前又侦测
+到了来自声之杖的能量反
+馈，而附近除了这小子没
+有别人……
+我得盯着他点，也不知道
+他是从哪里冒出来的。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027ABC0
+文本地址：0024937C
+—————原文—————
+That noise is back, Juka. There must be m
+ore of those things around... Aaah! What
+'s that thing?!
+—————译文—————
+那噪音又出现了，朱卡。
+附近肯定还有更多那东
+西……
+啊！那是什么？！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027ABD8
+文本地址：0024958B
+—————原文—————
+You not supposed to be here! I smash you!
+
+—————译文—————
+你不该来这里的！
+我要弄死你！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027ABF0
+文本地址：0024966A
+—————原文—————
+I see him, Bufo. Hey, Ugly!
+—————译文—————
+我看到他了，巴弗。
+嘿，丑鬼！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027AC08
+文本地址：002496FE
+—————原文—————
+Grrrrrr! Nobody call me that!
+—————译文—————
+啊啊啊啊！
+不许那样叫我！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027AC20
+文本地址：002497A4
+—————原文—————
+Juka, you can't attack this thing directl
+y. All you have to do is keep defeating 
+the enemies he spawns up, and he'll even
+tually run out of energy.
+—————译文—————
+朱卡，你不能直接攻击这
+东西。你只需消灭他生出
+来的敌人，最终他的能源
+就会耗光。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027AC38
+文本地址：00249AB1
+—————原文—————
+[FD]Attack![FD] [FE]My army will destroy you... [FE][FD]
+Full Attack![FD]
+—————译文—————
+[FD]进攻！[FD]
+我的大军将毁灭你……
+[FD]全军出击！[FD]
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027AC50
+文本地址：00249BDF
+—————原文—————
+What? How you beat me? We will meet again
+, puny one.
+—————译文—————
+什么？我怎么会输给你？
+我们走着瞧，小崽子！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027AC68
+文本地址：00249D1D
+—————原文—————
+Who... who's there? Come close and let me
+ get a look at you...
+—————译文—————
+谁啊？是谁？
+离近点让我看看你……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027AC80
+文本地址：00249E41
+—————原文—————
+My old staff...so, you must be Juka! Are 
+you in communication with Bufo?
+—————译文—————
+我的法杖……
+这么说你一定是朱卡了！
+你在和巴弗通讯是吗？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027AC98
+文本地址：00249FBE
+—————原文—————
+Yeah, we keep in touch. He can talk to me
+ all the way from my house.
+—————译文—————
+是啊，我们保持着联系。
+我这一路上光听他说了。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027ACB0
+文本地址：0024A11E
+—————原文—————
+Extraordinary... Well my friends, this is
+ a dark day. The Menace is back, and I'm
+ not going to be able to fight him, so i
+t will have to fall to you.
+—————译文—————
+了不起……
+我的朋友，现在情况很不
+妙，那个麦纳斯回来了。
+而我已经无力和他战斗了
+，所以这重任就落到了你
+的肩上。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027ACC8
+文本地址：0024A41E
+—————原文—————
+Have you found a way to beat him?
+—————译文—————
+你找到打败他的办法
+了吗？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027ACE0
+文本地址：0024A4E2
+—————原文—————
+The key to defeating the Menace is to bre
+ak his [FD]Monophonic Spell[FD]. Until that's 
+done, his Menace Machines will be immune
+ to your potions. The only device in thi
+s world that's loud enough to do that is
+ the [FD]Great Machine[FD].
+—————译文—————
+打败麦纳斯的关键是破除
+他的[FD]单音咒[FD]。只有这样才
+能解除麦纳斯机器对药剂
+的免疫。这世上唯一能做
+到这一点的就是[FD]终极机器[FD]
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027ACF8
+文本地址：0024A999
+—————原文—————
+So all we have to do is find it and turn 
+it on?
+—————译文—————
+也就是说我们只需找到并
+启动它咯？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027AD10
+文本地址：0024AADF
+—————原文—————
+I wish it were that simple, my young frie
+nd. You must bring this with you.
+—————译文—————
+要是那么简单就好了。小
+朋友，你得带上这个。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027AD28
+文本地址：0024AC78
+—————原文—————
+Wow... That looks pretty complicated. Is 
+it part of the Great Machine?
+—————译文—————
+哇……看着还挺复杂的。
+这是终极机器的零件吗？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027AD40
+文本地址：0024ADE1
+—————原文—————
+Yes, it is. I believe that the Menace has
+ kidnapped people from the village to us
+e in controlling a new type of [FD]Guardian
+ Machine[FD]. Each of these machines is pro
+bably holding a part similar to this.
+—————译文—————
+没错。我认为麦纳斯绑架
+村民是为了操纵一种新型
+的[FD]守护者机器[FD]。这种机器
+都可能持有与这个类似的
+零件。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027AD58
+文本地址：0024B1BC
+—————原文—————
+So if I can defeat these machines, I'll b
+e able to retrieve the parts of the Grea
+t Machine and rescue the villagers?
+—————译文—————
+那么如果我能击破这些机
+器，就能回收终极机器的
+零件并救出村民们了是吗
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027AD70
+文本地址：0024B41C
+—————原文—————
+Yes. And if you can do that, you'll be re
+ady to confront the Menace. I wish I cou
+ld do more, but I'll have to wait back a
+t the village. If I can assist you from 
+there, I will.
+—————译文—————
+是的，一旦你这么做了，
+就得准备好随时面对麦纳
+斯了。真希望我能帮上忙
+，不过我得回村子去，在
+那里尽我所能协助你。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027AD88
+文本地址：0024B7A8
+—————原文—————
+Alright. Do you know where I should look 
+for these Guardian Machines?
+—————译文—————
+好的。
+你知道我该去哪找这些守
+护者机器吗？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027ADA0
+文本地址：0024B8FF
+—————原文—————
+The Menace will want them as far from eac
+h other as possible. Travel across the M
+eadow to the Cliffs. That's the first pl
+ace you should look.
+—————译文—————
+麦纳斯一定会尽可能把它
+们分散开，来扩大势力范
+围。穿越草原到悬崖去，
+先从那里开始找。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027ADB8
+文本地址：0024BBE1
+—————原文—————
+I'm certain that you'll find one of the G
+uardian Machines in each of the four cor
+ners of Obla, Juka. You must find them b
+efore it's too late!
+—————译文—————
+我确信你能从奥勃拉的四
+个角落里各找到一个守护
+者机器。
+朱卡，尽快找到它们吧！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027ADD0
+文本地址：0024BEAE
+—————原文—————
+PROCESSING TARGET...
+—————译文—————
+目标分析中……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027ADE8
+文本地址：0024BF17
+—————原文—————
+Ahh! What's that thing?!
+—————译文—————
+啊！那是什么？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027AE00
+文本地址：0024BF98
+—————原文—————
+Calm down, Kid. It's just a giant, high-p
+owered Menace Machine. You can handle it
+.
+—————译文—————
+淡定，孩子。
+只是个大型的大功率
+的麦纳斯机器而已。
+你能搞定的。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027AE18
+文本地址：0024C164
+—————原文—————
+TARGET CONFIRMED. GOING TO DEFENSE MODE A
+ND LAUNCHING ATTACKERS.
+—————译文—————
+目标已确认。转入防御模
+式并发射攻击机。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027AE30
+文本地址：0024C2B8
+—————原文—————
+Hello? Is someone there?...Please... Help
+ me....
+—————译文—————
+你好？有人吗？……
+救……救我……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027AE48
+文本地址：0024C3B9
+—————原文—————
+Huh? What was that?
+—————译文—————
+啊？那是什么？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027AE60
+文本地址：0024C41C
+—————原文—————
+NOTHING! SILENCE! PREPARE TO BE DESTROYED
+!
+—————译文—————
+什么也没有！闭嘴！
+准备死吧！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027AE78
+文本地址：0024C506
+—————原文—————
+I think that was a villager, Bufo...
+—————译文—————
+我觉得那是个村民，
+巴弗……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027AE90
+文本地址：0024C5DD
+—————原文—————
+Yeah, I think the Professor's trapped in 
+there, Juka. This is one of those Guardi
+an Machines that Maestro warned us about
+! You might have to collect shots from t
+hose defense turrets to use against him.
+
+—————译文—————
+是的，朱卡。我认为教授
+被困在里面了。
+这就是迈斯托之前所说的
+守护者机器！
+你得收集那些防御炮塔射
+出的音弹来对付它。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027AEA8
+文本地址：0024CA19
+—————原文—————
+Are you all right??
+—————译文—————
+你没事吧？？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027AEC0
+文本地址：0024CA69
+—————原文—————
+Huh? Yes...Thank you, young man. Thank yo
+u for freeing me from that nightmare...
+—————译文—————
+我没事……谢谢你。
+年轻人，感谢你把我从恶
+梦中解放了出来……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027AED8
+文本地址：0024CBFD
+—————原文—————
+How did you wind up [FD]inside[FD] that thing a
+nyway?
+—————译文—————
+你是怎么会在那东西的
+[FD]里面[FD]的呢？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027AEF0
+文本地址：0024CCDA
+—————原文—————
+I can't recall.... Last thing I remember 
+was going outside for some air...
+—————译文—————
+我记不起来了……我只记
+得我是出去散步了。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027AF08
+文本地址：0024CED5
+—————原文—————
+Well, if you're OK now, you should go bac
+k to the village.
+—————译文—————
+好吧，要是你没事了，就
+回村子去吧。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027AF20
+文本地址：0024D019
+—————原文—————
+Good luck to you, young man. I'd better g
+et home to my granddaughter.
+—————译文—————
+祝你好运，年轻人。
+我要回家看我孙女去了。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027AF38
+文本地址：0024D196
+—————原文—————
+Now that you mention it, I saw your grand
+daughter not too long ago. She went look
+ing for you. I'll go get her and bring h
+er here, then you two can make your way 
+back to the village together, OK?
+—————译文—————
+说到这了，我不久前见过
+你孙女。她出来找你了。
+我去带她过来，然后你俩
+就能一起上路了，行吗？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027AF50
+文本地址：0024D568
+—————原文—————
+Yes... Thank you...
+—————译文—————
+行啊……谢谢你……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027AF68
+文本地址：0024D5C4
+—————原文—————
+Well, I'm off then. You two will be OK on
+ your own?
+—————译文—————
+好，那我走了。
+你们俩没问题吧？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027AF80
+文本地址：0024D6E3
+—————原文—————
+Thanks, Juka. We'll be fine.
+—————译文—————
+谢谢，朱卡。
+我们会没事的。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027AF98
+文本地址：0024D77F
+—————原文—————
+Wait! You must take this with you! I have
+ learned something about these creatures
+, and this part is very complex indeed. 
+That machine part must be taken and used
+ to free us... Somewhere important...
+—————译文—————
+等下！你得带上这个！
+我听说过这些东西，这零
+件非常复杂。只有带上它
+才能解救我们…这很重要
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027AFB0
+文本地址：0024DBC3
+—————原文—————
+Thank you. I've been looking for this.
+—————译文—————
+谢谢你。
+我正找这东西呢。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027AFC8
+文本地址：0024DC6A
+—————原文—————
+Thanks again Juka. Don't worry about us, 
+Just help find the others taken.
+—————译文—————
+再次感谢，朱卡。
+别为我们担心了，去解救
+其他被抓走的人吧。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027AFE0
+文本地址：0024DE18
+—————原文—————
+I see... So this is a part of the legenda
+ry Great Machine...
+—————译文—————
+我懂了……
+这就是传说中的终极机器
+的零件咯……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027AFF8
+文本地址：0024DF72
+—————原文—————
+Bye, Juka. See you back in the Village.
+—————译文—————
+再见，朱卡。
+回村子再见啦。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B010
+文本地址：0024E048
+—————原文—————
+Juka, add this [FD]Machine Part[FD] to your jou
+rnal.
+—————译文—————
+朱卡，把这个[FD]机器零件[FD]加
+入到你的日志里。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B028
+文本地址：0024E150
+—————原文—————
+Juka, you have the last [FD]Machine Part[FD] no
+w we have to find the [FD]Great Machine[FD].
+—————译文—————
+朱卡，你找到了最后一个
+[FD]机器零件[FD]。现在我们该去
+找[FD]终极机器[FD]了。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B040
+文本地址：0024E318
+—————原文—————
+What?! My Hover Orb, destroyed??? That ch
+ild does indeed have a Sound Staff! But 
+where would a miserable urchin like him 
+find such a powerful relic? I suspect he
+'s being helped by one whom I thought I 
+had taken care of...
+—————译文—————
+什么？！我的旋浮球被摧
+毁了？？
+那孩子果然有声之杖！可
+这穷小子是怎么找到这强
+力的圣物的？
+我怀疑有个之前被我收拾
+过的家伙在帮他……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B058
+文本地址：0024E7E2
+—————原文—————
+YOU! STOP WHERE YOU ARE AND IDENTIFY YOUR
+SELF!
+—————译文—————
+你！站在原地！
+确认你的身份！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B070
+文本地址：0024E8BB
+—————原文—————
+This must be another Guardian Machine, wh
+ich means there's probably another villa
+ger inside it.
+—————译文—————
+这肯定又是一台守护者机
+器，也就是说可能也有
+村民在里面。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B088
+文本地址：0024EAE5
+—————原文—————
+I got it Bufo.
+—————译文—————
+知道了，巴弗。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B0A0
+文本地址：0024EB35
+—————原文—————
+...SCAN CONFIRMED... SO YOU'RE THE ONE TH
+AT BEAT THE MASTER'S HOVER ORB. NO MATTE
+R. I'LL STOP YOU.
+—————译文—————
+……扫描确认……
+你就是破坏主人旋浮球的
+家伙。
+不过无所谓了，反正你要
+死在这里了。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B0B8
+文本地址：0024ED75
+—————原文—————
+What's going on? I can't see... Is someon
+e there?
+—————译文—————
+发生了什么？
+我看不到……有人吗？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B0D0
+文本地址：0024EE7E
+—————原文—————
+QUIET, YOU!
+—————译文—————
+安静！说你呢！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B0E8
+文本地址：0024EEB8
+—————原文—————
+Yep. Looks like there's a villager in the
+re.
+—————译文—————
+错不了，
+有个村民在里面呢。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B100
+文本地址：0024EFB3
+—————原文—————
+Well, I guess I'd better smash this thing
+ and free him.
+—————译文—————
+好吧，我想我得破坏这玩
+意，把他救出来。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B118
+文本地址：0024F0DE
+—————原文—————
+Careful Juka... This one flies, which mea
+ns it'll be tougher to hit.
+—————译文—————
+小心点，朱卡……
+这东西会飞，也就是说想
+击中它会更难。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B130
+文本地址：0024F25A
+—————原文—————
+Oh, thank you for freeing me from that te
+rrible thing!
+—————译文—————
+噢，谢谢你把我从这讨厌
+的东西里救了出来！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B148
+文本地址：0024F375
+—————原文—————
+Uh, no problem, Mr. Barleygrist. Do you r
+emember at all what happened before you 
+got trapped in the machine?
+—————译文—————
+没事的，大麦粉先生。
+你还记得你被困入这个机
+器之前的事情吗？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B160
+文本地址：0024F5A6
+—————原文—————
+No... I was just taking a walk after havi
+ng dinner with Lucy.. Oh no! I have to g
+et back to the village and take care of 
+her!
+—————译文—————
+记不得了……
+和露茜吃过晚饭后，我就
+去散步了……
+噢不！我得赶回村子去照
+顾她！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B178
+文本地址：0024F808
+—————原文—————
+Actually, she's just down that path over 
+there. She came looking for you.
+—————译文—————
+其实她就在那边的小路
+上。她来找你了。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B190
+文本地址：0024F997
+—————原文—————
+Oh, of all the reckless things to do! She
+'s in big trouble.
+—————译文—————
+噢？就这么愣头愣脑的出
+来了？看我怎么收拾她！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B1A8
+文本地址：0024FAC6
+—————原文—————
+I'll go bring her here, and you two can g
+o back together, OK?
+—————译文—————
+我去带她来这，然后你们
+就能一起回去了，好吗？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B1C0
+文本地址：0024FC00
+—————原文—————
+Thank you, Juka.
+—————译文—————
+谢谢你，朱卡。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B1D8
+文本地址：0024FC49
+—————原文—————
+Well, young lady! What do you have to say
+ for yourself?
+—————译文—————
+那么，小丫头！
+你还有什么要说的吗？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B1F0
+文本地址：0024FD57
+—————原文—————
+Aw, come on dad! I just wanted to see if 
+you were OK!
+—————译文—————
+嗨！得了吧老爸！我只是
+想确认你是否没事！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B208
+文本地址：0024FE70
+—————原文—————
+Well, it's a good thing Juka found us, or
+ who knows what might have happened.
+—————译文—————
+哼，
+好在朱卡找到了我们，否
+则谁知道会发生什么。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B220
+文本地址：0025001F
+—————原文—————
+Yeah, thanks for helping, Juka!
+—————译文—————
+没错，朱卡！
+感谢你的帮助！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B238
+文本地址：002500BF
+—————原文—————
+No problem. You two be careful on your tr
+ip back, ok?
+—————译文—————
+小事一桩。你们俩回去的
+路上要小心啊。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B250
+文本地址：002501FD
+—————原文—————
+We will, Juka. Thanks again. Oh, by the w
+ay, that machine was guarding this weird
+ device. I don't know what it's for, but
+ it must be important.
+—————译文—————
+我们会的，朱卡。
+再次感谢。那台机器守护
+着这个奇怪的装置，我也
+不知道它是干嘛用的，但
+一定很重要。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B268
+文本地址：002504FA
+—————原文—————
+This must be another piece of the Great M
+achine, Juka.
+—————译文—————
+这一定是终极机器的另一
+个零件，朱卡。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B280
+文本地址：0025061A
+—————原文—————
+Thanks, Juka. You're a lifesaver... If yo
+u ever need any muffins, come talk to me
+.
+—————译文—————
+谢谢，朱卡。
+你是我的救命恩人。
+想吃松饼了随时来找我。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B298
+文本地址：002507D2
+—————原文—————
+Thanks, Juka. You should teach me how to 
+brew potions too, sometime.
+—————译文—————
+谢谢，朱卡。
+下次有机会也教教我合成
+药剂吧。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B2B0
+文本地址：00250946
+—————原文—————
+ANOTHER of my Guardian Machines destroyed
+? And by the same unassuming boy... This
+ can't be a coincidence. He's deliberate
+ly seeking out my Guardian Machines, whi
+ch means someone... or something... is a
+iding him. He must be stopped before he 
+re-activates the Great Machine...
+—————译文—————
+又一台守护者机器被毁了
+？又是那个小毛孩儿……
+这不是巧合，他是特意去
+找上我的守护者机器，也
+就是说有什么人在帮助他
+。必须在他重启终极机器
+之前阻止他。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B2C8
+文本地址：00250EDB
+—————原文—————
+HEEE HEEE HEEE.....FREEZE WHERE YOU STAND
+, LITTLE ONE...
+—————译文—————
+嗡嗡嗡……
+呆着别动！小东西！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B2E0
+文本地址：00250FC1
+—————原文—————
+Another one of the Menace's Guardian Mach
+ines, Juka. There's cool air coming off 
+of it, even in this cold! Careful, Juka.
+..
+—————译文—————
+又是一台麦纳斯的守护者
+机器。
+即便已经这么冷了，依然
+能感受到它寒冷的气息！
+小心点吧，朱卡。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B2F8
+文本地址：00251234
+—————原文—————
+I'LL CHILL YOU TO THE BONE...
+—————译文—————
+我要把你冻成冰棍儿……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B310
+文本地址：002512CE
+—————原文—————
+Bufo, this thing is creeping me out. I'm 
+gonna trash it now.
+—————译文—————
+巴弗，这东西真讨厌。我
+要把它变成一堆废铁。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B328
+文本地址：002513EC
+—————原文—————
+GAH! I MUST RETREAT...
+—————译文—————
+嘎！我得撤退了……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B340
+文本地址：00251475
+—————原文—————
+TRAPPED! I HAVE YOU NOW! HEE HEE HEE...
+—————译文—————
+捉住了！我捉住你了！
+嗡嗡嗡……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B358
+文本地址：00251550
+—————原文—————
+Watch out for freeze shots, Juka. And be 
+careful, as always.
+—————译文—————
+当心冰冻音弹，朱卡。
+小心驶得万年船。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B370
+文本地址：002516AD
+—————原文—————
+Don't worry, Bufo. I can handle this thin
+g.
+—————译文—————
+别担心，巴弗。
+我能搞定它。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B388
+文本地址：002517AF
+—————原文—————
+Juka? Is that you? Please help me, it's f
+reezing in here!
+—————译文—————
+朱卡？是你吗？救救我！
+这里好冷啊！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B3A0
+文本地址：002518E0
+—————原文—————
+Sounds like this one is villager-powered 
+as well...
+—————译文—————
+看来这台也是用村民来
+驱动的……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B3B8
+文本地址：00251A31
+—————原文—————
+HEEE HEEE... I'M GOING TO TURN YOU INTO A
+N ICICLE!!
+—————译文—————
+嗡嗡……
+我要把你变成冰棍儿！！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B3D0
+文本地址：00251B2B
+—————原文—————
+Oh... Thank you.... It was so cold inside
+ that thing...
+—————译文—————
+噢……谢谢你……
+那里面实在是太冷了……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B3E8
+文本地址：00251C2B
+—————原文—————
+Well, you'll be OK now.
+—————译文—————
+嗯，你没事就好。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B400
+文本地址：00251CB5
+—————原文—————
+Juka, is that you? Are YOU the one who sa
+ved me?
+—————译文—————
+朱卡，是你吗？
+救了我的人是你吗？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B418
+文本地址：00251D99
+—————原文—————
+Yes, ma'am. It seems like all of the miss
+ing villagers are being used in machines
+ like this. You're the third one I've fo
+und.
+—————译文—————
+是的，夫人。
+看来所有失踪的村民都被
+装进了这样的机器。你是
+我找到的第三个人。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B430
+文本地址：00252039
+—————原文—————
+Oh my, that's terrible! I have to get bac
+k to the village to check on Billy!
+—————译文—————
+天哪，简直糟透了！我得
+赶回村子去看看比利了！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B448
+文本地址：002521C2
+—————原文—————
+Uh, well, he's actually not too far away.
+ He came looking for you and got caught.
+ Oh, but don't worry, I saved him!
+—————译文—————
+嗯，其实他离得不太远。
+他出来找你结果被抓了。
+不过没事，我已经把他救
+出来了！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B460
+文本地址：00252434
+—————原文—————
+Well, that was very brave of you Juka. I 
+don't know how I can thank you, saving m
+e and little Billy like this...
+—————译文—————
+好好，你真是太勇敢了，
+朱卡。
+你救了我们母子俩，真不
+知道该怎么感谢你。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B478
+文本地址：00252673
+—————原文—————
+Um, why don't I go get him and bring him 
+back here?
+—————译文—————
+呵呵，那我现在就去把他
+带过来。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B490
+文本地址：0025276B
+—————原文—————
+Oh, that would be wonderful, Juka.
+—————译文—————
+噢，那太好了，朱卡。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B4A8
+文本地址：0025280D
+—————原文—————
+I'm so glad you're all right! But you sho
+uldn't have left the house, especially a
+fter Juka told you to stay home.
+—————译文—————
+你没事实在是太好了！但
+你不该离开家的，朱卡都
+跟你说了呆在家里。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B4C0
+文本地址：00252AB3
+—————原文—————
+I know. I'm sorry, mom.
+—————译文—————
+我知道错了，妈妈。
+对不起。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B4D8
+文本地址：00252B34
+—————原文—————
+Well, I'm just glad we're both alright no
+w. Thanks again, Juka. I wish you luck i
+n finding the others.
+—————译文—————
+好了，我们都没事就好。
+再次感谢，朱卡。希望你
+能顺利找到其他人。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B4F0
+文本地址：00252D96
+—————原文—————
+Bye, Juka! I'll see you back at the villa
+ge!
+—————译文—————
+再见，朱卡！
+我们回村子再见！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B508
+文本地址：00252E6D
+—————原文—————
+See you back at the Village, Juka. If the
+re's anything I can do to help, please l
+et me know.
+—————译文—————
+回村子再见，朱卡。
+如果有什么我能帮忙的，
+请告诉我。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B520
+文本地址：00253030
+—————原文—————
+Later, Juka. Sorry for not listening to y
+ou before...
+—————译文—————
+回见，朱卡。
+抱歉之前没听你的话……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B538
+文本地址：00253155
+—————原文—————
+Blast!! He's destroyed the Frostinator as
+ well!! He's searching for the keys to o
+pen the Ruinsdoor, so he intends to acti
+vate the Great Machine now. It must be t
+he Traitor helping him. I will dispatch 
+Kodo to deal with this young upstart, th
+en I'm coming for you... Maestro...
+—————译文—————
+该死！！冰霜守护者也被
+干掉了！！他在搜寻打开
+遗迹之门的钥匙，也就是
+说他打算激活终极机器。
+一定是那个叛徒在帮他。
+我要派库多去对付他，然
+后就去找你…迈斯托…
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B550
+文本地址：002536D2
+—————原文—————
+Kodo has failed me... No... I can feel th
+e [FD]Monophonic Spell[FD] crumbling... My min
+ions will be vulnerable to that whelp's 
+Alchemy now, and he grows ever stronger.
+ If I don't stop him soon, I may not be 
+able to stop him at all...
+—————译文—————
+库多辜负了我……不……
+我能感到[FD]单音咒[FD]在消散…
+…我的士兵现在扛不住那
+个小崽子的炼金术了，他
+变强了。
+如果我不尽快阻止他，恐
+怕永远都没机会了。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B568
+文本地址：00253BA5
+—————原文—————
+Hahahahahaaa... I been following you for 
+long time. Master be happy with me for c
+atching you!
+—————译文—————
+哈哈哈哈哈哈……
+我跟着你好久了。
+抓住你主人会很高兴的！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B580
+文本地址：00253DAC
+—————原文—————
+Not him again... 
+—————译文—————
+不是吧？又是他……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B598
+文本地址：00253E12
+—————原文—————
+Fraid so, Bufo. What's with this guy anyw
+ay? Why is he so persistent?
+—————译文—————
+恐怕是的，巴弗。
+这家伙是怎么了？
+怎么这么一根筋？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B5B0
+文本地址：00253F8D
+—————原文—————
+Heh... Froggy know why I'll never stop hu
+nting him. He and I are... same.
+—————译文—————
+哼…那只青蛙知道我为何
+一直追杀他。
+他和我是……同类。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B5C8
+文本地址：00254130
+—————原文—————
+Huh? Bufo, what is he talking about? Do y
+ou two know each other?
+—————译文—————
+啊？巴弗，他说什么呢？
+你们俩之前认识吗？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B5E0
+文本地址：00254250
+—————原文—————
+Never mind that! Juka, he's very tricky. 
+I'm sure he's set up to gate in more Men
+ace Machines. Just do like you did befor
+e; keep beating them, and you'll eventua
+lly drain out his energy.
+—————译文—————
+别管他了！朱卡，他很狡
+猾的。我敢确定他还有更
+多麦纳斯机器。像往常一
+样继续痛扁它们吧，直到
+他起不来为止。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B5F8
+文本地址：0025464C
+—————原文—————
+My machines gonna take care of you, then 
+I go after Froggy and the traitor for th
+e Master...
+—————译文—————
+我的机器会对付你的，接
+着我会去找那只青蛙和背
+叛主人的家伙。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B610
+文本地址：00254849
+—————原文—————
+No... I lose... I fail Master... 
+—————译文—————
+不……我输了……
+我辜负了主人……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B628
+文本地址：0025491B
+—————原文—————
+Well done, Juka. You've destroyed him, an
+d you've found the last Machine Part, wh
+ich means that you're ready to hear the 
+truth. You see, Maestro, the Menace and 
+I, we go way back. Do you remember what 
+I taught you about the Alchemy War?
+—————译文—————
+干得好，朱卡。你干掉他
+了，还找到了最后的机器
+零件，这意味着是时候告
+诉你真相了。
+你知道的，迈斯托，麦纳
+斯和我，我们早就认识。
+还记得我跟你说过的炼金
+术大战吗？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B640
+文本地址：00254E4B
+—————原文—————
+Yeah, I remember. The Settlers found the 
+Great Temple, and the Alchemists wanted 
+to turn it into some kind of magical con
+ductor. The King opposed them, and war b
+roke out between the Alchemists and the 
+Soldiers.
+—————译文—————
+我记得。
+移民们发现了大神庙，炼
+金师们想把它变成某种魔
+法的导体，国王却不同意
+，于是炼金师和士兵之间
+的大战就这样爆发了。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B658
+文本地址：00255276
+—————原文—————
+Well, when they found the Great Temple, t
+hey found me and Kodo, that thing you ju
+st destroyed, inside. You see, we're mac
+hines, built by the Ancients to serve th
+em, all those ages ago.
+—————译文—————
+嗯，他们发现大神庙时也
+发现了我和库多，就是刚
+刚被你毁掉的家伙。
+你要知道，我们都是很久
+以前由先民制造出来服侍
+他们的机器。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B670
+文本地址：0025568B
+—————原文—————
+Wait, so you're thousands of years old? W
+hy don't you and Kodo look alike if you'
+re both Ancient machines?
+—————译文—————
+等等，也就是说你有好几
+千岁了？
+可是既然你和库多同为远
+古机器，为什么看起来却
+不太一样呢？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B688
+文本地址：002558EC
+—————原文—————
+I think I'd better answer that, Juka...
+—————译文—————
+我想最好由我来回答这个
+问题，朱卡……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B6A0
+文本地址：002559D0
+—————原文—————
+Maestro?
+—————译文—————
+迈斯托？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B6B8
+文本地址：00255A01
+—————原文—————
+Yes, Juka. I'm here, with Bufo. And I'm i
+n awe of all you've accomplished, and so
+ proud of how far you've come. Well, lik
+e Bufo said, his kind were made to serve
+ the Ancients. When they're activated, t
+hey... adjust themselves to match the on
+e who activates them. I reactivated Bufo
+. But Kodo was reactivated by the Menace
+, so he became twisted and evil.
+—————译文—————
+是我，朱卡。我和巴弗在
+一起。我对你的所作所为
+表示无比的敬佩，对你走
+过的旅程感到无比骄傲。
+就像巴弗所说的，他是被
+制造出来服侍先民的。当
+他们被启动时，他们会…
+…自我调整以匹配启动他
+们的人。
+我重启了巴弗，而库多则
+是由麦纳斯重启的，所以
+才变得扭曲而邪恶。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B6D0
+文本地址：0025617F
+—————原文—————
+So you're also one of the King's Alchemis
+ts?
+—————译文—————
+这么说你也是皇家炼金师
+的一员咯？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B6E8
+文本地址：00256276
+—————原文—————
+Yes. I fought against the other Alchemist
+s in the war, and when it ended, I worke
+d with Bufo for a long time holding the 
+Menace in check. But age has caught up w
+ith me. I can't keep up with the Menace 
+anymore, so I had to retire. I had Bufo 
+train an apprentice for me. That's you, 
+Juka.
+—————译文—————
+是的，在大战中我和其他
+炼金师对抗，在那之后，
+我和巴弗一起将麦纳斯压
+制了很长时间。然而人总
+是会输给时间，我已经老
+了，是时候隐退了。
+我让巴弗培养了一位继任
+者。就是你，朱卡。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B700
+文本地址：0025688A
+—————原文—————
+So all this time, I've been training to s
+quare off against the Menace?
+—————译文—————
+这么说长久以来，我受到
+的训练都是为了对抗麦纳
+斯吗？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B718
+文本地址：00256A02
+—————原文—————
+Yeah, kid. I'm sorry I kept you in the da
+rk, but you had to stay hidden from the 
+Menace until now, when you're ready to f
+ace him.
+—————译文—————
+是的，孩子。
+很抱歉对你隐瞒了一切。
+但在你准备好面对麦纳斯
+之前，绝不能把你暴露出
+来。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B730
+文本地址：00256CD9
+—————原文—————
+Juka... Re-activate the Great Machine. Yo
+u're our only hope...
+—————译文—————
+朱卡……
+重启终极机器吧。你是我
+们唯一的希望了……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B748
+文本地址：00256E2E
+—————原文—————
+Watch yourself, Kid. There are some weird
+ energy readings in that room.
+—————译文—————
+保重，孩子。那个房间内
+有异常的能量反馈。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B760
+文本地址：00256FBB
+—————原文—————
+HEY, BROTHER. CHECK IT OUT, WE GOT COMPAN
+Y.
+—————译文—————
+嘿，兄弟。
+快看啊，我们有伴儿了。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B778
+文本地址：00257094
+—————原文—————
+WE WILL EZECUTE THE MASTER'S ORDERS AND C
+APTURE HIM.
+—————译文—————
+我们会执行主人的命令并
+抓住他。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B790
+文本地址：002571AA
+—————原文—————
+Help me... I'm scared...
+—————译文—————
+救救我……
+我好怕……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B7A8
+文本地址：0025722E
+—————原文—————
+YOU HEAR SOMETHING, BRO?
+—————译文—————
+你听到什么没有？兄弟。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B7C0
+文本地址：002572B6
+—————原文—————
+NEGATIVE.
+—————译文—————
+没有。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B7D8
+文本地址：002572E6
+—————原文—————
+Juka... I think those are the Windsong bo
+ys under that armor...
+—————译文—————
+朱卡……我想那盔甲里是
+风歌女士的孩子们……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B7F0
+文本地址：00257435
+—————原文—————
+LET'S GET HIM, BRO!
+—————译文—————
+我们上吧！兄弟！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B808
+文本地址：002574B2
+—————原文—————
+AFFIRMATIVE. COMBAT SEQUENCE RUNNING.
+—————译文—————
+收到，战斗序列启动。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B820
+文本地址：0025757C
+—————原文—————
+Huh? What's going on? Where are we?
+—————译文—————
+额，这是怎么了？
+我们在哪？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B838
+文本地址：00257638
+—————原文—————
+It's all right. You're both gonna be OK n
+ow.
+—————译文—————
+没事，你们都会没事的。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B850
+文本地址：00257717
+—————原文—————
+How do you know that? I want my mommy!!!
+—————译文—————
+你知道什么？
+我要找我妈妈！！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B868
+文本地址：002577EE
+—————原文—————
+....My brother's such a wimp.
+—————译文—————
+……
+我弟弟就是个爱哭鬼。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B880
+文本地址：0025788B
+—————原文—————
+No, it's OK. Your mom's nearby, I promise
+. You just wait for a second and I'll fi
+nd her and bring her here. Then you can 
+all go home.
+—————译文—————
+呵呵，没什么啦。
+你们的妈妈就在附近。你
+们俩稍等下，我这就去把
+她带来，然后你们一起回
+家。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B898
+文本地址：00257B46
+—————原文—————
+Ok Juka... Please hurry...
+—————译文—————
+好的朱卡……
+请快一点……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B8B0
+文本地址：00257BF8
+—————原文—————
+I'm so glad you two are OK!
+—————译文—————
+你们俩没事真是太好了！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B8C8
+文本地址：00257CCF
+—————原文—————
+It wasn't so bad, Mom. It was kinda fun!
+—————译文—————
+不算太糟，妈妈。
+其实还挺好玩的！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B8E0
+文本地址：00257DB2
+—————原文—————
+Fun? Arlo, look how much trouble you've c
+aused! We should all just be thankful th
+at Juka was able to help.
+—————译文—————
+好玩？阿洛，看看你们惹
+了多大的麻烦！
+多亏了朱卡啊！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B8F8
+文本地址：00257FD6
+—————原文—————
+Yeah! Thanks, Juka!
+—————译文—————
+是的！谢谢，朱卡！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B910
+文本地址：00258036
+—————原文—————
+Juka, will you teach me to be an alchemis
+t someday?
+—————译文—————
+朱卡，我能拜你为师吗？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B928
+文本地址：00258140
+—————原文—————
+Yeah, Johnny, I promise. Now you three ha
+ve a safe trip back, OK?
+—————译文—————
+好啊，乔尼，我答应你。
+现在你们三个可以安全的
+回家了，是不是？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B940
+文本地址：002582C5
+—————原文—————
+We'll be fine, Juka. Thanks again.
+—————译文—————
+我们会好好的，朱卡。
+再次感谢。
+—————结束—————
+
+—————备注—————
+
+指针地址：0027B958
+文本地址：0025838A
+—————原文—————
+See you back at the village, Juka!
+—————译文—————
+回村子见，朱卡！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B970
+文本地址：00258436
+—————原文—————
+Juka, remember that you promised to teach
+ me Alchemy someday!
+—————译文—————
+朱卡，别忘了你答应要教
+我炼金术的啊！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B988
+文本地址：0025858A
+—————原文—————
+Thanks again, Juka. Good luck on your jou
+rney.
+—————译文—————
+再次感谢，朱卡。
+祝你好运！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B9A0
+文本地址：00258690
+—————原文—————
+How has it come to this? He has breached 
+my fortress through a secret passage... 
+I cannot believe that a mere boy has com
+e so far. I must organise my armies in a
+ final stand, here in the Castle. And if
+ that should fail, I will face him mysel
+f, and show him what a Master Alchemist 
+can do...
+—————译文—————
+他是怎么办到的？从一条
+密道来到了我的要塞……
+真不敢相信一个小男孩能
+走这么远。我得集结我的
+军队准备好保卫城堡。
+要是还不行，我就得自己
+上了，就让我给他展示下
+大师级炼金师能做什么吧
+……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B9B8
+文本地址：00258CD3
+—————原文—————
+That's him, Juka! The Menace himself! Be 
+careful, kid. He's an alchemist like you
+, so he'll probably use potions of his o
+wn.
+—————译文—————
+就是他，朱卡！
+麦纳斯本人！
+小心了，孩子。
+他和你一样是个炼金师，
+很可能会使用他独有的药
+剂。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B9D0
+文本地址：00258F66
+—————原文—————
+So this is the one who would stand in my 
+way. A child. How pathetic.
+—————译文—————
+这就是那个妄图阻止我的
+人吗？
+一个小屁孩？真可怜！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027B9E8
+文本地址：002590D4
+—————原文—————
+Did you just call me a child? You're goin
+g down, Baldy.
+—————译文—————
+你刚刚叫我小屁孩是吗？
+你死定了，秃子。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027BA00
+文本地址：002591F4
+—————原文—————
+Insolent boy. I'll teach you some respect
+!
+—————译文—————
+粗野的孩子。
+我来教教你什么是礼貌！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027BA18
+文本地址：002592E5
+—————原文—————
+Well, I underestimated you. You won't win
+ that easily, though.
+—————译文—————
+好吧，是我低估你了。
+不过，你还没有获胜。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027BA30
+文本地址：00259423
+—————原文—————
+Scared already? I haven't even begun yet.
+..
+—————译文—————
+这就怕了？
+我还没开始呢……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027BA48
+文本地址：00259529
+—————原文—————
+Ready for round two, infant?
+—————译文—————
+准备好第二回合了吗？
+小娃娃。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027BA60
+文本地址：002595D3
+—————原文—————
+You're gonna pay for what you did to thos
+e villagers, Menace...
+—————译文—————
+你会为你对村民们做的那
+些事付出代价的，麦纳斯
+……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027BA78
+文本地址：00259729
+—————原文—————
+Hah! You're a fool. You think the lives o
+f those people matter to me?
+—————译文—————
+哈哈！傻小子。你以为我
+会在乎那些人的性命吗？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027BA90
+文本地址：0025987F
+—————原文—————
+Juka, each time he summons more Machines,
+ it drains his suit's power. Just keep d
+estroying them, and he'll start tiring.
+—————译文—————
+朱卡，每次他召唤更多机
+器，都会消耗他装甲的能
+量，持续破坏它们，一会
+他就该累了。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027BAA8
+文本地址：00259B07
+—————原文—————
+Quit stalling, old man.
+—————译文—————
+存货不少啊，老家伙。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027BAC0
+文本地址：00259B9F
+—————原文—————
+You were lucky before, boy, but you won't
+ last much longer...
+—————译文—————
+你之前是运气好，小子。
+但不会一直好下去……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027BAD8
+文本地址：00259CDA
+—————原文—————
+How did you survive my second wave?! Ugh.
+.. I have to retreat again.
+—————译文—————
+你是怎么抗住我的第二波
+攻势的？！
+呃……我又得撤了。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027BAF0
+文本地址：00259E73
+—————原文—————
+You won't be able to keep this up much lo
+nger...
+—————译文—————
+你不会得意太久的……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027BB08
+文本地址：00259F43
+—————原文—————
+Why do you bother, Boy? You'll never be a
+ble to defeat me.
+—————译文—————
+为何如此执着呢？孩子。
+你永远无法击败我的。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027BB20
+文本地址：0025A071
+—————原文—————
+We'll see about that. You're starting to 
+look pretty tired, old man.
+—————译文—————
+我们走着瞧吧。到时候可
+有你受的，老头儿。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027BB38
+文本地址：0025A198
+—————原文—————
+Ha! You're the one who's tiring! And ther
+e's no way you'll be able to beat my mac
+hines this time!
+—————译文—————
+哈！会受不住的是你！
+这次你不可能打败我的机
+器了。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027BB50
+文本地址：0025A386
+—————原文—————
+You're finished, boy...
+—————译文—————
+你完了，小子……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027BB68
+文本地址：0025A400
+—————原文—————
+No! This is.... impossible.... But you ha
+ven't won yet. I'll simply have to defea
+t you one on one, as it's meant to be.
+—————译文—————
+不！这……不可能……
+但你还没赢呢。一对一的
+话，我可以轻松解决你，
+这是命中注定的。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027BB80
+文本地址：0025A645
+—————原文—————
+Heh... I never thought you would come so 
+far... You're so much stronger than I th
+ought. We are both so powerful... why do
+ we have to be enemies? With our dominan
+ce in Alchemy, we could rule the world t
+ogether!
+—————译文—————
+呼……没想到你能达到这
+种程度……比我预想的要
+强太多了。
+我们都是强者，为何不联
+手呢？用我们的炼金术一
+起统治这世界。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027BB98
+文本地址：0025AAAE
+—————原文—————
+I don't want to rule the world. Especiall
+y not with a monster like you who's will
+ing to sacrifice innocent people to get 
+what he wants.
+—————译文—————
+我才不想统治世界呢，尤
+其是不想和你这样一个为
+达目的，不惜牺牲无辜性
+命的禽兽一起。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027BBB0
+文本地址：0025AD7A
+—————原文—————
+This is it Juka... The final battle. Be v
+ery careful. Nothing you've fought again
+st yet even comes close.
+—————译文—————
+就是这里了，朱卡……最
+后一战。千万当心。
+真正的敌人还没出现。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027BBC8
+文本地址：0025AFAD
+—————原文—————
+I should have known better than to reason
+ with such a little fool. It's a shame, 
+but I'll just have to defeat you and rul
+e by myself.
+—————译文—————
+我真不该和你这傻小子讲
+大道理。
+太遗憾了，我要击败你，
+自己来统治这世界。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027BBE0
+文本地址：0025B266
+—————原文—————
+You're not gonna be ruling anything Baldy
+...
+—————译文—————
+你什么也统治不了……
+秃子……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027BBF8
+文本地址：0025B324
+—————原文—————
+We'll see about that...
+—————译文—————
+我拭目以待……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027BC10
+文本地址：0025B380
+—————原文—————
+No... My Suit! It's overloading...[FD]AAAHHH
+HHH!!!![FD]
+—————译文—————
+不……我的装甲！
+竟过载了……
+[FD]啊啊啊啊啊！！！[FD]
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027BC28
+文本地址：0025B48D
+—————原文—————
+Hey Juka! Over here!
+—————译文—————
+嘿朱卡！走这边！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027BC40
+文本地址：0025B4F0
+—————原文—————
+This place is falling apart. We'd better 
+get outta here, pronto!
+—————译文—————
+这地方在坍塌。
+我们最好赶紧离开这！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027BC58
+文本地址：0025B640
+—————原文—————
+But the Menace... I know he's an evil mas
+termind, but we can't leave him.
+—————译文—————
+还有麦纳斯……
+我知道他是个坏蛋，不过
+我们不能就这么丢下他。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027BC70
+文本地址：0025B7ED
+—————原文—————
+Juka... We can't save him, there's no tim
+e! We have to go now!
+—————译文—————
+朱卡……我们救不了他，
+没时间了！
+必须马上离开！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027BC88
+文本地址：0025B961
+—————原文—————
+We are gathered here today to celebrate t
+he hero of our humble village, young Juk
+a. For many years, following the Alchemy
+ Wars, we have distrusted those who prac
+tice Alchemy. But now, that has to chang
+e.
+—————译文—————
+我们聚集于此来祝贺我们
+村的英雄，年轻的朱卡。
+自多年前的炼金术大战以
+来，我们一直排挤修习炼
+金术的人，现在必须为此
+做出改变了。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027BCA0
+文本地址：0025BDFF
+—————原文—————
+He brought all of us home, kept the villa
+ge safe from our enemies!
+—————译文—————
+他把我们救了回来，从敌
+人手里拯救了这个村子！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027BCB8
+文本地址：0025BF79
+—————原文—————
+He's a true hero, and we owe him our grat
+itude for all time!
+—————译文—————
+他是真正的英雄，我们将
+永远感激他！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027BCD0
+文本地址：0025C0D0
+—————原文—————
+Well, I did what I could...
+—————译文—————
+额，我只是尽我所能……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027BCE8
+文本地址：0025C174
+—————原文—————
+Nonsense, my boy! Miss Windsong is right!
+ You are a true hero, and, by the power 
+vested in me as Mayor, I proclaim you to
+ be the Savior of our Village. All who l
+ive here are indebted to this young man!
+
+—————译文—————
+别谦虚了，孩子！风歌女
+士说的没错！你是真正的
+英雄。以村长的名义，我
+宣布你为我们村的救星。
+所有居住于此的人都应该
+感谢这个年轻人！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027BD00
+文本地址：0025C5EB
+—————原文—————
+You've done it Juka... I can sense that t
+he Menace is no more. At last, I can res
+t easy. No words of mine can express how
+ happy and thankful I am.
+—————译文—————
+你成功了，朱卡……我能
+感知到麦纳斯的消亡。
+我终于也能好好休息了，
+我不知该说什么来表达我
+的喜悦和对你的感谢。
+—————结束—————
+
+—————备注—————
+
+指针地址：0027BD18
+文本地址：0025C919
+—————原文—————
+Well, what are we waiting for? I think a 
+celebration is in order! I'll start baki
+ng right away!
+—————译文—————
+那我们还等什么啊？我想
+庆典该开始了吧！我马上
+去做点心！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027BD30
+文本地址：0025CB1A
+—————原文—————
+And I guess that leaves us Yetis to provi
+de the music. I'll call Dwayne, and he'l
+l bring everyone! Care to play along wit
+h us, Juka?
+—————译文—————
+那就让我们雪人来奏乐。
+我会叫德维恩带上所有人
+一起过来！
+愿意和我们一起演奏吗？
+朱卡。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027BD48
+文本地址：0025CDD9
+—————原文—————
+Of course! Let's party!
+—————译文—————
+当然了！派对开始！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027BD60
+文本地址：0025CE6A
+—————原文—————
+Whoah! Take a look at that, Bufo!... That
+'s a big door.
+—————译文—————
+哇啊！看看那个，巴弗！
+……好大一扇门啊。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027BD78
+文本地址：0025CF6E
+—————原文—————
+Whatever's on the other side has gotta be
+ good. It looks like it's locked up tigh
+t, kid.
+—————译文—————
+孩子，我猜那里面一定有
+好东西，因为这锁看起来
+很结实。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027BD90
+文本地址：0025D149
+—————原文—————
+Hmm. There seem to be holes for [FD]4 keys[FD].
+ I guess I'd better keep a sharp eye out
+ for these [FD]Ruinskeys[FD].
+—————译文—————
+看上去有[FD]４个[FD]钥匙孔。我
+猜我得去好好找找这些
+[FD]遗迹钥匙[FD]了。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027BDA8
+文本地址：0025D374
+—————原文—————
+Juka, this door is pretty heavy, and it w
+as made by the Ancients. I doubt if we c
+an get it open without those keys...
+—————译文—————
+朱卡，这扇门很重，它是
+由先民制造的。不知道能
+否用那些钥匙打开它……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027BDC0
+文本地址：0025D5CF
+—————原文—————
+OK, Juka... Place the keys in their slots
+, and the door should open on its own...
+
+—————译文—————
+好了，朱卡……
+把钥匙都插进去，门会自
+己打开的……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027BDD8
+文本地址：0025D792
+—————原文—————
+Right, Bufo... Whoah... The keys started 
+to glow when I got close to the door.
+—————译文—————
+好的巴弗……哇哦……
+当我靠近大门，这些钥匙
+开始发光了。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027BDF0
+文本地址：0025D94E
+—————原文—————
+You should see something happening any se
+cond now, Juka... Just stand back.
+—————译文—————
+说不准要发生什么……
+朱卡，离远一些。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027BE08
+文本地址：0025DAB9
+—————原文—————
+Juka... this is it![FE] Look! The Great Mach
+ine!
+—————译文—————
+朱卡……就是它了！
+看啊！终极机器！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027BE20
+文本地址：0025DB99
+—————原文—————
+Quickly, kid! Walk over there and place t
+he [FD]Machine Parts![FD] If this works, the M
+onophonic Spell will be broken, and the 
+Menace Machines will be vulnerable to yo
+ur potions.
+—————译文—————
+快点，孩子！走过去装好
+[FD]机器零件[FD]。如果这有用
+的话，单音咒会被摧毁，
+你也就能对麦纳斯的机器
+使用药剂了。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027BE38
+文本地址：0025DF22
+—————原文—————
+Wait, what do you mean 'if', Bufo?
+—————译文—————
+等下，巴弗。你说的“如
+果”是什么意思？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027BE50
+文本地址：0025DFD6
+—————原文—————
+The Machine is very, very old, Juka... To
+ be honest, I'm not even sure if I'll be
+ able to re-activate it, even with Maest
+ro's help...
+—————译文—————
+这机器相当的古老，朱卡
+……说实话，即使有迈斯
+托帮忙，我还是不确定能
+否重启它。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027BE68
+文本地址：0025E298
+—————原文—————
+Only one way to find out, huh, Bufo?
+—————译文—————
+要试试才知道，对吧？
+巴弗。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027BE80
+文本地址：0025E377
+—————原文—————
+Hey, there seem to be some old writings o
+n the surface...
+—————译文—————
+嘿，这上面好像有些古老
+的文字……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027BE98
+文本地址：0025E4AE
+—————原文—————
+I AM THE RUINSTONE OF THE MEADOW GLADE. W
+HO DISTURBS MY SLUMBER?
+—————译文—————
+吾乃林间草原之遗迹石。
+何人醒我大梦？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027BEB0
+文本地址：0025E610
+—————原文—————
+Ow! No need to yell in my ear...
+—————译文—————
+啊呀！声音好大啊……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027BEC8
+文本地址：0025E6E5
+—————原文—————
+Told you they could talk...
+—————译文—————
+跟你说过他们会说话的。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027BEE0
+文本地址：0025E79D
+—————原文—————
+You may be able to help me, human. My [FD]El
+ement[FD] is gone... if you bring it back t
+o [FE]me, I will teach you a secret of alch
+emy.
+—————译文—————
+或许你能帮助我，凡人。
+我的[FD]元素[FD]丢失了……
+要是你能帮我找回来，我
+就教你个炼金术的秘方。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027BEF8
+文本地址：0025EA40
+—————原文—————
+Okay, I'll go look for your Element. Any 
+idea where it might be?
+—————译文—————
+好，我去找你的元素。
+你有什么线索吗？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027BF10
+文本地址：0025EBAB
+—————原文—————
+Some Thieves stole it and ran down that p
+ath to the south. Follow the sparkling t
+rail along the path, and it should lead 
+to the Element.
+—————译文—————
+几个小偷偷了它，从南边
+的路跑了。
+沿着那条路上闪光的痕迹
+就能找到元素。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027BF28
+文本地址：0025EE6E
+—————原文—————
+The [FD]Element[FD]! You found it! Thank you, h
+uman. I have added the recipe for the [FD]A
+nimate Potion[FD] in your journal as a toke
+n of my thanks.
+—————译文—————
+是[FD]元素[FD]！你找到
+它了！谢谢你，凡人。
+作为回报，我将[FD]活化药剂[FD]
+的配方加入了你的日志。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027BF40
+文本地址：0025F143
+—————原文—————
+I can tell you no more. You must return m
+y Element!
+—————译文—————
+我说得够多了。你必须把
+我的元素还给我！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027BF58
+文本地址：0025F272
+—————原文—————
+Thank you for returning the Element. NOW 
+BEGONE!
+—————译文—————
+感谢你归还了元素。
+现在滚吧！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027BF70
+文本地址：0025F383
+—————原文—————
+Check it out, Bufo. Another Ruinstone!
+—————译文—————
+快来看，巴弗。
+又一块遗迹石！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027BF88
+文本地址：0025F45B
+—————原文—————
+STATE YOUR BUSINESS HERE, HUMAN!!!
+—————译文—————
+说明你的来意！凡人！！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027BFA0
+文本地址：0025F4F8
+—————原文—————
+Ow! What is it with Ruinstones and yellin
+g?
+—————译文—————
+呀！这遗迹石是怎么了？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027BFB8
+文本地址：0025F606
+—————原文—————
+ARE YOU THE ONE WHO TOOK MY ELEMENT? ANSW
+ER ME, OR FACE THE POWER OF THE RUINSTON
+E OF THE VILLAGE!
+—————译文—————
+是不是你偷了我的元素？
+快回答，不然就来尝尝村
+庄遗迹石的力量吧！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027BFD0
+文本地址：0025F834
+—————原文—————
+Your Element is missing too? No, I didn't
+ take it, but I'll find it for you, as l
+ong as you can help me in exchange.
+—————译文—————
+你的元素也丢了吗？
+不是我拿的，但我能为你
+找回来，作为回报你也要
+帮我。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027BFE8
+文本地址：0025FA9A
+—————原文—————
+...That would be acceptable. If you retur
+n the Element, I will teach you how to b
+rew [FD]Unlock Potions[FD].
+—————译文—————
+……成交。
+要是你找回元素，我就教
+你如何制作[FD]开锁药剂[FD]。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C000
+文本地址：0025FCAF
+—————原文—————
+Yeah, I'll track it down. Do you know who
+ took it?
+—————译文—————
+好耶，我这就去找。
+你知道是谁偷了吗？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C018
+文本地址：0025FDA5
+—————原文—————
+Yes, I think one of the people of this vi
+llage stole it. He's probably hiding it 
+in his house.
+—————译文—————
+嗯，我觉得是这村子里某
+个人偷的。
+大概藏在自己家里了。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C030
+文本地址：0025FF87
+—————原文—————
+Ah! You have returned my Element! Well th
+en, I shall give you your reward. The re
+cipe for an Unlock Potion has been added
+ to your journal.
+—————译文—————
+啊！你找回了我的元素！
+好了，我该兑现承诺了。
+开锁药剂的配方已经加入
+到你的日志里了。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C048
+文本地址：0026025B
+—————原文—————
+Juka, you can use an [FD]Unlock Potion[FD] to o
+pen the door leading south.
+—————译文—————
+朱卡，你可以用[FD]开锁药剂[FD]
+打开通往南方的门。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C060
+文本地址：002603DA
+—————原文—————
+Why do you return without the Element?
+—————译文—————
+你怎么没带着元素回来？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C078
+文本地址：0026049C
+—————原文—————
+I have no further business with you, huma
+n...
+—————译文—————
+咱们两清了，凡人……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C090
+文本地址：0026058D
+—————原文—————
+Boo hoooo.....
+—————译文—————
+呜呜呜……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C0A8
+文本地址：002605D1
+—————原文—————
+Hello?
+—————译文—————
+你好？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C0C0
+文本地址：002605F8
+—————原文—————
+SOB!
+—————译文—————
+（抽泣声）
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C0D8
+文本地址：0026061B
+—————原文—————
+A crying rock. That's pretty weird.
+—————译文—————
+一块哭泣的石头。
+太怪了。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C0F0
+文本地址：002606E9
+—————原文—————
+What's the matter?
+—————译文—————
+怎么啦？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C108
+文本地址：0026073F
+—————原文—————
+I'm the...Ruinstone of the Forest Pool...
+sniff... My element. It's GONE!
+—————译文—————
+我是……是森林水塘遗迹
+石……（抽泣声）。
+我的元素，不见了！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C120
+文本地址：002608EA
+—————原文—————
+It's ok... I'll find it and bring it back
+ for you. Do you know where it went?
+—————译文—————
+好啦……我会找到它给你
+带回来的。
+你知道它丢在哪里吗？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C138
+文本地址：00260A5A
+—————原文—————
+Sniff...I don't know... Maybe up that Hid
+den path...If you could find it, I would
+ teach you how to make a [FD]Flash Potion[FD].
+
+—————译文—————
+（抽泣声）……我不知道
+……也许在那条密道上。
+要是你找到它，我可以教
+你制作[FD]闪光药剂[FD]。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C150
+文本地址：00260CFF
+—————原文—————
+My Element! Thank you so much! Now I will
+ fulfill my end of the bargain. You will
+ find a new recipe in your journal. I wi
+ll also clean a path for you.
+—————译文—————
+我的元素！太感谢了！现
+在我要兑现承诺了，你会
+在日志里找到新的配方。
+我还将为你开出一条路。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C168
+文本地址：00261004
+—————原文—————
+Boo hoo... did you find it yet?
+—————译文—————
+呜呜呜……
+你找到它了吗？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C180
+文本地址：002610AA
+—————原文—————
+Thank you for returning my Element!
+—————译文—————
+感谢你归还了我的元素！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C198
+文本地址：00261174
+—————原文—————
+OH, WHERE HAVE YOU GONE...?
+—————译文—————
+噢，你到哪去了？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C1B0
+文本地址：002611E9
+—————原文—————
+OK, this is the weirdest one you've seen 
+yet...
+—————译文—————
+好吧，这个是你见过的最
+奇怪的一个……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C1C8
+文本地址：002612F8
+—————原文—————
+WHY HAVE YOU COME BEFORE THE MIGHTY RUINS
+TONE OF THE HIGH VALLEY?
+—————译文—————
+尔等为何现身于强力的高
+山谷遗迹石面前？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C1E0
+文本地址：0026144E
+—————原文—————
+Hmph. He's Juka, mighty Element retriever
+...
+—————译文—————
+额，他是朱卡，强力的元
+素夺还者……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C1F8
+文本地址：00261548
+—————原文—————
+Uh, well, mighty Ruinstone, I can retriev
+e your lost Element for you.
+—————译文—————
+是这样，强力遗迹石，我
+能为你把丢失的元素找回
+来。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C210
+文本地址：002616D1
+—————原文—————
+Hmmm... Very perceptive for a human. That
+ would make things easier... Very well. 
+I guess I'll just wait here, then. The l
+ower path leads to the Element. The uppe
+r path leads deeper into the Cliffs.
+—————译文—————
+嗯……异乎常人的敏锐感
+知。
+那就简单了……很好。
+我猜我只需等在这里。那
+么，较低的路通往元素。
+高些的通往悬崖深处。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C228
+文本地址：00261AD0
+—————原文—————
+It's a giant rock. Does it really have a 
+choice?
+—————译文—————
+是块巨石。还有得选吗？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C240
+文本地址：00261BCE
+—————原文—————
+Uh, I think I'd better be going now...
+—————译文—————
+额，我想现在我
+该走了……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C258
+文本地址：00261C9E
+—————原文—————
+You waste my time, returning without the 
+Element...
+—————译文—————
+你浪费了我的时间，没把
+元素带回来……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C270
+文本地址：00261DC2
+—————原文—————
+Ah, my Element! Thank you, kind human. As
+ promised, I will teach you to brew [FD]Sum
+mon Potions[FD]. I will remove the upper pa
+th barrier for you.
+—————译文—————
+啊，我的元素！
+谢谢你，好心人。如同我
+们说好的，我会教你制作
+[FD]召唤药剂[FD]。我会
+移走上层路上的栅栏。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C288
+文本地址：002620EC
+—————原文—————
+I have no more business with you, Human. 
+Leave me alone!
+—————译文—————
+我们之间的缘分已尽。
+走吧，凡人！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C2A0
+文本地址：0026220D
+—————原文—————
+FOOLISH HUMAN... WHY HAVE YOU COME HERE?
+—————译文—————
+愚蠢的凡人……
+来此作甚？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C2B8
+文本地址：002622E1
+—————原文—————
+I'm on a journey, and were hoping that yo
+u might be able to help us.
+—————译文—————
+我在旅行，希望你能帮帮
+我们。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C2D0
+文本地址：00262422
+—————原文—————
+NOT LIKELY. THE RUINSTONE OF THE GREAT MO
+UNTAIN DOES NOT GIVE OUT ITS SECRETS TO 
+EVERYONE WHO WALKS BY, YOU KNOW...
+—————译文—————
+恐怕不能，大山遗迹石可
+不会和随便一个走过来的
+人分享他的秘密……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C2E8
+文本地址：0026265E
+—————原文—————
+There is something I could do for you. Yo
+u wouldn't be missing an Element, would 
+you?
+—————译文—————
+一定有什么我能为你做
+的。
+你该不会也丢了元素吧？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C300
+文本地址：00262806
+—————原文—————
+Hmmmmm. You are wiser than I thought. Ver
+y well, human. I will share my secret re
+cipe with you if you can return my Eleme
+nt. You should find it if you continue d
+own the south path.
+—————译文—————
+嗯嗯，你比我想象得要聪
+明。好吧，凡人。要是你
+能找回我的元素，我会和
+你分享我的秘密配方。
+往南边的路走下去应该能
+找到它。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C318
+文本地址：00262BBB
+—————原文—————
+Most impressive, human. You have returned
+ my Element to me, so I will add the rec
+ipe for a [FD]Drain Potion[FD] to your list. I
+ will also open the way before you.
+—————译文—————
+很不错啊，凡人。你找回
+了我的元素，所以我将把
+[FD]吸取药剂[FD]的配方加入你
+的日志。
+我还会打开你前方的路。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C330
+文本地址：00262EED
+—————原文—————
+Do not bother returning to me again witho
+ut the Element...
+—————译文—————
+还没找到元素就别再来烦
+我……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C348
+文本地址：00262FFB
+—————原文—————
+You have returned my Element. I have no f
+urther use for you.
+—————译文—————
+你找回了我的元素，我对
+你没用了。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C360
+文本地址：0026313E
+—————原文—————
+WHAT BUSINESS DO YOU HAVE WITH THE RUINST
+ONE OF THE GRANITE PILLARS, TINY ONE?
+—————译文—————
+你来找花岗岩柱遗迹石有
+什么事呢？小家伙。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C378
+文本地址：002632B0
+—————原文—————
+Umm... I'm here to ask you to share your 
+secrets with me.
+—————译文—————
+额……我是来请你和我分
+享你的秘密的。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C390
+文本地址：00263405
+—————原文—————
+AND WHY SHOULD I DO THAT? NO, I WILL NOT 
+HELP YOU UNLESS YOU CAN HELP ME.
+—————译文—————
+我为何要那么做？
+不，除非你帮了我，否则
+我是不会帮你的。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C3A8
+文本地址：002635A1
+—————原文—————
+You need me to retrieve your element, rig
+ht?
+—————译文—————
+你需要我帮你找回元素，
+对吗？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C3C0
+文本地址：002636A8
+—————原文—————
+....... YES. YES I DO. IN RETURN, I WILL 
+TEACH YOU TO BREW [FD]Slow Potions[FD].
+—————译文—————
+……没错，就是这样。
+作为报答，我会教你制作
+[FD]缓速药剂[FD]。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C3D8
+文本地址：00263851
+—————原文—————
+Okay. I'll bring your element back to you
+.
+—————译文—————
+好的。我会把元素给你带
+回来的。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C3F0
+文本地址：00263923
+—————原文—————
+It seems that I have underestimated you..
+. You are worthy of my secrets, and I ha
+ve added the recipe for a [FD]Slow Potion[FD] 
+to your journal.
+—————译文—————
+看来我低估你了……
+你配得上我的秘密，我把
+[FD]缓速药剂[FD]的配方加进你
+的日志里了。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C408
+文本地址：00263BE8
+—————原文—————
+Why do you bother me, human? You do not h
+ave the element.
+—————译文—————
+你为何打扰我？凡人。
+你没拿到元素。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C420
+文本地址：00263D04
+—————原文—————
+I thank you for returning my element. Now
+ away with you!
+—————译文—————
+感谢你找回了我的元素。
+现在你可以走了！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C438
+文本地址：00263E25
+—————原文—————
+HELLO, PUNY HUMAN...
+—————译文—————
+你好，小人儿……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C450
+文本地址：00263EA2
+—————原文—————
+Who're you callin' puny, moss-face...
+—————译文—————
+叫谁小人呢？苔藓脸……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C468
+文本地址：00263F81
+—————原文—————
+...WHAT IS YOUR BUSINESS WITH THE RUINSTO
+NE OF THE FROZEN HILL, INSECT?
+—————译文—————
+……找极寒丘陵遗迹石有
+什么事吗？蝼蚁……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C480
+文本地址：002640E9
+—————原文—————
+Would you share secrets of alchemy with u
+s, great Ruinstone, in exchange for a fa
+vor that I'll do for you?
+—————译文—————
+伟大的遗迹石，要是我能
+为你做些什么，你会和我
+们分享炼金术的秘密吗？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C498
+文本地址：0026430E
+—————原文—————
+Hmmmmm.. Well, I have lost my Element rec
+ently. I do not usually give out my secr
+ets, but I need it back.
+—————译文—————
+额……我刚弄丢了我的元
+素。虽然我从不轻易将秘
+密示人，不过我需要它。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C4B0
+文本地址：0026455E
+—————原文—————
+So, do we have a deal, then?
+—————译文—————
+就这么定了？然后呢？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C4C8
+文本地址：00264601
+—————原文—————
+...Very well, human. Return my element to
+ me, and I will teach you to brew the mi
+ghty [FD]Activation Potion[FD].
+—————译文—————
+很好，凡人。
+把元素还给我，我就教你
+制作[FD]激活药剂[FD]。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C4E0
+文本地址：00264827
+—————原文—————
+Ah, my Element! Well, I suppose I must no
+w teach you my secrets. I have added the
+ recipe for an [FD]Activation Potion[FD] to yo
+ur journal. This potion will allow to yo
+u reactivate many of the powerful machin
+es of my creators.
+—————译文—————
+啊，我的元素！好了，我
+猜我得教你我的秘方了，
+我把[FD]激活药剂[FD]的配方加进
+你的日志了。
+这种药剂能让你激活众多
+造物主的机器。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C4F8
+文本地址：00264C9D
+—————原文—————
+You have returned, yet you do not have my
+ Element...
+—————译文—————
+你回来了，却没带回我的
+元素……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C510
+文本地址：00264D8B
+—————原文—————
+...Why are you still here?
+—————译文—————
+……你怎么还在这？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C528
+文本地址：00264E14
+—————原文—————
+BRRRRRR..... SO COLD.....
+—————译文—————
+（瑟瑟发抖）……
+冷死了……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C540
+文本地址：00264EA7
+—————原文—————
+A rock complaining about the cold. That's
+ even weirder than a crying rock.
+—————译文—————
+一块石头在喊冷。比那个
+哭鼻子的石头还要怪。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C558
+文本地址：0026504F
+—————原文—————
+WHO ARE YOU? WHAT DO YOU WANT FROM THE RU
+INSTONE OF THE ICY PLAIN?
+—————译文—————
+你是谁？你想从冰冻平原
+遗迹石这里得到什么？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C570
+文本地址：002651A3
+—————原文—————
+Well, I'm Juka, and I've come in search o
+f the knowledge of the Ruinstones.
+—————译文—————
+我是朱卡，我来探寻遗迹
+石的知识。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C588
+文本地址：0026532F
+—————原文—————
+Silence! You won't be able to trick me in
+to giving up my secrets! You must perfor
+m a service for me in return.
+—————译文—————
+住口！你别想骗我说出我
+的秘密！你必须为我做点
+事作为报答。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C5A0
+文本地址：00265553
+—————原文—————
+I'm starting to think there might be a go
+od reason that rocks don't talk.
+—————译文—————
+我想我知道为什么石头不
+应该会说话了。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C5B8
+文本地址：002656E6
+—————原文—————
+You must seek out the Element that was ta
+ken from me and bring it back. Only then
+ will I share my secrets.
+—————译文—————
+你得把我丢掉的元素找回
+来。那样我才会分享我的
+秘密。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C5D0
+文本地址：002658F7
+—————原文—————
+Alright. I'll find it and bring it back t
+o you.
+—————译文—————
+好的，我会找到它给你带
+回来的。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C5E8
+文本地址：002659D8
+—————原文—————
+Well, you have impressed me! You have bro
+ught back my Element, against all odds. 
+In return, I have added the recipe for a
+ potion of great power to your journal. 
+With these [FD]Stop Time Potions[FD], you can 
+halt the flow of time itself. Now I will
+ open a path for you.
+—————译文—————
+好啊，真令人印象深刻！
+你尽你所能带回了我的元
+素。作为回报，我将一种
+强力药剂的配方加入了你
+的日志。你可以用这[FD]暂停
+药剂[FD]停止时间的流动。现
+在我将为你打开一条路。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C600
+文本地址：00265F0C
+—————原文—————
+Where is the Element? I will not be trick
+ed into giving you my secrets...
+—————译文—————
+元素呢？
+我可不是那么好骗的……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C618
+文本地址：0026607B
+—————原文—————
+You are an interesting human, but I do no
+t wish to deal with you anymore.
+—————译文—————
+你是个有趣的凡人，不过
+我不想再和你有任何瓜葛
+了。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C630
+文本地址：002661D7
+—————原文—————
+Juka I think that's the [FD]element[FD] you're 
+looking for.
+—————译文—————
+朱卡，我想那就是你在找
+的[FD]元素[FD]了。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C648
+文本地址：002662F2
+—————原文—————
+Juka that looks like the [FD]element[FD] you're
+ looking for.
+—————译文—————
+朱卡，看起来那就是你在
+找的[FD]元素[FD]。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C660
+文本地址：0026640D
+—————原文—————
+Hey Juka! You wanna play a minigame?
+—————译文—————
+嗨！朱卡，你想玩个小游
+戏吗？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C678
+文本地址：002664D6
+—————原文—————
+I dunno Dwayne... Can I win something?
+—————译文—————
+我不知道，德维恩……
+我能得到什么吗？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C690
+文本地址：002665B5
+—————原文—————
+Sure. I got this [FD]Maracataur[FD] for you if 
+you win...
+—————译文—————
+当然了，要是你能赢了我
+就给你这个[FD]尤克里里[FD]。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C6A8
+文本地址：002666C6
+—————原文—————
+② Yes. [FE]% No.
+—————译文—————
+
+—————结束—————
+待定
+—————备注—————
+
+
+指针地址：0027C6AC
+文本地址：002666D4
+—————原文—————
+② Oui.[FE]% Non.
+—————译文—————
+
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C6B0
+文本地址：002666E2
+—————原文—————
+② Sě. [FE]% No.
+—————译文—————
+
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C6B4
+文本地址：002666EF
+—————原文—————
+② Ja. [FE]% Nein.
+—————译文—————
+
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C6B8
+文本地址：002666FE
+—————原文—————
+② Si. [FE]% No.
+—————译文—————
+
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C6C0
+文本地址：0026670B
+—————原文—————
+Well, it's the truth, and I'll tell you w
+hat. If you play my game and win, I'll g
+ive you a very special [FD]Guitar[FD] in retur
+n.
+—————译文—————
+没错，就是这样。我告诉
+你吧，要是你玩我的游戏
+并且获胜，我就送你个非
+常特别的[FD]吉他[FD]作为回报。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C6D8
+文本地址：00266979
+—————原文—————
+Hmmm. Juka, it sounds like he's describin
+g a [FD]Maracataur[FD], an Earth Instrument th
+at can make Green Ingredients.
+—————译文—————
+朱卡，听起来他说的是[FD]尤
+克里里[FD]，一种能制造绿色
+配料的大地乐器。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C6F0
+文本地址：00266BCA
+—————原文—————
+② Sure. Why not?[FE]% Maybe next time.
+—————译文—————
+① 当然[FE]② 下次再说吧
+—————结束—————
+待定
+—————备注—————
+
+
+指针地址：0027C708
+文本地址：00266CAF
+—————原文—————
+There are [FD]8[FD] different levers in this ar
+ea. All you have to do is pull the lever
+s until you find the one that reveals th
+e symbol in the scroll at the bottom of 
+your screen, pick up the symbol, then go
+ on to the next one. If you can find the
+m all within the time limit, you win!
+—————译文—————
+这个区域有[FD]８[FD]个不同的拉
+杆。你要做的就是拉动这
+些拉杆直到屏幕下方的图
+标有符号显现为止，捡起
+符号再去下一个。要是你
+能全找到，你就赢了！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C720
+文本地址：00267258
+—————原文—————
+Looks like you win, little buddy. Here's 
+your reward.
+—————译文—————
+看来你赢了，小兄弟。
+这是你的奖品。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C738
+文本地址：0026738D
+—————原文—————
+Sorry, little buddy. Looks like you're ou
+t of time. Better luck next time.
+—————译文—————
+抱歉，小兄弟。看来你超
+时了。祝下次好运。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C750
+文本地址：00267546
+—————原文—————
+Hey Juka. You wanna play again?
+—————译文—————
+嗨，朱卡。
+想再玩一次吗？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C768
+文本地址：002675E8
+—————原文—————
+② Sure. Why not?[FE]% Maybe next time.
+—————译文—————
+① 当然[FE]② 下次再说吧
+—————结束—————
+待定
+—————备注—————
+
+
+指针地址：0027C780
+文本地址：002676CC
+—————原文—————
+Hi, there. I've got a game of chance goin
+g here, but you're gonna need to give me
+ [FD]2 Yeti Potions[FD] if you want to play.
+—————译文—————
+你好，我有个运气游戏，
+不过要是你想玩，你得给
+我[FD]２个雪人药剂[FD]。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C798
+文本地址：002678CD
+—————原文—————
+You need any instructions?
+—————译文—————
+需要说明吗？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C7B0
+文本地址：00267969
+—————原文—————
+② Yes. [FE]% No.
+—————译文—————
+① 需要[FE]② 不用
+—————结束—————
+待定
+—————备注—————
+
+
+指针地址：0027C7C8
+文本地址：002679AF
+—————原文—————
+Ready, GO!
+—————译文—————
+预备，开始！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C7E0
+文本地址：002679ED
+—————原文—————
+Well, you already got my [FD]Instrument[FD], so
+ I'll give you these potions instead, OK
+?
+—————译文—————
+你已经得到我的[FD]乐器[FD]了，
+所以我给你些药剂作为奖
+励怎么样？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C7F8
+文本地址：00267B78
+—————原文—————
+Well, hello there. Please, come and talk 
+with me. No need to be afraid.
+—————译文—————
+你好啊，这边请。
+别害怕，我们来谈谈吧。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C810
+文本地址：00267CC4
+—————原文—————
+Hey, another Yeti.
+—————译文—————
+嘿，又一个雪人。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C828
+文本地址：00267D20
+—————原文—————
+Yes, my name is Chloe. Have you seen a Ye
+ti before, little one?
+—————译文—————
+没错，我叫克罗伊。你之
+前见过雪人吗？小家伙。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C840
+文本地址：00267E63
+—————原文—————
+Um, yeah, I met Dwayne in the meadows...
+—————译文—————
+是啊，我在草原见过德维
+恩了……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C858
+文本地址：00267F4B
+—————原文—————
+Ah, it's good to hear he's doing well, be
+cause we have so much in common! I also 
+like games of chance. If you play, you c
+an win a beautiful [FD]Harp![FD]
+—————译文—————
+啊，能听到他的消息真不
+错，因为我们有很多共同
+点！
+我也喜欢运气游戏。你要
+是玩的话就有机会得到一
+个漂亮的[FD]竖琴[FD]！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C870
+文本地址：00268266
+—————原文—————
+I'll bet she's got another Earth Instrume
+nt, Juka... Sounds like a [FD]Water Harp[FD] t
+o me. They make [FD]Blue Ingredients[FD].
+—————译文—————
+朱卡，我敢肯定她有另一
+件大地乐器……
+应该是[FD]水之竖琴[FD]，能制造
+[FD]蓝色配料[FD]。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C888
+文本地址：002684C9
+—————原文—————
+② OK[FE]% No Thanks.
+—————译文—————
+① 好[FE]② 不，谢谢
+—————结束—————
+待定
+—————备注—————
+
+
+指针地址：0027C8A0
+文本地址：0026852F
+—————原文—————
+Great! OK, so all you have to do is swim 
+around this water track. Just watch out 
+for the Soldiers. You might want to try 
+[FD]diving[FD] to avoid them.
+—————译文—————
+好极了！其实你要做的不
+过是沿水路游下去。
+当心士兵，你可以[FD]潜水[FD]来
+躲避他们。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C8B8
+文本地址：0026882B
+—————原文—————
+If you collect a green stopwatch, you'll 
+gain 5 seconds, and if you hit a red one
+, you'll lose 5 seconds.
+—————译文—————
+如果你拿到绿跑表，你就
+能赢得５秒钟，碰到红色
+的，就会被扣掉５秒钟。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C8D0
+文本地址：00268A57
+—————原文—————
+Now, all you have to do is cross the fini
+sh line before time runs out, but watch 
+out for the [FD]Whirlpools[FD] too. Hit one of
+ those, and you'll have to start over.
+—————译文—————
+现在你要做的就是在限时
+之内通过终点线。
+注意那些[FD]涡流[FD]，一旦碰到
+你就得重新开始了。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C8E8
+文本地址：00268DC1
+—————原文—————
+Ready? Go!
+—————译文—————
+准备，开始！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C900
+文本地址：00268E01
+—————原文—————
+Ohhh, too bad little guy. You're just gon
+na have to try again, I guess.
+—————译文—————
+太糟了，小伙子。我想你
+得再来一次了。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C918
+文本地址：00268F45
+—————原文—————
+Hey, you did it! Here you go, you've earn
+ed it!
+—————译文—————
+嘿，你成功了！给你，这
+是你应得的！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C930
+文本地址：00269054
+—————原文—————
+Sorry little guy... I'm running a game he
+re, but you need to bring me [FD]4 Yeti Pot
+ions[FD] if you want to play.
+—————译文—————
+抱歉，小伙子……游戏是
+我开的，所以你得给我[FD]４
+个雪人药剂[FD]才能玩。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C948
+文本地址：00269269
+—————原文—————
+Hi Juka! I'll bet you came back to play m
+y game again, didn't you?
+—————译文—————
+嗨，朱卡！我想你一定是
+回来玩游戏的对吧？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C960
+文本地址：002693E4
+—————原文—————
+② Yep![FE]% Nope!
+—————译文—————
+① 好![FE]② 不了!
+—————结束—————
+待定
+—————备注—————
+
+
+指针地址：0027C978
+文本地址：0026942F
+—————原文—————
+You need any instructions?
+—————译文—————
+需要说明吗？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C990
+文本地址：002694C9
+—————原文—————
+② Yes. [FE]% No.
+—————译文—————
+① 需要[FE]② 不用
+—————结束—————
+待定
+—————备注—————
+
+
+指针地址：0027C9A8
+文本地址：0026950D
+—————原文—————
+Oh, let's see... What should you get for 
+winning this time? I guess I'll give you
+ these [FD]Potions[FD].
+—————译文—————
+我看看啊……这次要给你
+什么奖励呢？
+就这些[FD]药剂[FD]吧。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C9C0
+文本地址：00269707
+—————原文—————
+Hey, how's it going? Don't get too many v
+isitors out here.
+—————译文—————
+嘿，你还好吗？最近都没
+什么顾客呢。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C9D8
+文本地址：00269810
+—————原文—————
+A snow yeti, huh?
+—————译文—————
+一个雪人，哈？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027C9F0
+文本地址：0026988A
+—————原文—————
+Yup, that's me. My name's Rob, and it's n
+ice to meet someone who knows about Yeti
+s. You probably know that we love games,
+ right?
+—————译文—————
+没错，我叫罗布。能见到
+了解雪人的人实在是太好
+了。
+你肯定也知道我们爱玩游
+戏对不对？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027CA08
+文本地址：00269B52
+—————原文—————
+Yeah, I've heard that...
+—————译文—————
+嗯，有所耳闻……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027CA20
+文本地址：00269BC4
+—————原文—————
+Well, the game I came up with is great! Y
+ou can win a [FD]Rattle[FD], and you'll be hel
+ping me with my cooking.
+—————译文—————
+呵呵，我的游戏很棒的！
+你能赢得一个[FD]沙锤[FD]，还能
+帮我做饭。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027CA38
+文本地址：00269DD8
+—————原文—————
+Juka, I think this Yeti's got an [FD]Ocaratt
+le[FD], an Earth Instrument that makes [FD]Cop
+per Ingredients[FD].
+—————译文—————
+朱卡，我想这个雪人持有
+的是[FD]双头沙锤[FD]，一种能制
+造[FD]铜配料[FD]的大地乐
+器。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027CA50
+文本地址：00269FF9
+—————原文—————
+So, what do you say?
+—————译文—————
+那么，你要玩吗？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027CA68
+文本地址：0026A061
+—————原文—————
+② Sure thing.[FE]% No way, Jose.
+—————译文—————
+① 当然[FE]② 不用了
+—————结束—————
+待定
+—————备注—————
+
+
+指针地址：0027CA80
+文本地址：0026A0FC
+—————原文—————
+OK, now you see all those holes in the ic
+e? Fish jump through those, but they're 
+hard for me to catch. All you have to do
+ is catch me 10 fish before the time run
+s out. To catch one, just run up to it a
+nd push the [FD] A Button[FD]. Careful, though
+; the ice is slippery, and if they land 
+on it, they'll try to flop back into the
+ water.
+—————译文—————
+好的，你看到冰面上那些
+洞了吧？鱼会从那里跳出
+来，可我抓不住它们。
+你要在时限内为我抓１０
+条鱼。走过去按[FD]Ａ键[FD]抓
+鱼。冰面很滑，鱼落到上
+面会挣扎着跳回去。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027CA98
+文本地址：0026A79F
+—————原文—————
+...Aaannnnnd Go!
+—————译文—————
+预……备……开始！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027CAB0
+文本地址：0026A7F0
+—————原文—————
+That was pretty good. Here you go. You've
+ earned it!
+—————译文—————
+好极了。给你吧，这是你
+的奖品！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027CAC8
+文本地址：0026A8DF
+—————原文—————
+Sorry, but it looks like you lose. You ca
+n always try again, though.
+—————译文—————
+抱歉，看来你输了。
+不过你可以继续尝试。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027CAE0
+文本地址：0026AA61
+—————原文—————
+I'm sorry, but it costs [FD]6 Yeti Potions[FD] 
+to play my game.
+—————译文—————
+不好意思，玩这游戏需要
+支付[FD]６个雪人药剂[FD]。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027CAF8
+文本地址：0026ABA0
+—————原文—————
+Hey, there. Did you come back to play aga
+in?
+—————译文—————
+你好！
+你是回来玩游戏的吗？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027CB10
+文本地址：0026AC5F
+—————原文—————
+② You bet! [FE]% Not this time.
+—————译文—————
+① 当然! [FE]② 下次吧
+—————结束—————
+待定
+—————备注—————
+
+
+指针地址：0027CB28
+文本地址：0026AD1C
+—————原文—————
+You need any instructions?
+—————译文—————
+需要说明吗？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027CB40
+文本地址：0026ADB3
+—————原文—————
+② Yes. [FE]% No.
+—————译文—————
+① 需要 [FE]② 不用
+—————结束—————
+待定
+—————备注—————
+
+
+指针地址：0027CB58
+文本地址：0026ADF7
+—————原文—————
+You won again, huh? Well, I'll give you t
+hese [FD]Potions[FD] as a prize, then.
+—————译文—————
+你又赢了？哈，那就给你
+这些[FD]药剂[FD]作为奖励吧。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027CB70
+文本地址：0026AF71
+—————原文—————
+Hello?
+—————译文—————
+你好？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027CB88
+文本地址：0026AF9F
+—————原文—————
+Huh? Oh sorry, I kinda spaced out there..
+. Oh! A visitor! Welcome!
+—————译文—————
+啊？
+噢，抱歉，我有点走神了
+……
+呀！一位顾客！欢迎！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027CBA0
+文本地址：0026B106
+—————原文—————
+Hi. My name's Juka.
+—————译文—————
+嗨，我叫朱卡。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027CBB8
+文本地址：0026B17D
+—————原文—————
+Well, hello. I'm Buck. Say, Juka, you loo
+k like a risk-taker to me...
+—————译文—————
+嗯，你好。我是巴克。
+朱卡，我看你像个冒险家
+……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027CBD0
+文本地址：0026B2F9
+—————原文—————
+Oh, boy, here we go again...
+—————译文—————
+噢，小子，又来了……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027CBE8
+文本地址：0026B37F
+—————原文—————
+Well, ya see, there are four Elements sca
+ttered around in that room over there.
+—————译文—————
+是这样，有４个元素散落
+在那边的房间里。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027CC00
+文本地址：0026B4C5
+—————原文—————
+Let me guess. I gotta find 'em all to win
+, right?
+—————译文—————
+让我猜猜。
+我得把它们找齐对吧？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027CC18
+文本地址：0026B5FA
+—————原文—————
+You're a mind-reader, friend. If you can 
+bring me all 4 of 'em in 100 seconds, I'
+ll give ya some crazy-looking chimes in 
+return.
+—————译文—————
+朋友，莫非你会读心术？
+要是你能在１００秒内集
+齐它们带给我，我就送你
+个造型狂野的音叉！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027CC30
+文本地址：0026B87B
+—————原文—————
+Juka, those sound like [FD]Ice Chimes[FD]. You 
+could use 'em to make [FD]Cyan Ingredients[FD]
+.
+—————译文—————
+朱卡，他说的应该是[FD]寒霜
+音叉[FD]。你能用他们做出[FD]青
+色配料[FD]。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027CC48
+文本地址：0026BA51
+—————原文—————
+② Alright![FE]% Not this time.
+—————译文—————
+① 当然! [FE]② 下次吧
+—————结束—————
+待定
+—————备注—————
+
+
+指针地址：0027CC60
+文本地址：0026BAE1
+—————原文—————
+OK, there's a catch to this. If you want 
+the reward, you can't get hit. Not even 
+once. That's how my game works, you see.
+
+—————译文—————
+好，注意要点，要想获得
+奖励，你必须不被击中，
+哪怕是一次也不行。我的
+游戏就是这样。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027CC78
+文本地址：0026BD84
+—————原文—————
+Hey ya got em! Nice work, little guy. Oh,
+ here's your reward, by the way.
+—————译文—————
+你拿到它们了！
+干得好，小家伙。
+噢，这是你的奖品。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027CC90
+文本地址：0026BF07
+—————原文—————
+That's OK, little buddy. You can always t
+ry again.
+—————译文—————
+没事的，小兄弟。
+你可以多试几次。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027CCA8
+文本地址：0026C021
+—————原文—————
+Well, hi there. Did you come back to play
+ again? I can make it worth your while..
+. What do ya say?
+—————译文—————
+你好啊，你是回来玩游戏
+的吗？我这还有奖品呢，
+你要玩吗？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027CCC0
+文本地址：0026C1DB
+—————原文—————
+② Yeah. I'll go again.[FE]% Nah. I don't thi
+nk so.
+—————译文—————
+① 再来一次[FE]② 不，算了
+—————结束—————
+待定
+—————备注—————
+
+
+指针地址：0027CCD8
+文本地址：0026C2C3
+—————原文—————
+Huh? You wanna play my game? Sorry, you n
+eed um... [FD]8 Yeti Potions[FD] to play.
+—————译文—————
+啊？你要玩我的游戏吗？
+抱歉，你得给我[FD]８个雪人
+药剂[FD]才行。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027CCF0
+文本地址：0026C489
+—————原文—————
+You need any instructions?
+—————译文—————
+需要说明吗？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027CD08
+文本地址：0026C520
+—————原文—————
+② Yes. [FE]% No.
+—————译文—————
+① 需要 [FE]② 不用
+—————结束—————
+待定
+—————备注—————
+
+
+指针地址：0027CD20
+文本地址：0026C564
+—————原文—————
+Ready? GO!
+—————译文—————
+准备，开始！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027CD38
+文本地址：0026C5A3
+—————原文—————
+Uhhhh... Well, I don't have anything as c
+ool as those Chimes, but I'll give you t
+hese [FD]Potions[FD] instead.
+—————译文—————
+额……我没有像音叉那么
+酷的东西了，不过我可以
+给你些药剂。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027CD50
+文本地址：0026C7A7
+—————原文—————
+Huh? A visitor?
+—————译文—————
+啊？有顾客了？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027CD68
+文本地址：0026C805
+—————原文—————
+Ummm... Yeah. My name's Juka.
+—————译文—————
+额……是啊，我叫朱卡。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027CD80
+文本地址：0026C890
+—————原文—————
+This is great! See, I came looking for a 
+secret treasure of great value to us Yet
+is. And I'm not gonna go home without it
+.
+—————译文—————
+太好了！我在寻找一种对
+我们雪人来说非常珍贵的
+秘宝。不找到绝不回家！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027CD98
+文本地址：0026CAFC
+—————原文—————
+So why don't you go and get it?
+—————译文—————
+那你怎么还不去找啊？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027CDB0
+文本地址：0026CBB6
+—————原文—————
+I wish it was that simple, but the entran
+ce to the treasure room is too small. I'
+ve been trying to figure out a way in, b
+ut I guess I don't need to anymore...
+—————译文—————
+要有那么简单就好了，通
+往藏宝室的入口太小，我
+正琢磨该怎么进去呢，你
+就来了……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027CDC8
+文本地址：0026CEFF
+—————原文—————
+Uh... what do you mean?
+—————译文—————
+额……你想说啥？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027CDE0
+文本地址：0026CF77
+—————原文—————
+Well, you're small enough to get in there
+. If you retrieve the treasure, I'll giv
+e you a rare [FD]Flute[FD] in return. What do 
+you say?
+—————译文—————
+咳咳，你的小身板能钻进
+那里，要是你带回财宝，
+我就给你个稀有的[FD]长笛[FD]作
+为报酬。你怎么说？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027CDF8
+文本地址：0026D1F0
+—————原文—————
+Hey, Juka. I think he's taking about the 
+[FD]Ruinsflute[FD], the last of the Earth Inst
+ruments that Miss Windsong told you abou
+t.
+—————译文—————
+嘿，朱卡。我想他说的是
+[FD]远古长笛[FD]。风歌女士提到
+过的最后一件大地乐器。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027CE10
+文本地址：0026D491
+—————原文—————
+② Yeah, OK.[FE]% Ummmm... No.
+—————译文—————
+① 好的 [FE]② 嗯，不了
+—————结束—————
+待定
+—————备注—————
+
+
+指针地址：0027CE28
+文本地址：0026D520
+—————原文—————
+I can only hold the door open for a littl
+e while. If you don't finish by then, yo
+u won't be able to get the treasure out.
+ So, what you have to do is drag it all 
+the way back here and put it on the carp
+et before time runs out. Watch out for t
+he defense systems, and whatever you do,
+ don't drag the treasure chest over any 
+[FD]holes[FD], or it'll fall in.
+—————译文—————
+我只能顶住门一小会儿，
+要是你在这期间干不完，
+财宝可就带不出来了，所
+以你得在时间用完之前拖
+着它一路往回拽并放到毯
+子上。
+当心防御系统，还有，别
+把宝箱拖到[FD]洞[FD]上，会掉下
+去的。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027CE40
+文本地址：0026DBF2
+—————原文—————
+The [FD]conveyers[FD] down there will move the 
+treasure along on its own too, by the wa
+y. It can even go through those small ho
+les in the wall, even though you can't. 
+Try to use them to your advantage.
+—————译文—————
+那下面的[FD]传送带[FD]也会把财
+宝往回运，它甚至能穿过
+墙上的小洞，而你不能。
+尽量利用这一点吧。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027CE58
+文本地址：0026DFB4
+—————原文—————
+OK, go now!
+—————译文—————
+好了，上吧！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027CE70
+文本地址：0026DFF9
+—————原文—————
+Wow, you did it! The treasure... Just wai
+t until my brother Dwayne sees this. He'
+s gonna be really jealous. Oh, here's yo
+ur prize, by the way.
+—————译文—————
+哇哦，你成功了！好宝贝
+……等不及让我兄弟德维
+恩看看了。
+他一定会羡慕死。噢，这
+是你的奖品。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027CE88
+文本地址：0026E29D
+—————原文—————
+Uh-oh... No way we're gonna get the treas
+ure now...
+—————译文—————
+啊哦……这下咱拿不到这
+宝贝了……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027CEA0
+文本地址：0026E3A8
+—————原文—————
+I'm gonna need [FD]10 Yeti Potions[FD] from you
+ if you wanna try for it. I gotta keep m
+y strength up to hold that door.
+—————译文—————
+要是你想试试的话，请给
+我[FD]１０个雪人药剂[FD]。我
+得在顶门时保持体力。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027CEB8
+文本地址：0026E5EC
+—————原文—————
+Hey, you're back! Wanna see if there's an
+ything else down there?
+—————译文—————
+嘿，你回来啦！是不是想
+看看那下面还有没有别的
+东西？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027CED0
+文本地址：0026E740
+—————原文—————
+② Yeah, OK.[FE]% Ummmm... No.
+—————译文—————
+① 好的 [FE]② 嗯，不了
+—————结束—————
+待定
+—————备注—————
+
+
+指针地址：0027CEE8
+文本地址：0026E7C6
+—————原文—————
+You need any instructions?
+—————译文—————
+需要说明吗？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027CF00
+文本地址：0026E860
+—————原文—————
+② Yes. [FE]% No.
+—————译文—————
+① 需要 [FE]② 不用
+—————结束—————
+待定
+—————备注—————
+
+
+指针地址：0027CF18
+文本地址：0026E8A3
+—————原文—————
+Hey, you found another chest down there, 
+huh? Looks like this one's got a bunch o
+f [FD]Potions[FD] inside. You can have those.
+—————译文—————
+你在那又找到个箱子吗？
+看来里面装了一堆[FD]药剂[FD]。
+都给你吧
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027CF30
+文本地址：0026EAF7
+—————原文—————
+Juka... When you combined that [FD]Ruinsflut
+e[FD] with the other five intruments, somet
+hing strange happened...
+—————译文—————
+朱卡……在你把[FD]远古长笛[FD]
+和其他五件乐器组合时，
+发生了一些奇怪的事……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027CF48
+文本地址：0026ED33
+—————原文—————
+What is it Bufo? What happened?
+—————译文—————
+是什么？！巴弗。
+发生什么了？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027CF60
+文本地址：0026EDDA
+—————原文—————
+It did something to your mixer, kid... Th
+e sound field from the ingredients charg
+ed it somehow. It seems to be working at
+ double strength!
+—————译文—————
+它对你的混合器产生了某
+种影响……来自配料的音
+场使之充能了。
+现在看起来它有双倍的效
+力了！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027CF78
+文本地址：0026F089
+—————原文—————
+Which means...
+—————译文—————
+也就是说……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027CF90
+文本地址：0026F0ED
+—————原文—————
+Juka, whenever you make a potion, it'll m
+ake [FD]TWO[FD] instead!
+—————译文—————
+每当你进行合成，都会产
+生[FD]双份[FD]的药剂！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027CFA8
+文本地址：0026F22F
+—————原文—————
+Good thinking Juka... These barriers resp
+ond to [FD]Sound Energy[FD], so playing that [FD]
+Earth Instrument[FD] near them will make th
+em dissolve.
+—————译文—————
+好主意……朱卡。
+这些栅栏对[FD]声能[FD]有反应，
+所以应该靠近它们奏响[FD]大
+地乐器[FD]使之消解。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027CFC0
+文本地址：0026F502
+—————原文—————
+Juka, this barrier seems to be a field of
+ [FD]Sound Energy[FD]. In order to cancel it o
+ut, you're gonna have to find something 
+that'll produce the same kind of energy.
+
+—————译文—————
+朱卡，这栅栏似乎属于[FD]声
+能[FD]。想解除它你得找些能
+产生类似能量的东西。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027CFD8
+文本地址：0026F815
+—————原文—————
+Like what, Bufo?
+—————译文—————
+比如什么呢？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027CFF0
+文本地址：0026F874
+—————原文—————
+I dunno, kid... [FD]Miss Windsong[FD] would pro
+bably be able to help you figure it out.
+ I asked you to go over to her house any
+way, remember?
+—————译文—————
+我不知道，孩子……
+[FD]风歌女士[FD]没准能帮你搞清
+楚。
+我之前让你去她家拜访过
+的，记得吗？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027D008
+文本地址：0026FB39
+—————原文—————
+Well done, Juka. Each of these barriers s
+eems to respond to a different kind of s
+ound, so you need a different instrument
+ to cancel each one. I'll have to do som
+e tests...
+—————译文—————
+干得好，朱卡。
+这些栅栏看来对不同的声
+音有反应。
+即是说每个都需要对应的
+乐器来解除。
+我要去做些试验了……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027D020
+文本地址：0026FEFA
+—————原文—————
+Hmmmm... Juka, I'm analyzing this sound f
+ield, and it seems to have a different s
+ignature than the one you found earlier.
+ I think you need a different [FD]Instrumen
+t[FD] for it.
+—————译文—————
+嗯……朱卡，我在分析这
+个音场，看来它和你之前
+找到的那个有所不同。
+我认为你需要一件不同的
+[FD]乐器[FD]。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027D038
+文本地址：0027027E
+—————原文—————
+Any idea where I'd find another one?
+—————译文—————
+我该去哪找另一件呢？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027D050
+文本地址：00270353
+—————原文—————
+Well, [FD]Miss Windsong[FD] said she got hers f
+rom a Yeti, right? Maybe you should try 
+to find a Yeti.
+—————译文—————
+[FD]风歌女士[FD]说过她那件乐器
+是从雪人那买的对吧？
+或许你也该去寻找雪人。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027D068
+文本地址：00270573
+—————原文—————
+Okay, Juka... I think you're gonna need s
+ome kind of [FD]Water-Aligned Instrument[FD] f
+or...
+—————译文—————
+好的，朱卡……
+我认为你需要某种[FD]水属性
+的乐器[FD]来……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027D080
+文本地址：0027071B
+—————原文—————
+I already opened the barrier, Bufo...
+—————译文—————
+我已经打开栅栏了，巴弗
+……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027D098
+文本地址：002707DC
+—————原文—————
+Well. Looks like he didn't need my help a
+fter all, Bufo.
+—————译文—————
+好吧，看来他终于不需要
+我帮忙了，巴弗。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027D0B0
+文本地址：0027090D
+—————原文—————
+Miss Windsong? Is that you?
+—————译文—————
+风歌女士？是你吗？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027D0C8
+文本地址：0027099D
+—————原文—————
+Yes. Bufo asked me to help him figure out
+ how the [FD]Earth Instruments[FD] are used to
+ open these Barriers.
+—————译文—————
+是的，巴弗让我帮他搞清
+楚如何将[FD]大地乐器[FD]用于解
+除这些栅栏。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027D0E0
+文本地址：00270BDA
+—————原文—————
+Another Sound Energy Barrier, huh? Doesn'
+t look like it's responding to any of th
+e instruments you've got, Juka...
+—————译文—————
+又一个声能栅栏？看来它
+对你持有的乐器都没反应
+啊，朱卡……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027D0F8
+文本地址：00270DFD
+—————原文—————
+Must need another kind of energy, huh Buf
+o?
+—————译文—————
+肯定需要另一种能量，对
+吗，巴弗？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027D110
+文本地址：00270EFC
+—————原文—————
+Guess you didn't need any help with that 
+one, huh kid?
+—————译文—————
+我猜对付那东西你不需要
+任何帮助了，对吧孩子？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027D128
+文本地址：00271032
+—————原文—————
+No, Bufo. Just gotta figure out which ins
+trument I need to get past each barrier.
+
+—————译文—————
+不，巴弗。我得搞清楚每
+种栅栏对应的乐器。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027D140
+文本地址：00271205
+—————原文—————
+Looks as though this barrier's not respon
+ding to any of my instruments.
+—————译文—————
+看来这个栅栏对我所有的
+乐器都没反应。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027D158
+文本地址：0027136D
+—————原文—————
+Yes, Juka. You'd better backtrack and see
+ if you can find a [FD]Yeti[FD].
+—————译文—————
+是啊，朱卡。你最好回去
+看看能否找到[FD]雪人[FD]。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027D170
+文本地址：002714BB
+—————原文—————
+Fantastic. I think my toes are gonna fall
+ off soon.
+—————译文—————
+那真是太好了……
+我想一会我的脚趾都会掉
+下来。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027D188
+文本地址：002715D5
+—————原文—————
+How do you always seem to know which inst
+rument can open the [FD]Barriers[FD], anyway?
+—————译文—————
+为何你看起来总是知道哪
+个乐器是用来打开哪种[FD]障
+碍[FD]的呢？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027D1A0
+文本地址：00271788
+—————原文—————
+I dunno, Bufo. They always seem to respon
+d to an instrument that's not too far aw
+ay from them.
+—————译文—————
+我不知道，巴弗。
+它们总是会对不远处的乐
+器发生反应。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027D1B8
+文本地址：0027196A
+—————原文—————
+Hmmmm. I'm gonna have to consider that wh
+en I do more tests... Wish Miss Windsong
+ could've stuck around. I could use her 
+help with this...
+—————译文—————
+嗯……当我再做试验时必
+须考虑到这一点。希望风
+歌女士就在附近。
+对这个她能帮得上忙……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027D1D0
+文本地址：00271C56
+—————原文—————
+This barrier has a slight chill coming of
+f of it, Bufo.
+—————译文—————
+巴弗，这个栅栏散发着淡
+淡的寒意。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027D1E8
+文本地址：00271D72
+—————原文—————
+Interesting... You might need some kind o
+f [FD]Cold-Aligned sound energy[FD] to open th
+is one.
+—————译文—————
+有趣……你大概需要某种
+[FD]寒属性声能[FD]来打开它。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027D200
+文本地址：00271F56
+—————原文—————
+Good job, Juka. This one was emitting a S
+ound Energy in the highest pitch range, 
+so it was probably the last of these bar
+riers.
+—————译文—————
+干得好，朱卡。这个栅栏
+正发出最高音域的声能，
+很可能是最后一个了。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027D218
+文本地址：002721EE
+—————原文—————
+That's good to hear, Bufo. It was pretty 
+strange to find one in the Menace's Cast
+le, though.
+—————译文—————
+真是个好消息，巴弗。尽
+管如此，在麦纳斯的城堡
+里能找到还是很奇怪。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027D230
+文本地址：002723D7
+—————原文—————
+Well, this is a little-used side entrance
+, after all Juka.
+—————译文—————
+好了，朱卡，这毕竟是个
+很少使用的侧门。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027D248
+文本地址：00272511
+—————原文—————
+No luck on this one, Bufo...
+—————译文—————
+这回不行了，巴弗……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027D260
+文本地址：002725B8
+—————原文—————
+Well, you know the drill, Juka. There mus
+t be a Yeti around nearby who you can wi
+n an instrument off of by playing some c
+razy game...
+—————译文—————
+好吧，朱卡。
+你知道是怎么回事的。
+这附近一定有个能让你玩
+些疯狂的游戏来获取一件
+乐器的雪人。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027D278
+文本地址：0027288D
+—————原文—————
+Juka, it looks like the way forward is lo
+cked by an Ancient security system! You'
+re gonna have to activate it if you wann
+a keep moving.
+—————译文—————
+朱卡，前面的路看来是被
+一种古老的安防系统锁住
+了！
+你要想继续前进就必须激
+活它。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027D290
+文本地址：00272B29
+—————原文—————
+How am I gonna do that, Bufo?
+—————译文—————
+我该怎么做呢？巴弗。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027D2A8
+文本地址：00272BBB
+—————原文—————
+Well, I think if you cover those [FD]Switche
+s[FD] with these [FD]Blocks[FD], you can restore 
+power to the room.
+—————译文—————
+我想要是你用这些[FD]砖块[FD]压
+在那些[FD]开关[FD]上，就能恢复
+这个房间的供电。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027D2C0
+文本地址：00272DE2
+—————原文—————
+Wait... I'm detecting [FD]Summoners[FD] over th
+ere. You might need to summon something 
+to move onto those switches.
+—————译文—————
+等下……
+我在那个方向检测到了
+[FD]召唤器[FD]。
+或许你需要召唤出什么东
+西来移动到那些开关上。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027D2D8
+文本地址：0027303E
+—————原文—————
+So that's all I have to do?
+—————译文—————
+只要那样做就行吗？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027D2F0
+文本地址：002730F6
+—————原文—————
+Hmmm...Once you've done that, there shoul
+d be power in the room. Then you're gonn
+a have to hit that [FD]Node[FD] over there wit
+h an [FD]Activation Potion[FD].
+—————译文—————
+嗯……
+一旦你完成了，房间就会
+来电。
+然后你需要用[FD]激活药剂[FD]击
+中那个[FD]节点[FD]。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027D308
+文本地址：002733BD
+—————原文—————
+That did it! Bufo, you're a genius!
+—————译文—————
+成功啦！巴弗。
+你真是个天才！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027D320
+文本地址：00273475
+—————原文—————
+Hey, just doing my job, Juka.
+—————译文—————
+嘿，朱卡。
+我只是做我该做的而已。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027D338
+文本地址：0027352A
+—————原文—————
+Something's wrong, Juka... Make sure all 
+the blocks are in the right spots and tr
+y again.
+—————译文—————
+有哪里不对，朱卡……
+确保所有的砖块在正确的
+位置，再试一次。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027D350
+文本地址：002736EA
+—————原文—————
+What the... Bufo, I can't use my Sound St
+aff!
+—————译文—————
+见鬼……巴弗，我的声之
+杖不能用了！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027D368
+文本地址：002737FB
+—————原文—————
+More bad news, Kid... Those turrets are u
+ntargetable, so your Sound Staff can't w
+ork. You're going to have to do without 
+it.
+—————译文—————
+还有更糟的，孩子……
+那些炮塔无法被锁定，所
+以你的声之杖才会失效。
+这次你不能依赖它了。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027D380
+文本地址：00273AE6
+—————原文—————
+This is it, Juka... the secret entrance i
+nto the Menace's Castle. You nervous, Ki
+d?
+—————译文—————
+就是这了，朱卡……
+麦纳斯城堡的秘密入口。
+你紧张吗？孩子。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027D398
+文本地址：00273C93
+—————原文—————
+Nah. What should I have to be nervous abo
+ut? Apparently, I've been training for t
+his all my life.
+—————译文—————
+没。有什么可紧张的？
+我长久以来的努力就是为
+了这一刻。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027D3B0
+文本地址：00273E70
+—————原文—————
+That's the spirit Juka! All the same, I'm
+ glad it's you out there and not me...
+—————译文—————
+好样的！朱卡！
+不过我还是很高兴站在那
+里的是你……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027D3C8
+文本地址：0027400A
+—————原文—————
+Hey, Juka, I recognise this place. I thin
+k there may be a [FD]RuinStone[FD] up ahead.
+—————译文—————
+嘿，朱卡。
+我认得这个地方。我觉得
+前面会有块[FD]遗迹石[FD]。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027D3E0
+文本地址：002741B5
+—————原文—————
+Juka, is that a [FD]RuinStone[FD] over that way
+?
+—————译文—————
+朱卡，那条路上是块
+[FD]遗迹石[FD]吗？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027D3F8
+文本地址：0027428D
+—————原文—————
+I've got an energy reading... I think the
+re's an [FD]Element[FD] in this room.
+—————译文—————
+我收到了能量反馈……
+我认为有个[FD]元素[FD]在这个房
+间里。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027D410
+文本地址：0027440F
+—————原文—————
+Hmmm... I'm picking up [FD]Ancient[FD] energy s
+ignatures... Must be an [FD]Element[FD] nearby
+.
+—————译文—————
+我探测到了[FD]远古[FD]能量信号
+……
+这附近一定有[FD]元素[FD]。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027D428
+文本地址：002745C3
+—————原文—————
+Hey, Juka! Check that out!
+—————译文—————
+嘿，朱卡！快看！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027D440
+文本地址：00274637
+—————原文—————
+Juka...[FE] I think there might be an [FD]Ingre
+dient Jar[FD] nearby...
+—————译文—————
+朱卡……
+我想附近肯定有个[FD]配料瓶[FD]
+……
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027D458
+文本地址：0027478C
+—————原文—————
+Ah, you must be the young Alchemist every
+one is talking about... [FE]Down this path 
+I think I saw an Alchemist's [FD]JAR[FD], I di
+d. But watch for Thieves!
+—————译文—————
+啊，你一定就是大家都在
+谈论的那个炼金师了……
+我确定在这条路上见过一
+个炼金师的[FD]瓶子[FD]。
+要当心小偷们！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027D470
+文本地址：00274AA4
+—————原文—————
+Juka, my boy! Just who I was hoping to se
+e!
+—————译文—————
+朱卡！孩子，我终于见到
+你了！
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027D488
+文本地址：00274BA0
+—————原文—————
+Hello Mr. Mayor. Do you need my help?
+—————译文—————
+你好，村长先生。你需要
+我帮忙吗？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027D4A0
+文本地址：00274C7A
+—————原文—————
+Yes, I do as a matter of fact. The gate l
+eading out of the Village is magically l
+ocked! Can you unlock it?
+—————译文—————
+是啊，我确实需要。
+通往村外的大门被魔法锁
+住了！你能解开它吗？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027D4B8
+文本地址：00274E95
+—————原文—————
+Sure thing Mr. Mayor! Just stand back.
+—————译文—————
+没问题，村长先生！
+请往后站站。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027D4D0
+文本地址：00274F73
+—————原文—————
+Hey Juka. This is the Snow. In here, you'
+ll find a bunch of areas like this one w
+here you can collect ingredients and bat
+tle enemies.
+—————译文—————
+嗨，朱卡。
+这就是雪原。在这你能找
+到大量可以收集配料并与
+敌人战斗的区域。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027D4E8
+文本地址：00275238
+—————原文—————
+OK, Bufo. Sounds like you got a real chal
+lenge for me this time.
+—————译文—————
+好的，巴弗。听起来你这
+次给我准备了一个真正的
+挑战啊。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027D500
+文本地址：0027538F
+—————原文—————
+Doesn't look like you had much trouble wi
+th that. Back to the menu for you.
+—————译文—————
+没有你想的那么麻烦。
+对你来说都是日常任务而
+已。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027D518
+文本地址：002754E5
+—————原文—————
+Hey, Juka. This is the Castle. In this ro
+om, you'll face a bunch of advanced Mena
+ce Machines. You should try out differen
+t potions against them.
+—————译文—————
+嗨，朱卡。这就是城堡。
+在这个房间里你要面对高
+级的麦纳斯机器。
+你应该尝试使用不同的药
+剂。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027D530
+文本地址：002757DF
+—————原文—————
+OK, Bufo. What should I try first?
+—————译文—————
+好的，巴弗。
+我该先试哪一个？
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027D548
+文本地址：002758BD
+—————原文—————
+See that [FD]Clusterblaster[FD] there? Try usin
+g a [FD]Flash Potion[FD] and you'll have an ea
+sier time with them.
+—————译文—————
+看到那里的[FD]音爆机[FD]了吗？
+用个[FD]闪光药剂[FD]试试会有奇
+效。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027D560
+文本地址：00275AA8
+—————原文—————
+Alright I'll give that a try.
+—————译文—————
+好，我试试去。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027D578
+文本地址：00275B1F
+—————原文—————
+That was easy, Bufo. I hope you've got mo
+re challenging stuff for me.
+—————译文—————
+很简单嘛，巴弗。
+我希望你还准备了更多的
+挑战。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027D590
+文本地址：00275C8A
+—————原文—————
+OK, Juka. You're about to play a Minigame
+, so I'll hand things over to Dwayne the
+ Yeti to give you instructions.
+—————译文—————
+好的，朱卡。你该玩个小
+游戏了，那么，就交给雪
+人德维恩来做说明吧。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027D5A8
+文本地址：00275ECE
+—————原文—————
+Looks like you win, Juka. I hope ya had f
+un.
+—————译文—————
+看来你赢了，朱卡。
+希望你玩得高兴。
+—————结束—————
+
+—————备注—————
+
+
+指针地址：0027D5C0
+文本地址：00275FF9
+—————原文—————
+OK, Juka, now you have to choose from the
+ three items in the following menu. Each
+ of these is a preview of what is found 
+later in the game.
+—————译文—————
+朱卡，现在你必须在随后
+的三样装备中做出选择。
+每一个都是之后会在游戏
+中找到的装备的预览。
+—————结束—————
+
+—————备注—————
